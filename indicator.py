@@ -119,19 +119,19 @@ def Update(w, ind):
   Menu()
 
 def Parse(w, ind):
-  # f = open('feeds/feeds.txt','r')
-  # feed_urls_list = f.read().split('\n')
-  # f.close()
-  # ind.set_status(appindicator.IndicatorStatus.ATTENTION)
-  # os.system('notify-send -i internet-news-reader "RSS" "Fetching news..."')
-  # for i in range(len(feed_urls_list)):
-  #   feed = feedparser.parse(feed_urls_list[i])
-  #   f = open("feeds/feed"+str(i)+".p","w")
-  #   pickle.dump(feed,f)
-  #   f.close()
-  #   feed.clear()
-  # feed.clear()
-  # Update(w, ind)
+  f = open('feeds/feeds.txt','r')
+  feed_urls_list = f.read().split('\n')
+  f.close()
+  ind.set_status(appindicator.IndicatorStatus.ATTENTION)
+  os.system('notify-send -i internet-news-reader "RSS" "Fetching news..."')
+  for i in range(len(feed_urls_list)):
+    feed = feedparser.parse(feed_urls_list[i])
+    f = open("feeds/feed"+str(i)+".p","w")
+    pickle.dump(feed,f)
+    f.close()
+    feed.clear()
+  feed.clear()
+  Update(w, ind)
   print GetLastTime()
 
 def SetLastTime():
