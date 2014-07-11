@@ -31,3 +31,9 @@ python indicator.py
 ```
 
 To customize the rss sources, edit the *feeds/feeds.txt*
+
+##What's next?
+The next step in this project would be to implement smarter fetching, i.e. hide already read items from the list. Or do not store them altogether.
+If you have a spare time to contribute, please do.
+
+I'm also thinking about rewriting the structure of the source code (keep the functional bits). The current version is too linear and has very little freedom to expand already.
