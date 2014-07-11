@@ -1,5 +1,0 @@
-[Desktop Entry]
-Name=RSS
-Type=Application
-Exec=/usr/bin/python /home/lukas/Dev/indicator-rss.dev/indicator.py
-Icon=liferia
