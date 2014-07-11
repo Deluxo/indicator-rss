@@ -46,7 +46,6 @@ def ReadEntry(w, link, channel_menu, entry, title, item_number, feed_number):
 	feed.clear()
 	SetLastTime()
 
-
 def CheckForRead(feed):
 	pass
 

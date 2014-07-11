@@ -10,7 +10,6 @@ It uses feedparser to mangle with the feeds, and pickle to save them for later a
 
 ![Alt text](1.png?raw=true "ScreenShot")
 ![Alt text](2.png?raw=true "ScreenShot")
-![Alt text](3.png?raw=true "ScreenShot")
 ![Alt text](4.png?raw=true "ScreenShot")
 ---
 ###What you will need###
