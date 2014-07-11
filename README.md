@@ -1,5 +1,4 @@
-#RSS indicator for *Ubuntu Linux*
-##(and it's derivatives)
+#RSS indicator for *Ubuntu Linux* (and it's derivatives)
 
 ###What it does
 
@@ -31,3 +30,5 @@ To launch it, *cd* to app's root directory where indicator.py is located and:
 ```bash
 python indicator.py
 ```
+
+To customize the rss sources, edit the *feeds/feeds.txt*
