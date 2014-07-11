@@ -16,7 +16,7 @@ g3
 (dp6
 S'updated'
 p7
-VWed, 09 Jul 2014 12:04:15 PDT
+VThu, 10 Jul 2014 15:46:45 PDT
 p8
 sS'xhtml_meta'
 p9
@@ -40,12 +40,12 @@ struct_time
 p18
 ((I2014
 I7
-I9
-I19
-I4
-I15
-I2
-I190
+I10
+I22
+I46
+I45
+I3
+I191
 I0
 t(dtRp19
 sS'links'
@@ -214,16 +214,16 @@ sS'status'
 p93
 I200
 sg7
-S'Fri, 11 Jul 2014 00:22:46 GMT'
+S'Fri, 11 Jul 2014 10:11:02 GMT'
 p94
 sg17
 g18
 ((I2014
 I7
 I11
-I0
-I22
-I46
+I10
+I11
+I2
 I4
 I192
 I0
@@ -260,7 +260,7 @@ S'chunked'
 p110
 sS'expires'
 p111
-S'Fri, 11 Jul 2014 00:24:04 GMT'
+S'Fri, 11 Jul 2014 10:16:57 GMT'
 p112
 sS'server'
 p113
@@ -275,7 +275,7 @@ S'close'
 p117
 sS'etag'
 p118
-S'4n8tNtrw/e/mzJTc6L5R4wlW15U'
+S'2PN/ECmWe1Teg14M60qvFEKsWD4'
 p119
 sS'cache-control'
 p120
@@ -283,7 +283,7 @@ S'private, max-age=0'
 p121
 sS'date'
 p122
-S'Fri, 11 Jul 2014 00:24:04 GMT'
+S'Fri, 11 Jul 2014 10:16:57 GMT'
 p123
 sS'content-type'
 p124
@@ -291,7 +291,7 @@ S'text/xml; charset=UTF-8'
 p125
 ssS'etag'
 p126
-V4n8tNtrw/e/mzJTc6L5R4wlW15U
+V2PN/ECmWe1Teg14M60qvFEKsWD4
 p127
 sg23
 Vhttp://feeds.feedburner.com/d0od

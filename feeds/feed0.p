@@ -100,7 +100,7 @@ S'chunked'
 p43
 sS'set-cookie'
 p44
-S'__cfduid=ddf083dac33a5d5498977d073ebff13c51405038243372; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.ycombinator.com; HttpOnly'
+S'__cfduid=de40ba448b9674d74049cc3f2c99827ad1405073816799; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.ycombinator.com; HttpOnly'
 p45
 sS'strict-transport-security'
 p46
@@ -120,7 +120,7 @@ S'private, max-age=90'
 p53
 sS'date'
 p54
-S'Fri, 11 Jul 2014 00:24:04 GMT'
+S'Fri, 11 Jul 2014 10:16:57 GMT'
 p55
 sS'x-frame-options'
 p56
@@ -132,7 +132,7 @@ S'application/rss+xml; charset=utf-8'
 p59
 sS'cf-ray'
 p60
-S'1480db1d13bf01b2-FRA'
+S'14843f9af64301b2-FRA'
 p61
 ssS'version'
 p62
@@ -164,11 +164,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8015445">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8019231">Comments</a>
 p73
 stRp74
 sg29
-Vhttps://aws.amazon.com/zocalo/
+Vhttp://lkml.iu.edu/hypermail/linux/kernel/1407.1/02923.html
 p75
 sg19
 (lp76
@@ -184,7 +184,7 @@ sg25
 g26
 stRp78
 asg28
-VAmazon Zocalo
+VAMD HSA kernel driver
 p79
 sS'title_detail'
 p80
@@ -203,7 +203,7 @@ g79
 stRp83
 sS'comments'
 p84
-Vhttps://news.ycombinator.com/item?id=8015445
+Vhttps://news.ycombinator.com/item?id=8019231
 p85
 sS'summary'
 p86
@@ -226,11 +226,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8017490">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8019172">Comments</a>
 p92
 stRp93
 sg29
-Vhttps://blog.silentcircle.com/why-are-we-competing-with-phone-makers-skype-and-telecom-carriers-all-in-the-same-week/
+Vhttp://dave.cheney.net/2014/07/11/visualising-the-go-garbage-collector
 p94
 sg19
 (lp95
@@ -246,7 +246,7 @@ sg25
 g26
 stRp97
 asg28
-VSilent Circle Launches Global Encrypted Calling Plan
+VVisualising the Go garbage collector
 p98
 sS'title_detail'
 p99
@@ -265,7 +265,7 @@ g98
 stRp102
 sS'comments'
 p103
-Vhttps://news.ycombinator.com/item?id=8017490
+Vhttps://news.ycombinator.com/item?id=8019172
 p104
 sg86
 g92
@@ -287,11 +287,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8016201">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8019415">Comments</a>
 p110
 stRp111
 sg29
-Vhttp://arstechnica.com/gadgets/2014/07/how-one-kickstarter-project-squandered-3-5-million/
+Vhttps://github.com/bolshchikov/js-must-watch
 p112
 sg19
 (lp113
@@ -307,7 +307,7 @@ sg25
 g26
 stRp115
 asg28
-VKickstarter project spent $3.5M to finish a prototype and ended in disaster
+VJavaScript must watch videos
 p116
 sS'title_detail'
 p117
@@ -326,7 +326,7 @@ g116
 stRp120
 sS'comments'
 p121
-Vhttps://news.ycombinator.com/item?id=8016201
+Vhttps://news.ycombinator.com/item?id=8019415
 p122
 sg86
 g110
@@ -348,11 +348,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8016287">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8019346">Comments</a>
 p128
 stRp129
 sg29
-Vhttp://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html
+Vhttp://magcius.github.io/xplain/article/index.html
 p130
 sg19
 (lp131
@@ -368,7 +368,7 @@ sg25
 g26
 stRp133
 asg28
-VBeginner's guide to OCaml beginner's guides
+VXPlain \u2013 Explaining X11 for the rest of us
 p134
 sS'title_detail'
 p135
@@ -387,7 +387,7 @@ g134
 stRp138
 sS'comments'
 p139
-Vhttps://news.ycombinator.com/item?id=8016287
+Vhttps://news.ycombinator.com/item?id=8019346
 p140
 sg86
 g128
@@ -409,11 +409,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8016756">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8019394">Comments</a>
 p146
 stRp147
 sg29
-Vhttp://www.eurekalert.org/pub_releases/2014-01/uosc-sho010314.php
+Vhttps://github.com/harthur/brain
 p148
 sg19
 (lp149
@@ -429,7 +429,7 @@ sg25
 g26
 stRp151
 asg28
-VStudy: Half of black males, 40% of white males arrested by age 23
+VNeural networks in JavaScript
 p152
 sS'title_detail'
 p153
@@ -448,7 +448,7 @@ g152
 stRp156
 sS'comments'
 p157
-Vhttps://news.ycombinator.com/item?id=8016756
+Vhttps://news.ycombinator.com/item?id=8019394
 p158
 sg86
 g146
@@ -470,11 +470,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8017588">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8018602">Comments</a>
 p164
 stRp165
 sg29
-Vhttps://github.com/eobrain/funcgo
+Vhttp://arstechnica.com/tech-policy/2014/07/white-house-nixes-patent-office-pick-after-tech-sector-outcry/
 p166
 sg19
 (lp167
@@ -490,7 +490,7 @@ sg25
 g26
 stRp169
 asg28
-VFunctional Go Programming Language
+VWhite House nixes Patent Office pick after tech-sector outcry
 p170
 sS'title_detail'
 p171
@@ -509,7 +509,7 @@ g170
 stRp174
 sS'comments'
 p175
-Vhttps://news.ycombinator.com/item?id=8017588
+Vhttps://news.ycombinator.com/item?id=8018602
 p176
 sg86
 g164
@@ -531,11 +531,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8016307">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8019032">Comments</a>
 p182
 stRp183
 sg29
-Vhttp://breach.cc
+Vhttp://www.londonlua.org/scripting_nginx_with_lua/slides.html
 p184
 sg19
 (lp185
@@ -551,7 +551,7 @@ sg25
 g26
 stRp187
 asg28
-VShow HN: Breach \u2013 A modular browser built on Chromium and Node.js
+VScripting Nginx with Lua (2012)
 p188
 sS'title_detail'
 p189
@@ -570,7 +570,7 @@ g188
 stRp192
 sS'comments'
 p193
-Vhttps://news.ycombinator.com/item?id=8016307
+Vhttps://news.ycombinator.com/item?id=8019032
 p194
 sg86
 g182
@@ -592,11 +592,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8015354">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8018415">Comments</a>
 p200
 stRp201
 sg29
-Vhttps://data.sparkfun.com/
+Vhttp://www.thestranger.com/seattle/you-are-a-rogue-device/Content?oid=18143845
 p202
 sg19
 (lp203
@@ -612,7 +612,7 @@ sg25
 g26
 stRp205
 asg28
-VData.sparkfun.com: A place to push your data
+VYou Are a Rogue Device (2013)
 p206
 sS'title_detail'
 p207
@@ -631,7 +631,7 @@ g206
 stRp210
 sS'comments'
 p211
-Vhttps://news.ycombinator.com/item?id=8015354
+Vhttps://news.ycombinator.com/item?id=8018415
 p212
 sg86
 g200
@@ -653,11 +653,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8015932">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8015445">Comments</a>
 p218
 stRp219
 sg29
-Vhttps://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange#Description
+Vhttps://aws.amazon.com/zocalo/
 p220
 sg19
 (lp221
@@ -673,7 +673,7 @@ sg25
 g26
 stRp223
 asg28
-VDiffie-Hellman key exchange, explained using colors
+VAmazon Zocalo
 p224
 sS'title_detail'
 p225
@@ -692,7 +692,7 @@ g224
 stRp228
 sS'comments'
 p229
-Vhttps://news.ycombinator.com/item?id=8015932
+Vhttps://news.ycombinator.com/item?id=8015445
 p230
 sg86
 g218
@@ -714,11 +714,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8017825">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8018982">Comments</a>
 p236
 stRp237
 sg29
-Vhttp://sammaye.wordpress.com/2013/12/19/things-i-have-learnt-in-the-first-5-minutes-of-using-elastic-search/
+Vhttp://preshing.com/20140127/what-is-a-bitcoin-really/
 p238
 sg19
 (lp239
@@ -734,7 +734,7 @@ sg25
 g26
 stRp241
 asg28
-VThings learned using Elastic Search (2013)
+VWhat Is a Bitcoin, Really?
 p242
 sS'title_detail'
 p243
@@ -753,7 +753,7 @@ g242
 stRp246
 sS'comments'
 p247
-Vhttps://news.ycombinator.com/item?id=8017825
+Vhttps://news.ycombinator.com/item?id=8018982
 p248
 sg86
 g236
@@ -775,11 +775,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8018043">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8018928">Comments</a>
 p254
 stRp255
 sg29
-Vhttp://www.jobscore.com/jobs2/cruiseautomationinc
+Vhttp://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/
 p256
 sg19
 (lp257
@@ -795,7 +795,7 @@ sg25
 g26
 stRp259
 asg28
-VCruise (YC W14) is hiring robotics engineers
+VAn Alternative Look at Uber\u2019s Potential Market Size
 p260
 sS'title_detail'
 p261
@@ -814,7 +814,7 @@ g260
 stRp264
 sS'comments'
 p265
-Vhttps://news.ycombinator.com/item?id=8018043
+Vhttps://news.ycombinator.com/item?id=8018928
 p266
 sg86
 g254
@@ -836,11 +836,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8015566">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8018818">Comments</a>
 p272
 stRp273
 sg29
-Vhttp://blog.aereo.com/2014/07/path-forward/
+Vhttps://github.com/philipl/pifs
 p274
 sg19
 (lp275
@@ -856,7 +856,7 @@ sg25
 g26
 stRp277
 asg28
-VOur Path Forward
+VFile system that stores location of file in Pi
 p278
 sS'title_detail'
 p279
@@ -875,7 +875,7 @@ g278
 stRp282
 sS'comments'
 p283
-Vhttps://news.ycombinator.com/item?id=8015566
+Vhttps://news.ycombinator.com/item?id=8018818
 p284
 sg86
 g272
@@ -897,11 +897,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8016374">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8018985">Comments</a>
 p290
 stRp291
 sg29
-Vhttp://www.newyorker.com/online/blogs/elements/2014/07/the-rube-goldberg-of-rice.html
+Vhttp://www.cispaisback.org/?t=dXNlcmlkPTUyMjM4MjE3LGVtYWlsaWQ9ODgzNw==
 p292
 sg19
 (lp293
@@ -917,7 +917,7 @@ sg25
 g26
 stRp295
 asg28
-VThe Rube Goldberg of Rice
+VCISPA is back with a new name
 p296
 sS'title_detail'
 p297
@@ -936,7 +936,7 @@ g296
 stRp300
 sS'comments'
 p301
-Vhttps://news.ycombinator.com/item?id=8016374
+Vhttps://news.ycombinator.com/item?id=8018985
 p302
 sg86
 g290
@@ -958,11 +958,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8018130">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8019118">Comments</a>
 p308
 stRp309
 sg29
-Vhttps://news.ycombinator.com/item?id=8018130
+Vhttp://www.zompist.com/kit.html
 p310
 sg19
 (lp311
@@ -978,7 +978,7 @@ sg25
 g26
 stRp313
 asg28
-VHN. Let's share Twitter accounts
+VThe Language Construction Kit
 p314
 sS'title_detail'
 p315
@@ -997,7 +997,7 @@ g314
 stRp318
 sS'comments'
 p319
-Vhttps://news.ycombinator.com/item?id=8018130
+Vhttps://news.ycombinator.com/item?id=8019118
 p320
 sg86
 g308
@@ -1019,11 +1019,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8015994">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8016287">Comments</a>
 p326
 stRp327
 sg29
-Vhttp://www.forbes.com/sites/kerryadolan/2013/03/05/prince-alwaleed-and-the-curious-case-of-kingdom-holding-stock/
+Vhttp://blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html
 p328
 sg19
 (lp329
@@ -1039,7 +1039,7 @@ sg25
 g26
 stRp331
 asg28
-VPrince Alwaleed And The Curious Case Of Kingdom Holding Stock (2013)
+VBeginner's guide to OCaml beginner's guides
 p332
 sS'title_detail'
 p333
@@ -1058,7 +1058,7 @@ g332
 stRp336
 sS'comments'
 p337
-Vhttps://news.ycombinator.com/item?id=8015994
+Vhttps://news.ycombinator.com/item?id=8016287
 p338
 sg86
 g326
@@ -1080,11 +1080,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8015917">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8017490">Comments</a>
 p344
 stRp345
 sg29
-Vhttp://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup
+Vhttps://blog.silentcircle.com/why-are-we-competing-with-phone-makers-skype-and-telecom-carriers-all-in-the-same-week/
 p346
 sg19
 (lp347
@@ -1100,7 +1100,7 @@ sg25
 g26
 stRp349
 asg28
-VCustomer churn can kill your startup
+VSilent Circle Launches Global Encrypted Calling Plan
 p350
 sS'title_detail'
 p351
@@ -1119,7 +1119,7 @@ g350
 stRp354
 sS'comments'
 p355
-Vhttps://news.ycombinator.com/item?id=8015917
+Vhttps://news.ycombinator.com/item?id=8017490
 p356
 sg86
 g344
@@ -1141,11 +1141,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8017386">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8015354">Comments</a>
 p362
 stRp363
 sg29
-Vhttps://zapier.com/engineering/when-rest-gets-messy/
+Vhttps://data.sparkfun.com/
 p364
 sg19
 (lp365
@@ -1161,7 +1161,7 @@ sg25
 g26
 stRp367
 asg28
-VWhen REST Gets Messy
+VData.sparkfun.com: A place to push your data
 p368
 sS'title_detail'
 p369
@@ -1180,7 +1180,7 @@ g368
 stRp372
 sS'comments'
 p373
-Vhttps://news.ycombinator.com/item?id=8017386
+Vhttps://news.ycombinator.com/item?id=8015354
 p374
 sg86
 g362
@@ -1202,11 +1202,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8017506">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8018657">Comments</a>
 p380
 stRp381
 sg29
-Vhttps://github.com/blog/1862-introducing-a-simpler-faster-github-for-mac
+Vhttp://www.researchgate.net/publication/221278528_Convergence_in_Language_Design_A_Case_of_Lightning_Striking_Four_Times_in_the_Same_Place/file/3deec5278d108cb154.pdf
 p382
 sg19
 (lp383
@@ -1222,7 +1222,7 @@ sg25
 g26
 stRp385
 asg28
-VIntroducing a simpler, faster GitHub for Mac
+VConvergence in Language Design (2006) [pdf]
 p386
 sS'title_detail'
 p387
@@ -1241,7 +1241,7 @@ g386
 stRp390
 sS'comments'
 p391
-Vhttps://news.ycombinator.com/item?id=8017506
+Vhttps://news.ycombinator.com/item?id=8018657
 p392
 sg86
 g380
@@ -1263,11 +1263,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8015497">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8018339">Comments</a>
 p398
 stRp399
 sg29
-Vhttp://mobile.nytimes.com/blogs/dealbook/2014/07/10/new-venture-capital-fund-gives-entrepreneurs-a-cut-of-the-profit/?smid=tw-dealbook&seid=auto
+Vhttp://www.lunabase.org/~faber/Vault/software/grap/
 p400
 sg19
 (lp401
@@ -1283,7 +1283,7 @@ sg25
 g26
 stRp403
 asg28
-VNew Venture Capital Fund Gives Entrepreneurs a Cut of the Profit
+VGrap \u2013 A Language for Typesetting Graphs
 p404
 sS'title_detail'
 p405
@@ -1302,7 +1302,7 @@ g404
 stRp408
 sS'comments'
 p409
-Vhttps://news.ycombinator.com/item?id=8015497
+Vhttps://news.ycombinator.com/item?id=8018339
 p410
 sg86
 g398
@@ -1324,11 +1324,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8014778">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8015932">Comments</a>
 p416
 stRp417
 sg29
-Vhttp://googlecloudplatform.blogspot.com/2014/07/welcome-microsoft-redhat-ibm-docker-and-more-to-the-kubernetes-community.html
+Vhttps://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange#Description
 p418
 sg19
 (lp419
@@ -1344,7 +1344,7 @@ sg25
 g26
 stRp421
 asg28
-VMicrosoft, RedHat, IBM, Docker, Mesosphere, CoreOS and SaltStack join Kubernetes
+VDiffie-Hellman key exchange, explained using colors
 p422
 sS'title_detail'
 p423
@@ -1363,7 +1363,7 @@ g422
 stRp426
 sS'comments'
 p427
-Vhttps://news.ycombinator.com/item?id=8014778
+Vhttps://news.ycombinator.com/item?id=8015932
 p428
 sg86
 g416
@@ -1385,11 +1385,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8015241">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8017588">Comments</a>
 p434
 stRp435
 sg29
-Vhttp://m.trykeep.com
+Vhttps://github.com/eobrain/funcgo
 p436
 sg19
 (lp437
@@ -1405,7 +1405,7 @@ sg25
 g26
 stRp439
 asg28
-VShow HN: Keep, an app that helps you love how you spend every dollar
+VFunctional Go Programming Language
 p440
 sS'title_detail'
 p441
@@ -1424,7 +1424,7 @@ g440
 stRp444
 sS'comments'
 p445
-Vhttps://news.ycombinator.com/item?id=8015241
+Vhttps://news.ycombinator.com/item?id=8017588
 p446
 sg86
 g434
@@ -1446,11 +1446,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8015410">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8016201">Comments</a>
 p452
 stRp453
 sg29
-Vhttp://blog.cloudflare.com/introducing-cfssl
+Vhttp://arstechnica.com/gadgets/2014/07/how-one-kickstarter-project-squandered-3-5-million/
 p454
 sg19
 (lp455
@@ -1466,7 +1466,7 @@ sg25
 g26
 stRp457
 asg28
-VIntroducing CFSSL \u2013 CloudFlare's PKI toolkit
+VKickstarter project spent $3.5M to finish a prototype and ended in disaster
 p458
 sS'title_detail'
 p459
@@ -1485,7 +1485,7 @@ g458
 stRp462
 sS'comments'
 p463
-Vhttps://news.ycombinator.com/item?id=8015410
+Vhttps://news.ycombinator.com/item?id=8016201
 p464
 sg86
 g452
@@ -1507,11 +1507,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8016950">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8019429">Comments</a>
 p470
 stRp471
 sg29
-Vhttp://learnlispthehardway.org/
+Vhttp://pyvideo.org/video/2754/introduction-to-julia-part-1
 p472
 sg19
 (lp473
@@ -1527,7 +1527,7 @@ sg25
 g26
 stRp475
 asg28
-VLearn Lisp the Hard Way
+VIntroduction to Julia \u2013 Part 1
 p476
 sS'title_detail'
 p477
@@ -1546,7 +1546,7 @@ g476
 stRp480
 sS'comments'
 p481
-Vhttps://news.ycombinator.com/item?id=8016950
+Vhttps://news.ycombinator.com/item?id=8019429
 p482
 sg86
 g470
@@ -1568,11 +1568,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8013369">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8016307">Comments</a>
 p488
 stRp489
 sg29
-Vhttps://blog.pinboard.in/2014/07/pinboard_turns_five/
+Vhttp://breach.cc
 p490
 sg19
 (lp491
@@ -1588,7 +1588,7 @@ sg25
 g26
 stRp493
 asg28
-VPinboard Turns Five
+VShow HN: Breach \u2013 A modular browser built on Chromium and Node.js
 p494
 sS'title_detail'
 p495
@@ -1607,7 +1607,7 @@ g494
 stRp498
 sS'comments'
 p499
-Vhttps://news.ycombinator.com/item?id=8013369
+Vhttps://news.ycombinator.com/item?id=8016307
 p500
 sg86
 g488
@@ -1629,11 +1629,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8015997">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8019425">Comments</a>
 p506
 stRp507
 sg29
-Vhttps://github.com/bamos/beamer-snippets
+Vhttp://hiphopaffirmations.com/
 p508
 sg19
 (lp509
@@ -1649,7 +1649,7 @@ sg25
 g26
 stRp511
 asg28
-VShow HN: Community-driven snippets for presentations in LaTeX, Beamer, and TikZ
+VHip Hop Affirmations
 p512
 sS'title_detail'
 p513
@@ -1668,7 +1668,7 @@ g512
 stRp516
 sS'comments'
 p517
-Vhttps://news.ycombinator.com/item?id=8015997
+Vhttps://news.ycombinator.com/item?id=8019425
 p518
 sg86
 g506
@@ -1690,11 +1690,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8015991">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8019418">Comments</a>
 p524
 stRp525
 sg29
-Vhttp://online.wsj.com/articles/carter-cleveland-says-art-in-the-future-will-be-for-everyone-1404762157#YES
+Vhttp://www.seeedstudio.com/depot/OPLopen-parts-library-catalog-c-136_138/
 p526
 sg19
 (lp527
@@ -1710,7 +1710,7 @@ sg25
 g26
 stRp529
 asg28
-VCarter Cleveland Says Art in the Future Will Be for Everyone
+VSeeed Studio's Open Parts Library: commonly used electronics components
 p530
 sS'title_detail'
 p531
@@ -1729,7 +1729,7 @@ g530
 stRp534
 sS'comments'
 p535
-Vhttps://news.ycombinator.com/item?id=8015991
+Vhttps://news.ycombinator.com/item?id=8019418
 p536
 sg86
 g524
@@ -1751,11 +1751,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8018115">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8018764">Comments</a>
 p542
 stRp543
 sg29
-Vhttp://www.evanmiller.org/how-not-to-run-an-ab-test.html
+Vhttp://www.avp42.com/
 p544
 sg19
 (lp545
@@ -1771,7 +1771,7 @@ sg25
 g26
 stRp547
 asg28
-VHow Not To Run An A/B Test
+VShow HN: AVP 42 \u2013 A Puzzle Website
 p548
 sS'title_detail'
 p549
@@ -1790,7 +1790,7 @@ g548
 stRp552
 sS'comments'
 p553
-Vhttps://news.ycombinator.com/item?id=8018115
+Vhttps://news.ycombinator.com/item?id=8018764
 p554
 sg86
 g542
@@ -1812,11 +1812,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8017885">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8018669">Comments</a>
 p560
 stRp561
 sg29
-Vhttp://aseigo.blogspot.com/2014/07/green-processes-multiple-process.html
+Vhttp://facebook.github.io/planout/
 p562
 sg19
 (lp563
@@ -1832,7 +1832,7 @@ sg25
 g26
 stRp565
 asg28
-VGreen processes: multiple process architectures for everyone
+VPlanOut: A Framework For Online Field Experiments
 p566
 sS'title_detail'
 p567
@@ -1851,7 +1851,7 @@ g566
 stRp570
 sS'comments'
 p571
-Vhttps://news.ycombinator.com/item?id=8017885
+Vhttps://news.ycombinator.com/item?id=8018669
 p572
 sg86
 g560
@@ -1873,11 +1873,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8016813">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8016756">Comments</a>
 p578
 stRp579
 sg29
-Vhttp://artsy.github.io/blog/2014/07/09/retain-scroll-position-in-infinite-scroll/
+Vhttp://www.eurekalert.org/pub_releases/2014-01/uosc-sho010314.php
 p580
 sg19
 (lp581
@@ -1893,7 +1893,7 @@ sg25
 g26
 stRp583
 asg28
-VRetain Scroll Position in Infinite Scroll
+VStudy: Half of black males, 40% of white males arrested by age 23
 p584
 sS'title_detail'
 p585
@@ -1912,7 +1912,7 @@ g584
 stRp588
 sS'comments'
 p589
-Vhttps://news.ycombinator.com/item?id=8016813
+Vhttps://news.ycombinator.com/item?id=8016756
 p590
 sg86
 g578
@@ -1934,11 +1934,11 @@ sg11
 g33
 sg13
 Nsg14
-V<a href="https://news.ycombinator.com/item?id=8010247">Comments</a>
+V<a href="https://news.ycombinator.com/item?id=8019397">Comments</a>
 p596
 stRp597
 sg29
-Vhttp://mnx.io/blog/a-proper-server-naming-scheme/
+Vhttps://github.com/blogist/blogist
 p598
 sg19
 (lp599
@@ -1954,7 +1954,7 @@ sg25
 g26
 stRp601
 asg28
-VA Server Naming Scheme
+VShow HN: Blogist \u2013 Simple Blogging framework with gist
 p602
 sS'title_detail'
 p603
@@ -1973,7 +1973,7 @@ g602
 stRp606
 sS'comments'
 p607
-Vhttps://news.ycombinator.com/item?id=8010247
+Vhttps://news.ycombinator.com/item?id=8019397
 p608
 sg86
 g596

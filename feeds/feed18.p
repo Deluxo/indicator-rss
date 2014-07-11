@@ -157,7 +157,7 @@ p61
 (dp62
 S'content-length'
 p63
-S'14989'
+S'12037'
 p64
 sS'x-xss-protection'
 p65
@@ -185,7 +185,7 @@ S'close'
 p76
 sS'date'
 p77
-S'Fri, 11 Jul 2014 00:21:32 GMT'
+S'Fri, 11 Jul 2014 10:17:19 GMT'
 p78
 sS'x-frame-options'
 p79
@@ -236,7 +236,7 @@ sg11
 g54
 sg13
 Nsg14
-V<!-- SC_OFF --><div class="md"><h3>The International 2014</h3> <h2>Organized and hosted by Valve Corporation</h2> <h2>Sponsored by Valve Corporation, The Compendium</h2> <hr /> <p><strong>Need info on the event? Check out our <a href="http://www.reddit.com/r/DotA2/wiki/events/ti4">Survival Guide</a></strong></p> <p><strong>Missed Day 2? Check out the <a href="http://redd.it/2a8v27">Live Discussion and VODs</a>.</strong></p> <p><strong>You can either <a href="http://www.reddit.com/r/DotA2/comments/2ac6qf/the_international_2014_playoffs_day_3_match/?sort=new">Sort by new</a> or use the <a href="http://reddit-stream.com/comments/2ac6qf/">Comment Stream</a></strong></p> <hr /> <p><strong>Streams</strong> </p> <table><thead> <tr> <th><strong>English:</strong></th> <th><strong>Russian:</strong></th> <th><strong>Chinese:</strong></th> <th><strong>Korean:</strong></th> </tr> </thead><tbody> <tr> <td><a href="http://www.reddit.com/gb" title="English"></a> <a href="http://www.twitch.tv/dota2ti"><strong>Main Channel</strong></a></td> <td><a href="http://www.reddit.com/ru" title="Russian"></a> <a href="http://www.twitch.tv/dota2ti_ru"><strong>Main Channel</strong></a></td> <td><a href="http://www.reddit.com/cn" title="Chinese"></a> <a href="http://www.twitch.tv/dota2ti_cn"><strong>Main Channel</strong></a></td> <td><a href="http://www.reddit.com/kr" title="Korean"></a> <a href="http://www.twitch.tv/dota2ti_kr"><strong>Main Channel</strong></a></td> </tr> <tr> <td><a href="http://www.reddit.com/gb" title="English"></a> <a href="http://www.twitch.tv/dota2ti_1"><strong>Stream #1</strong></a></td> <td><a href="http://www.reddit.com/ru" title="Russian"></a> <a href="http://www.twitch.tv/dota2ti_ru_1"><strong>Stream #1</strong></a></td> <td><a href="http://www.reddit.com/cn" title="Chinese"></a> <a href="http://www.twitch.tv/dota2ti_cn_1"><strong>Stream #1</strong></a></td> <td><a href="http://www.reddit.com/kr" title="Korean"></a> <a href="http://www.twitch.tv/dota2ti_kr_1"><strong>Stream #1</strong></a></td> </tr> <tr> <td><a href="http://www.reddit.com/gb" title="English"></a> <a href="http://www.twitch.tv/dota2ti_2"><strong>Stream #2</strong></a></td> <td><a href="http://www.reddit.com/ru" title="Russian"></a> <a href="http://www.twitch.tv/dota2ti_ru_2"><strong>Stream #2</strong></a></td> <td><a href="http://www.reddit.com/cn" title="Chinese"></a> <a href="http://www.twitch.tv/dota2ti_cn_2"><strong>Stream #2</strong></a></td> <td><a href="http://www.reddit.com/kr" title="Korean"></a> <a href="http://www.twitch.tv/dota2ti_kr_2"><strong>Stream #2</strong></a></td> </tr> <tr> <td><a href="http://www.reddit.com/gb" title="English"></a> <a href="http://www.twitch.tv/dota2ti_3"><strong>Stream #3</strong></a></td> <td><a href="http://www.reddit.com/ru" title="Russian"></a> <a href="http://www.twitch.tv/dota2ti_ru_3"><strong>Stream #3</strong></a></td> <td><a href="http://www.reddit.com/cn" title="Chinese"></a> <a href="http://www.twitch.tv/dota2ti_cn_3"><strong>Stream #3</strong></a></td> <td><a href="http://www.reddit.com/kr" title="Korean"></a> <a href="http://www.twitch.tv/dota2ti_kr_3"><strong>Stream #3</strong></a></td> </tr> <tr> <td><a href="http://www.reddit.com/gb" title="English"></a> <a href="http://www.twitch.tv/dota2ti_4"><strong>Stream #4</strong></a></td> <td><a href="http://www.reddit.com/ru" title="Russian"></a> <a href="http://www.twitch.tv/dota2ti_ru_4"><strong>Stream #4</strong></a></td> <td><a href="http://www.reddit.com/cn" title="Chinese"></a> <a href="http://www.twitch.tv/dota2ti_cn_4"><strong>Stream #4</strong></a></td> <td><a href="http://www.reddit.com/kr" title="Korean"></a> <a href="http://www.twitch.tv/dota2ti_kr_4"><strong>Stream #4</strong></a></td> </tr> <tr> <td><a href="http://www.reddit.com/gb" title="English"></a> <a href="http://www.twitch.tv/dota2ti_noob" title="Yes, it's actually called dota2ti_noob"><strong>Newcomer Channel</strong></a></td> <td></td> <td></td> <td></td> </tr> </tbody></table> <ul> <li><a href="http://www.reddit.com/wo" title="International"></a> <a href="http://www.dota2.com/international/watch/July9/"><strong>DVR Broadcast</strong></a></li> </ul> <hr /> <table><thead> <tr> </tr> </thead><tbody> </tbody></table> <h3>Standings after Day 2:</h3> <table><thead> <tr> <th align="left">Round Robin Day 1</th> <th align="center"><a href="http://www.reddit.com/nbsp"></a></th> </tr> </thead><tbody> <tr> <td align="left"><a href="http://www.reddit.com/wo" title="World"></a> <strong>Cloud9</strong></td> <td align="center">&nbsp; 4-1 &nbsp;</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> <strong>Invictus Gaming</strong></td> <td align="center">3-1</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/ua" title="Ukraine"></a> Natus Vincere EU</td> <td align="center">3-1</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/us" title="United States"></a> Natus Vincere US</td> <td align="center">3-1</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/us" title="United States"></a> Team Liquid</td> <td align="center">3-1</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> Vici Gaming</td> <td align="center">3-1</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/us" title="United States"></a> Evil Geniuses</td> <td align="center">3-2</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/eu" title="Europe"></a> Fnatic</td> <td align="center">3-2</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> Newbee</td> <td align="center">3-2</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/my" title="Malaysia"></a> Titan</td> <td align="center">2-2</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> <em>Team DK &nbsp;</em></td> <td align="center">2-3</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/ru" title="Russia"></a> <em>Team Empire &nbsp;</em></td> <td align="center">1-3</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/de" title="Germany"></a> <em>mousesports &nbsp;</em></td> <td align="center">1-3</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/se" title="Sweden"></a> <em>The Alliance &nbsp;</em></td> <td align="center">1-4</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> <em>LGD Gaming &nbsp;</em></td> <td align="center">1-4</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/my" title="Malaysia"></a> <em>Arrow Gaming &nbsp;</em></td> <td align="center">0-5</td> </tr> </tbody></table> <hr /> <h5>Day 3</h5> <table><thead> <tr> <th align="left">Team</th> <th align="center">&nbsp; vs. &nbsp;</th> <th align="center">Team</th> <th align="center">Cntdwn</th> <th align="center">EDT</th> <th align="center">GMT</th> <th align="center">CEST</th> <th align="center">SGT</th> <th align="center">AEST</th> <th align="center">Stream</th> <th align="center">Casters</th> <th align="center">Dotabuff</th> <th align="center">Video</th> <th align="center">Result</th> </tr> </thead><tbody> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140710T16&amp;p0=%3A">09:00</a></td> <td align="center">12:00</td> <td align="center">16:00</td> <td align="center">18:00</td> <td align="center">00:00</td> <td align="center">02:00</td> <td align="center">Stream 1</td> <td align="center">LD &amp; Lumi</td> <td align="center"><a href="http://dotabuff.com/matches/768806277">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_1/c/4635312">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-fnatic" title="Fnatic"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 2</td> <td align="center">Tobi &amp; Synd</td> <td align="center"><a href="http://dotabuff.com/matches/768808772">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_2/c/4635533">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-empire" title="Team Empire"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 3</td> <td align="center">Merlini &amp; GoDz</td> <td align="center"><a href="http://dotabuff.com/matches/768819456">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_3/c/4635492">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 4</td> <td align="center">Maut &amp; KOTL</td> <td align="center"><a href="http://dotabuff.com/matches/768809344">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_4/c/4635762">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-eg" title="Evil Geniuses"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140710T1715&amp;p0=%3A">10:15</a></td> <td align="center">13:15</td> <td align="center">17:15</td> <td align="center">19:15</td> <td align="center">01:15</td> <td align="center">03:15</td> <td align="center">Stream 1</td> <td align="center">LD &amp; Lumi</td> <td align="center"><a href="http://dotabuff.com/matches/768904017">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_1/c/4635756">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-c9" title="Cloud9"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-navi" title="Natus Vincere EU"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 2</td> <td align="center">Tobi &amp; Synd</td> <td align="center"><a href="http://dotabuff.com/matches/768904872">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_2/c/4635888">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-dk" title="Team DK"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 3</td> <td align="center">Merlini &amp; GoDz</td> <td align="center"><a href="http://dotabuff.com/matches/768917747">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_3/c/4636418">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-lgd" title="LGD"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-vg" title="Vici Gaming"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 4</td> <td align="center">Maut &amp; KOTL</td> <td align="center"><a href="http://dotabuff.com/matches/768924317">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_4/c/4635781">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-lgd" title="LGD"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-fnatic" title="Fnatic"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140710T1830&amp;p0=%3A">11:30</a></td> <td align="center">14:30</td> <td align="center">18:30</td> <td align="center">20:30</td> <td align="center">02:30</td> <td align="center">04:30</td> <td align="center">Stream 1</td> <td align="center">LD &amp; Lumi</td> <td align="center"><a href="http://dotabuff.com/matches/768982951">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_1/c/4636270">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-navi" title="Natus Vincere EU"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 2</td> <td align="center">Tobi &amp; Synd</td> <td align="center"><a href="http://dotabuff.com/matches/768999679">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_2/c/4636446">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-alliance" title="Alliance"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 3</td> <td align="center">Merlini &amp; GoDz</td> <td align="center"><a href="http://dotabuff.com/matches/769044770">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_3/c/4636429">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-vg" title="Vici Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 4</td> <td align="center">Maut &amp; KOTL</td> <td align="center"><a href="http://dotabuff.com/matches/768978223">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_4/c/4636538">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-empire" title="Team Empire"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140710T1945&amp;p0=%3A">12:45</a></td> <td align="center">15:45</td> <td align="center">19:45</td> <td align="center">21:45</td> <td align="center">03:45</td> <td align="center">05:45</td> <td align="center">Stream 1</td> <td align="center">LD &amp; Lumi</td> <td align="center"><a href="http://dotabuff.com/matches/769083280">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_1/c/4637260">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 2</td> <td align="center">Tobi &amp; Synd</td> <td align="center"><a href="http://dotabuff.com/matches/769106392">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_2/c/4637362">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-dk" title="Team DK"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-c9" title="Cloud9"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 3</td> <td align="center">Merlini &amp; GoDz</td> <td align="center"><a href="http://dotabuff.com/matches/769123500">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_3/c/4636429">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-eg" title="Evil Geniuses"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 4</td> <td align="center">Maut &amp; KOTL</td> <td align="center"><a href="http://dotabuff.com/matches/769061465">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_4/c/4636636">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-lgd" title="LGD"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140710T21&amp;p0=%3A">14:00</a></td> <td align="center">17:00</td> <td align="center">21:00</td> <td align="center">23:00</td> <td align="center">05:00</td> <td align="center">07:00</td> <td align="center">Stream 1</td> <td align="center">LD &amp; Lumi</td> <td align="center"><a href="http://dotabuff.com/matches/769166153">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_1/c/4637296">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 2</td> <td align="center">Tobi &amp; Synd</td> <td align="center"><a href="http://dotabuff.com/matches/769199481">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_2/c/4637377">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-dk" title="Team DK"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 3</td> <td align="center">Lys &amp; Bass</td> <td align="center"><a href="http://dotabuff.com/matches/769210921">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_3/c/4637509">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-empire" title="Team Empire"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-alliance" title="Alliance"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 4</td> <td align="center">Maut &amp; KOTL</td> <td align="center"><a href="http://dotabuff.com/matches/769161952">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_4/c/4637351">VOD</a></td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-vg" title="Vici Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-fnatic" title="Fnatic"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140710T2215&amp;p0=%3A">15:15</a></td> <td align="center">18:15</td> <td align="center">22:15</td> <td align="center">00:15</td> <td align="center">06:15</td> <td align="center">08:15</td> <td align="center">Stream 1</td> <td align="center">LD &amp; Lumi</td> <td align="center"><a href="http://dotabuff.com/matches/769219194">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_1/c/4637340">VOD</a></td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-c9" title="Cloud9"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 2</td> <td align="center">Tobi &amp; Synd</td> <td align="center">Dotabuff</td> <td align="center">VOD</td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 3</td> <td align="center">Lys &amp; Bass</td> <td align="center">Dotabuff</td> <td align="center">VOD</td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-navi"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-eg" title="Evil Geniuses"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 4</td> <td align="center">Capitalist &amp; Waga</td> <td align="center"><a href="http://dotabuff.com/matches/769229353">Dotabuff</a></td> <td align="center"><a href="http://www.twitch.tv/dota2ti_4/c/4637413">VOD</a></td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-empire" title="Team Empire"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-dk" title="Team DK"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140710T2330&amp;p0=%3A">16:30</a></td> <td align="center">19:30</td> <td align="center">23:30</td> <td align="center">01:30</td> <td align="center">07:30</td> <td align="center">09:30</td> <td align="center">Stream 1</td> <td align="center">Ayesee &amp; Maelk</td> <td align="center">Dotabuff</td> <td align="center">VOD</td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-alliance" title="Alliance"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 2</td> <td align="center">Merlini &amp; GoDz</td> <td align="center">Dotabuff</td> <td align="center">VOD</td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-c9" title="Cloud9"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 3</td> <td align="center">Lys &amp; Bass</td> <td align="center">Dotabuff</td> <td align="center">VOD</td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 4</td> <td align="center">Capitalist &amp; Waga</td> <td align="center">Dotabuff</td> <td align="center">VOD</td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-vg" title="Vici Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140711T0045&amp;p0=%3A">17:45</a></td> <td align="center">20:45</td> <td align="center">00:45</td> <td align="center">02:45</td> <td align="center">08:45</td> <td align="center">10:45</td> <td align="center">Stream 1</td> <td align="center">Ayesee &amp; Maelk</td> <td align="center">Dotabuff</td> <td align="center">VOD</td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 2</td> <td align="center">Merlini &amp; GoDz</td> <td align="center">Dotabuff</td> <td align="center">VOD</td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-navi" title="Natus Vincere EU"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-lgd" title="LGD"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 3</td> <td align="center">Lys &amp; Bass</td> <td align="center">Dotabuff</td> <td align="center">VOD</td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-alliance" title="Alliance"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-fnatic" title="Fnatic"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 4</td> <td align="center">Capitalist &amp; Waga</td> <td align="center">Dotabuff</td> <td align="center">VOD</td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140711T02&amp;p0=%3A">19:00</a></td> <td align="center">22:00</td> <td align="center">02:00</td> <td align="center">04:00</td> <td align="center">10:00</td> <td align="center">12:00</td> <td align="center">Stream 1</td> <td align="center">Ayesee &amp; Maelk</td> <td align="center">Dotabuff</td> <td align="center">VOD</td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 2</td> <td align="center">Merlini &amp; GoDz</td> <td align="center">Dotabuff</td> <td align="center">VOD</td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-empire" title="Team Empire"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 3</td> <td align="center">Lys &amp; Bass</td> <td align="center">Dotabuff</td> <td align="center">VOD</td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-eg" title="Evil Geniuses"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Stream 4</td> <td align="center">Capitalist &amp; Waga</td> <td align="center">Dotabuff</td> <td align="center">VOD</td> <td align="center"><a href="http://www.reddit.com/spoiler"></a></td> </tr> </tbody></table> <p><em>Match times are estimated. Countdown times are local times in Seattle (PDT). The UK is currently on BST (GMT +1)</em>.</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/D2TournamentThreads"> D2TournamentThreads </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2ac6qf/the_international_2014_playoffs_day_3_match/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ac6qf/the_international_2014_playoffs_day_3_match/">[1471 comments]</a>
+V<!-- SC_OFF --><div class="md"><h3>The International 2014</h3> <h2>Organized and hosted by Valve Corporation</h2> <h2>Sponsored by Valve Corporation, The Compendium</h2> <hr /> <p><strong>Need info on the event? Check out our <a href="http://www.reddit.com/r/DotA2/wiki/events/ti4">Survival Guide</a></strong></p> <p><strong>Check out the Day 3 <a href="http://redd.it/2ac6qf">Live Discussion</a>.</strong></p> <h4>VODs can be found on the Watch tab of the TI Tournament Site</h4> <h3><a href="http://www.dota2.com/international/watch/July10/">Click &quot;Stream Navigation&quot; for a full list of Today's Games or select a match below</a></h3> <hr /> <h3>Standings after Day 3:</h3> <table><thead> <tr> <th align="left">Round Robin Day 2</th> <th align="center"><a href="http://www.reddit.com/nbsp"></a></th> </tr> </thead><tbody> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> Vici Gaming</td> <td align="center">&nbsp; 7-1 &nbsp;</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> Team DK</td> <td align="center">6-3</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> Invictus Gaming</td> <td align="center">6-3</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/us" title="United States"></a> Evil Geniuses</td> <td align="center">6-3</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/ua" title="Ukraine"></a> Natus Vincere EU</td> <td align="center">5-3</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/my" title="Malaysia"></a> Titan</td> <td align="center">5-4</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/wo" title="World"></a> Cloud9</td> <td align="center">5-4</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/us" title="United States"></a> Team Liquid</td> <td align="center">5-4</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> Newbee</td> <td align="center">5-5</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/se" title="Sweden"></a> The Alliance</td> <td align="center">4-5</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/eu" title="Europe"></a> Fnatic</td> <td align="center">4-5</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/us" title="United States"></a> Natus Vincere US</td> <td align="center">4-5</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/ru" title="Russia"></a> Team Empire</td> <td align="center">3-6</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> LGD Gaming</td> <td align="center">3-6</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/de" title="Germany"></a> mousesports</td> <td align="center">2-7</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/my" title="Malaysia"></a> Arrow Gaming</td> <td align="center">2-8</td> </tr> </tbody></table> <hr /> <h3>Full Results:</h3> <p>Check out the full schedule and results from today's matches here: <a href="http://redd.it/2ac6qf">Day 3 Discussion</a></p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/D2TournamentThreads"> D2TournamentThreads </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2aeawq/the_international_2014_playoffs_post_day_3/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aeawq/the_international_2014_playoffs_post_day_3/">[283 comments]</a>
 p99
 stRp100
 sg19
@@ -246,7 +246,7 @@ g1
 g3
 (dp102
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2ac6qf/the_international_2014_playoffs_day_3_match/
+Vhttp://www.reddit.com/r/DotA2/comments/2aeawq/the_international_2014_playoffs_post_day_3/
 p103
 sg11
 g24
@@ -260,16 +260,16 @@ struct_time
 p106
 ((I2014
 I7
-I10
-I15
-I18
-I18
+I11
 I3
-I191
+I56
+I42
+I4
+I192
 I0
 t(dtRp107
 sg36
-VThe International 2014 Playoffs Day 3 Match Discussion (Round-Robin Day 2)
+VThe International 2014 Playoffs Post Day 3 Discussion
 p108
 sS'summary'
 p109
@@ -296,11 +296,11 @@ sg37
 g103
 sS'published'
 p115
-VThu, 10 Jul 2014 15:18:18 +0000
+VFri, 11 Jul 2014 03:56:42 +0000
 p116
 sS'id'
 p117
-Vhttp://www.reddit.com/r/DotA2/comments/2ac6qf/the_international_2014_playoffs_day_3_match/
+Vhttp://www.reddit.com/r/DotA2/comments/2aeawq/the_international_2014_playoffs_post_day_3/
 p118
 stRp119
 ag1
@@ -320,7 +320,7 @@ sg11
 g54
 sg13
 Nsg14
-V<!-- SC_OFF --><div class="md"><p>I CAN'T BREATH I CANT SEE IM LOSING MY MIND!!!</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/IIsWitty"> IIsWitty </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2adhvx/narvi_vs_ig/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adhvx/narvi_vs_ig/">[397 comments]</a>
+Vsubmitted by <a href="http://www.reddit.com/user/Randomd0g"> Randomd0g </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2adgzw/suggestion_if_a_team_wins_3_internationals_they/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adgzw/suggestion_if_a_team_wins_3_internationals_they/">[155 comments]</a>
 p124
 stRp125
 sg19
@@ -330,7 +330,7 @@ g1
 g3
 (dp127
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2adhvx/narvi_vs_ig/
+Vhttp://www.reddit.com/r/DotA2/comments/2adgzw/suggestion_if_a_team_wins_3_internationals_they/
 p128
 sg11
 g24
@@ -343,14 +343,14 @@ g106
 I7
 I10
 I22
-I46
-I20
+I37
+I10
 I3
 I191
 I0
 t(dtRp130
 sg36
-VNARV'I VS IG!!!
+VSuggestion - if a team wins 3 internationals they also win a block of cheese along with the aegis.
 p131
 sg109
 g124
@@ -374,10 +374,10 @@ stRp135
 sg37
 g128
 sg115
-VThu, 10 Jul 2014 22:46:20 +0000
+VThu, 10 Jul 2014 22:37:10 +0000
 p136
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2adhvx/narvi_vs_ig/
+Vhttp://www.reddit.com/r/DotA2/comments/2adgzw/suggestion_if_a_team_wins_3_internationals_they/
 p137
 stRp138
 ag1
@@ -397,7 +397,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/Shincry"> Shincry </a> <br /> <a href="http://i.imgur.com/N8SmhG7.png">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aby52/every_single_game_as_disruptor/">[296 comments]</a>
+Vsubmitted by <a href="http://www.reddit.com/user/volcanicthor"> volcanicthor </a> <br /> <a href="http://i.imgur.com/azJv93r.jpg?1">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adw9u/s4s_art_in_the_a_vs_empire/">[52 comments]</a>
 p143
 stRp144
 sg19
@@ -407,7 +407,7 @@ g1
 g3
 (dp146
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2aby52/every_single_game_as_disruptor/
+Vhttp://www.reddit.com/r/DotA2/comments/2adw9u/s4s_art_in_the_a_vs_empire/
 p147
 sg11
 g24
@@ -418,16 +418,16 @@ asg105
 g106
 ((I2014
 I7
-I10
+I11
+I1
 I13
-I46
-I7
-I3
-I191
+I45
+I4
+I192
 I0
 t(dtRp149
 sg36
-VEvery single game as disruptor
+VS4's art in the [A] vs Empire
 p150
 sg109
 g143
@@ -451,10 +451,10 @@ stRp154
 sg37
 g147
 sg115
-VThu, 10 Jul 2014 06:46:07 -0700
+VFri, 11 Jul 2014 01:13:45 +0000
 p155
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2aby52/every_single_game_as_disruptor/
+Vhttp://www.reddit.com/r/DotA2/comments/2adw9u/s4s_art_in_the_a_vs_empire/
 p156
 stRp157
 ag1
@@ -474,7 +474,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/lokilize"> lokilize </a> <br /> <a href="http://i.imgur.com/qyzThiS.png">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ac9v2/earrings_of_basilius/">[147 comments]</a>
+Vsubmitted by <a href="http://www.reddit.com/user/TheOneAndOnlyTristan"> TheOneAndOnlyTristan </a> <br /> <a href="https://twitter.com/YouPorn/status/487359454506397697">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adqqo/coming_ti5_youporn_sponsored_team/">[386 comments]</a>
 p162
 stRp163
 sg19
@@ -484,7 +484,7 @@ g1
 g3
 (dp165
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2ac9v2/earrings_of_basilius/
+Vhttp://www.reddit.com/r/DotA2/comments/2adqqo/coming_ti5_youporn_sponsored_team/
 p166
 sg11
 g24
@@ -495,16 +495,16 @@ asg105
 g106
 ((I2014
 I7
-I10
+I11
+I0
 I15
-I50
-I1
-I3
-I191
+I52
+I4
+I192
 I0
 t(dtRp168
 sg36
-VEarrings of Basilius
+VComing TI5: Youporn sponsored Team
 p169
 sg109
 g162
@@ -528,10 +528,10 @@ stRp173
 sg37
 g166
 sg115
-VThu, 10 Jul 2014 15:50:01 +0000
+VFri, 11 Jul 2014 00:15:52 +0000
 p174
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2ac9v2/earrings_of_basilius/
+Vhttp://www.reddit.com/r/DotA2/comments/2adqqo/coming_ti5_youporn_sponsored_team/
 p175
 stRp176
 ag1
@@ -551,7 +551,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/Randomd0g"> Randomd0g </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2adgzw/suggestion_if_a_team_wins_3_internationals_they/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adgzw/suggestion_if_a_team_wins_3_internationals_they/">[39 comments]</a>
+Vsubmitted by <a href="http://www.reddit.com/user/ja_gern"> ja_gern </a> <br /> <a href="https://www.youtube.com/watch?feature=player_detailpage&amp;v=MisqMKRysxg">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aeez9/classicjimmymp4/">[59 comments]</a>
 p181
 stRp182
 sg19
@@ -561,7 +561,7 @@ g1
 g3
 (dp184
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2adgzw/suggestion_if_a_team_wins_3_internationals_they/
+Vhttp://www.reddit.com/r/DotA2/comments/2aeez9/classicjimmymp4/
 p185
 sg11
 g24
@@ -572,16 +572,16 @@ asg105
 g106
 ((I2014
 I7
-I10
-I22
-I37
-I10
-I3
-I191
+I11
+I4
+I47
+I46
+I4
+I192
 I0
 t(dtRp187
 sg36
-VSuggestion - if a team wins 3 internationals they also win a block of cheese along with the aegis.
+VClassicJimmy.mp4
 p188
 sg109
 g181
@@ -605,10 +605,10 @@ stRp192
 sg37
 g185
 sg115
-VThu, 10 Jul 2014 22:37:10 +0000
+VFri, 11 Jul 2014 04:47:46 +0000
 p193
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2adgzw/suggestion_if_a_team_wins_3_internationals_they/
+Vhttp://www.reddit.com/r/DotA2/comments/2aeez9/classicjimmymp4/
 p194
 stRp195
 ag1
@@ -628,7 +628,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/okokok1233"> okokok1233 </a> <br /> <a href="https://www.youtube.com/watch?v=2o60pW091NU">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aczwh/bulbaeveryone_flamed_us/">[132 comments]</a>
+V<!-- SC_OFF --><div class="md"><p>An update has been dispatched for the main client. More info will be edited in as it becomes available.</p> <hr /> <h2>Backend Update</h2> <ul> <li>New entries for a &quot;All-Star Draft&quot; game mode. Preparation for the All-Star match at TI.</li> <li>Techies now has a loadout entry and scaling.</li> </ul> <hr /> <h2>UI Updates</h2> <ul> <li>New advertisement banner for The International Bundle that tells you all the stuff you get when you buy the Compendium now and the upcoming items.</li> </ul> <hr /> <h2>Portrait Updates</h2> <ul> <li>Elemental Baby Roshans now have new portraits.</li> <li>All the full body portrait values now have been increased to have up to 5 decimal points for some reason. Complete accuracy. <em>For eg: what used to be &quot;-369.59&quot; is now &quot;-369.589996&quot;.</em></li> </ul> <hr /> <h2>PSA</h2> <p>A couple of points I see many threads about. As this thread gets some attention, I thought I'll mention them here.</p> <ul> <li>Pennants do not need to be equipped anymore. The fan slots have been removed. They work and do their job as long as they are owned by you and in your inventory.</li> <li>The Player Card Packs you get when spectating games are BONUS rewards for just watching. They are NOT the spectator rewards. So when it reads <em>&quot;50 people have won a prize ..&quot;</em> and you got a Player Card Pack, you did not get lucky.</li> </ul> <hr /> <ul> <li>Raw Schema: None</li> <li>No changelog yet.</li> </ul> <hr /> <p><strong>Patch Size:</strong> 32.3 Mb</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/SirBelvedere"> SirBelvedere </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2aebib/dota_2_update_main_client_july_10_2014/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aebib/dota_2_update_main_client_july_10_2014/">[190 comments]</a>
 p200
 stRp201
 sg19
@@ -638,7 +638,7 @@ g1
 g3
 (dp203
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2aczwh/bulbaeveryone_flamed_us/
+Vhttp://www.reddit.com/r/DotA2/comments/2aebib/dota_2_update_main_client_july_10_2014/
 p204
 sg11
 g24
@@ -649,16 +649,16 @@ asg105
 g106
 ((I2014
 I7
-I10
-I19
-I53
-I49
+I11
+I4
 I3
-I191
+I30
+I4
+I192
 I0
 t(dtRp206
 sg36
-VBulba:"Everyone flamed us"
+VDota 2 Update - MAIN CLIENT - July 10, 2014
 p207
 sg109
 g200
@@ -682,10 +682,10 @@ stRp211
 sg37
 g204
 sg115
-VThu, 10 Jul 2014 12:53:49 -0700
+VFri, 11 Jul 2014 04:03:30 +0000
 p212
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2aczwh/bulbaeveryone_flamed_us/
+Vhttp://www.reddit.com/r/DotA2/comments/2aebib/dota_2_update_main_client_july_10_2014/
 p213
 stRp214
 ag1
@@ -705,7 +705,7 @@ sg11
 g54
 sg13
 Nsg14
-V<!-- SC_OFF --><div class="md"><p>On the C9 vs NaVi game it was bad and Arrow vs DK had it too, though not as bad. It sounds like something is disrupting a wireless microphone connection.(experience)<br /> Anyone else experiencing this?</p> <p>EDIT: It got worse again, I'm okay with a bit of delay or something, but this is straight up torture. Not listening to casting until this is fixed.</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/Double_DeluXe"> Double_DeluXe </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2aclue/casts_are_full_of_digital_stutter_and_tearing/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aclue/casts_are_full_of_digital_stutter_and_tearing/">[104 comments]</a>
+Vsubmitted by <a href="http://www.reddit.com/user/0x04b8"> 0x04b8 </a> <br /> <a href="http://www.youtube.com/watch?v=AGj1rtwKR9I">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ae6uv/erik_johnson_never_spoken_russian_with_icefrog/">[166 comments]</a>
 p219
 stRp220
 sg19
@@ -715,7 +715,7 @@ g1
 g3
 (dp222
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2aclue/casts_are_full_of_digital_stutter_and_tearing/
+Vhttp://www.reddit.com/r/DotA2/comments/2ae6uv/erik_johnson_never_spoken_russian_with_icefrog/
 p223
 sg11
 g24
@@ -726,16 +726,16 @@ asg105
 g106
 ((I2014
 I7
-I10
-I17
-I45
-I26
+I11
 I3
-I191
+I8
+I56
+I4
+I192
 I0
 t(dtRp225
 sg36
-VCasts are full of digital stutter and tearing
+VErik Johnson: "Never spoken Russian with Icefrog"
 p226
 sg109
 g219
@@ -759,10 +759,10 @@ stRp230
 sg37
 g223
 sg115
-VThu, 10 Jul 2014 17:45:26 +0000
+VFri, 11 Jul 2014 03:08:56 +0000
 p231
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2aclue/casts_are_full_of_digital_stutter_and_tearing/
+Vhttp://www.reddit.com/r/DotA2/comments/2ae6uv/erik_johnson_never_spoken_russian_with_icefrog/
 p232
 stRp233
 ag1
@@ -782,7 +782,7 @@ sg11
 g54
 sg13
 Nsg14
-V<!-- SC_OFF --><div class="md"><p>Hi!</p> <p>Do you have any feedback for <a href="http://wiki.teamliquid.net/dota2/The_International/2014">our The International 4 coverage</a>? Our goal is to provide useful information for teams, players, and of course all of the results. We're always greatful for feedback from our users.</p> <p>You are always welcome to help us with our coverage. The only thing you need is a LiquidDota.com account and you can jump right into editing. For more information see <a href="http://www.liquiddota.com/forum/dota-2-general/453864-lp-the-liquipedia-dota-2-wiki">here</a> and <a href="http://www.liquiddota.com/forum/website-feedback/455658-liquipedia-feedback-thread">here</a>.</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/Liquipedia"> Liquipedia </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2ad96y/with_ti4_going_on_weve_have_a_lot_of_visitors/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ad96y/with_ti4_going_on_weve_have_a_lot_of_visitors/">[63 comments]</a>
+V<!-- SC_OFF --><div class="md"><p>I CAN'T BREATH I CANT SEE IM LOSING MY MIND!!!</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/IIsWitty"> IIsWitty </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2adhvx/narvi_vs_ig/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adhvx/narvi_vs_ig/">[578 comments]</a>
 p238
 stRp239
 sg19
@@ -792,7 +792,7 @@ g1
 g3
 (dp241
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2ad96y/with_ti4_going_on_weve_have_a_lot_of_visitors/
+Vhttp://www.reddit.com/r/DotA2/comments/2adhvx/narvi_vs_ig/
 p242
 sg11
 g24
@@ -804,15 +804,15 @@ g106
 ((I2014
 I7
 I10
-I21
-I19
-I55
+I22
+I46
+I20
 I3
 I191
 I0
 t(dtRp244
 sg36
-VWith TI4 going on, we've have a lot of visitors that are new to Liquipedia, so we're asking if you guys (new and old users) have any feedback about our TI4 coverage?
+VNARV'I VS IG!!!
 p245
 sg109
 g238
@@ -836,10 +836,10 @@ stRp249
 sg37
 g242
 sg115
-VThu, 10 Jul 2014 21:19:55 +0000
+VThu, 10 Jul 2014 22:46:20 +0000
 p250
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2ad96y/with_ti4_going_on_weve_have_a_lot_of_visitors/
+Vhttp://www.reddit.com/r/DotA2/comments/2adhvx/narvi_vs_ig/
 p251
 stRp252
 ag1
@@ -859,7 +859,7 @@ sg11
 g54
 sg13
 Nsg14
-V<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I'm Chris and I know a bunch of you awesome folks at <a href="http://www.reddit.com/r/Dota2">/r/Dota2</a> have been listening to the <a href="http://www.audiodota.com">audio only streams on AudioDota.com</a>. I have a few exciting announcements.</p> <p><strong>First</strong>, we've gone from having only the multistream available to having Stream 1 and Stream 2 available as well. I'd love to have all four streams live, but I don't have the physical capabilities to provide more than 3 streams from my current location. I've had some amazing volunteers offer to help, so we will hopefully have all four streams up soon.</p> <p><strong>Second</strong>, some android users have had problems listening to the streams. It seems like an issue isolated to a few phones, and I'm going to be borrowing some android devices today to test these issues and get them resolved. Until then, the best solution is to download the <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc.betav7neon">VLC for Android Beta</a>. Once it's installed, open the audio stream through VLC.</p> <p>There are three audio streams:</p> <ul> <li>MultiStream: <a href="http://dotaaudio.com:8000/DotaMultiMp3">http://dotaaudio.com:8000/DotaMultiMp3</a></li> <li>Stream 1: <a href="http://dotaaudio.com:8000/DotaStream1Mp3">http://dotaaudio.com:8000/DotaStream1Mp3</a></li> <li>Stream 2: <a href="http://dotaaudio.com:8000/DotaStream2Mp3">http://dotaaudio.com:8000/DotaStream2Mp3</a></li> </ul> <p>If these streams aren't working, feel free to send me a pm on reddit, post here, or contact me via email (my email address is on the site.) </p> <p><strong>Third</strong>, it looks like an android Dota app might soon be integrating the streams, creating a more seamless Dota 2 listening experience during The International 4. I'll let you know on reddit and on the site when the app is featuring the streams.</p> <p>Finally,</p> <p>Thanks for your support. I was quite worried about bandwidth costs going into this, but it looks like ads and a few generous donations through paypal and bitcoin have me almost breaking even by the end of TI4.</p> <p><strong>Edit</strong>: I'm heading out for a few hours. The stream's held up without a hitch today, which is blowing my mind. If the stream goes down, you need some help, or you just want to say hi, please contact me via <a href="http://twitter.com/ckinniburgh">twitter</a> so I can quickly respond to any issues! I'm <a href="http://twitter.com/ckinniburgh">@ckinniburgh</a>.</p> <p>Thanks for listening!</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/Shalarn"> Shalarn </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2aci3b/low_bandwidth_audio_only_streams_for_ti4/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aci3b/low_bandwidth_audio_only_streams_for_ti4/">[53 comments]</a>
+V<!-- SC_OFF --><div class="md"><p>Best stream ever!</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/VINCE_C_"> VINCE_C_ </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2adgty/the_guy_that_came_with_the_multicast_idea/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adgty/the_guy_that_came_with_the_multicast_idea/">[129 comments]</a>
 p257
 stRp258
 sg19
@@ -869,7 +869,7 @@ g1
 g3
 (dp260
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2aci3b/low_bandwidth_audio_only_streams_for_ti4/
+Vhttp://www.reddit.com/r/DotA2/comments/2adgty/the_guy_that_came_with_the_multicast_idea/
 p261
 sg11
 g24
@@ -881,15 +881,15 @@ g106
 ((I2014
 I7
 I10
-I17
-I10
-I18
+I22
+I35
+I27
 I3
 I191
 I0
 t(dtRp263
 sg36
-VLow Bandwidth Audio Only Streams for TI4
+VThe guy that came with the Multicast idea deserves a fucking medal.
 p264
 sg109
 g257
@@ -913,10 +913,10 @@ stRp268
 sg37
 g261
 sg115
-VThu, 10 Jul 2014 17:10:18 +0000
+VThu, 10 Jul 2014 22:35:27 +0000
 p269
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2aci3b/low_bandwidth_audio_only_streams_for_ti4/
+Vhttp://www.reddit.com/r/DotA2/comments/2adgty/the_guy_that_came_with_the_multicast_idea/
 p270
 stRp271
 ag1
@@ -936,7 +936,7 @@ sg11
 g54
 sg13
 Nsg14
-V<!-- SC_OFF --><div class="md"><p>Best stream ever!</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/VINCE_C_"> VINCE_C_ </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2adgty/the_guy_that_came_with_the_multicast_idea/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adgty/the_guy_that_came_with_the_multicast_idea/">[19 comments]</a>
+Vsubmitted by <a href="http://www.reddit.com/user/Shincry"> Shincry </a> <br /> <a href="http://i.imgur.com/N8SmhG7.png">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aby52/every_single_game_as_disruptor/">[337 comments]</a>
 p276
 stRp277
 sg19
@@ -946,7 +946,7 @@ g1
 g3
 (dp279
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2adgty/the_guy_that_came_with_the_multicast_idea/
+Vhttp://www.reddit.com/r/DotA2/comments/2aby52/every_single_game_as_disruptor/
 p280
 sg11
 g24
@@ -958,15 +958,15 @@ g106
 ((I2014
 I7
 I10
-I22
-I35
-I27
+I13
+I46
+I7
 I3
 I191
 I0
 t(dtRp282
 sg36
-VThe guy that came with the Multicast idea deserves a fucking medal.
+VEvery single game as disruptor
 p283
 sg109
 g276
@@ -990,10 +990,10 @@ stRp287
 sg37
 g280
 sg115
-VThu, 10 Jul 2014 22:35:27 +0000
+VThu, 10 Jul 2014 06:46:07 -0700
 p288
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2adgty/the_guy_that_came_with_the_multicast_idea/
+Vhttp://www.reddit.com/r/DotA2/comments/2aby52/every_single_game_as_disruptor/
 p289
 stRp290
 ag1
@@ -1013,7 +1013,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/freecajunlove"> freecajunlove </a> <br /> <a href="http://i.imgur.com/Y0qmnjj.jpg">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ab1x7/when_i_first_heard_about_the_multistream_i/">[136 comments]</a>
+V<!-- SC_OFF --><div class="md"><p>When we bought our VIP tickets, we weren't 100% sure what we were getting ourselves into. But this playoff experience has been nothing short of stunning. </p> <p>We all get to sit next to and interact with the players, coaches, managers &amp; personalities all day long. Full, high-quality catered buffets have been available for <em>all meals of the day</em>. Unlimited red bull and other energy drinks. The viewing setup is <em>perfect</em>.</p> <p>I'm just speechless. Just an all-around perfect experience. WP volvo</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/Reead"> Reead </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2aehgc/shoutout_to_valve_for_an_absolutely_amazing_vip/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aehgc/shoutout_to_valve_for_an_absolutely_amazing_vip/">[73 comments]</a>
 p295
 stRp296
 sg19
@@ -1023,7 +1023,7 @@ g1
 g3
 (dp298
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2ab1x7/when_i_first_heard_about_the_multistream_i/
+Vhttp://www.reddit.com/r/DotA2/comments/2aehgc/shoutout_to_valve_for_an_absolutely_amazing_vip/
 p299
 sg11
 g24
@@ -1034,16 +1034,16 @@ asg105
 g106
 ((I2014
 I7
-I10
+I11
+I5
+I18
+I33
 I4
-I40
-I51
-I3
-I191
+I192
 I0
 t(dtRp301
 sg36
-VWhen I first heard about the Multistream, I expected something like this.
+VShoutout to Valve for an absolutely amazing VIP experience so far
 p302
 sg109
 g295
@@ -1067,10 +1067,10 @@ stRp306
 sg37
 g299
 sg115
-VThu, 10 Jul 2014 04:40:51 +0000
+VFri, 11 Jul 2014 05:18:33 +0000
 p307
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2ab1x7/when_i_first_heard_about_the_multistream_i/
+Vhttp://www.reddit.com/r/DotA2/comments/2aehgc/shoutout_to_valve_for_an_absolutely_amazing_vip/
 p308
 stRp309
 ag1
@@ -1090,7 +1090,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/Firefro626"> Firefro626 </a> <br /> <a href="http://i.imgur.com/nxZSjKS.png">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2abjot/my_prediction_of_skywraths_play_in_the/">[208 comments]</a>
+Vsubmitted by <a href="http://www.reddit.com/user/lokilize"> lokilize </a> <br /> <a href="http://i.imgur.com/qyzThiS.png">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ac9v2/earrings_of_basilius/">[183 comments]</a>
 p314
 stRp315
 sg19
@@ -1100,7 +1100,7 @@ g1
 g3
 (dp317
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2abjot/my_prediction_of_skywraths_play_in_the/
+Vhttp://www.reddit.com/r/DotA2/comments/2ac9v2/earrings_of_basilius/
 p318
 sg11
 g24
@@ -1112,15 +1112,15 @@ g106
 ((I2014
 I7
 I10
-I9
-I46
-I42
+I15
+I50
+I1
 I3
 I191
 I0
 t(dtRp320
 sg36
-VMy prediction of Skywrath's play in The International
+VEarrings of Basilius
 p321
 sg109
 g314
@@ -1144,10 +1144,10 @@ stRp325
 sg37
 g318
 sg115
-VThu, 10 Jul 2014 09:46:42 +0000
+VThu, 10 Jul 2014 15:50:01 +0000
 p326
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2abjot/my_prediction_of_skywraths_play_in_the/
+Vhttp://www.reddit.com/r/DotA2/comments/2ac9v2/earrings_of_basilius/
 p327
 stRp328
 ag1
@@ -1167,7 +1167,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/devilesk"> devilesk </a> <br /> <a href="http://devilesk.com/dota2/international/2014/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2abvfb/ti4_results_and_phase_2_results_web_visualization/">[54 comments]</a>
+V<!-- SC_OFF --><div class="md"><p>All games below are games I think are some of the must watch games amongst all the games today, due to upsets, close games, or player domination. Spoiler free! <a href="http://www.dota2.com/international/watch/July9/">Games are currently on the TI website. Just make sure you don't click anything that will spoil the game for you!</a> </p> <table><thead> <tr> <th>Team</th> <th>vs.</th> <th>Team</th> <th>Series # Game #</th> </tr> </thead><tbody> <tr> <td><a href="http://www.reddit.com/logo-titan"></a> Titan</td> <td>vs.</td> <td><a href="http://www.reddit.com/logo-newbee"></a> Newbee</td> <td>Series 10 Game 4</td> </tr> <tr> <td><a href="http://www.reddit.com/logo-arrow"></a> Arrow</td> <td>vs.</td> <td><a href="http://www.reddit.com/logo-dk"></a> DK</td> <td>Series 11 Game 3</td> </tr> <tr> <td><a href="http://www.reddit.com/logo-titan"></a> Titan</td> <td>vs.</td> <td><a href="http://www.reddit.com/logo-navi"></a> Navi</td> <td>Series 12 Game 2</td> </tr> <tr> <td><a href="http://www.reddit.com/logo-lgd"></a> LGD</td> <td>vs.</td> <td><a href="http://www.reddit.com/logo-liquid"></a> Liquid</td> <td>Series 14 Game 1</td> </tr> <tr> <td><a href="http://www.reddit.com/logo-nar"></a> Narvi</td> <td>vs.</td> <td><a href="http://www.reddit.com/logo-ig"></a> iG</td> <td>Series 14 Game 2</td> </tr> <tr> <td><a href="http://www.reddit.com/logo-dk"></a> DK</td> <td>vs.</td> <td><a href="http://www.reddit.com/logo-empire"></a> Empire</td> <td>Series 16 Game 1</td> </tr> <tr> <td><a href="http://www.reddit.com/logo-newbee"></a> Newbee</td> <td>vs.</td> <td><a href="http://www.reddit.com/logo-vg"></a> Vici</td> <td>Series 17 Game 1</td> </tr> <tr> <td><a href="http://www.reddit.com/logo-arrow"></a> Arrow</td> <td>vs.</td> <td><a href="http://www.reddit.com/logo-nar"></a> Narvi</td> <td>Series 17 Game 2</td> </tr> <tr> <td><a href="http://www.reddit.com/logo-fnatic"></a> Fnatic</td> <td>vs.</td> <td><a href="http://www.reddit.com/logo-alliance"></a> Alliance</td> <td>Series 17 Game 4</td> </tr> <tr> <td><a href="http://www.reddit.com/logo-liquid"></a> Liquid</td> <td>vs.</td> <td><a href="http://www.reddit.com/logo-arrow"></a> Arrow</td> <td>Series 18 Game 2</td> </tr> </tbody></table> <p>Enjoy these games! I will do the same tomorrow if people would like.</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/brandoi"> brandoi </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2ae9yi/the_international_2014_day_3_must_watch_games/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ae9yi/the_international_2014_day_3_must_watch_games/">[66 comments]</a>
 p333
 stRp334
 sg19
@@ -1177,7 +1177,7 @@ g1
 g3
 (dp336
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2abvfb/ti4_results_and_phase_2_results_web_visualization/
+Vhttp://www.reddit.com/r/DotA2/comments/2ae9yi/the_international_2014_day_3_must_watch_games/
 p337
 sg11
 g24
@@ -1188,16 +1188,16 @@ asg105
 g106
 ((I2014
 I7
-I10
-I13
-I12
-I35
+I11
 I3
-I191
+I44
+I51
+I4
+I192
 I0
 t(dtRp339
 sg36
-VTI4 results and phase 2 results web visualization
+VThe International 2014 Day 3 Must Watch Games
 p340
 sg109
 g333
@@ -1221,10 +1221,10 @@ stRp344
 sg37
 g337
 sg115
-VThu, 10 Jul 2014 13:12:35 +0000
+VFri, 11 Jul 2014 03:44:51 +0000
 p345
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2abvfb/ti4_results_and_phase_2_results_web_visualization/
+Vhttp://www.reddit.com/r/DotA2/comments/2ae9yi/the_international_2014_day_3_must_watch_games/
 p346
 stRp347
 ag1
@@ -1244,7 +1244,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/xaitv"> xaitv </a> <br /> <a href="http://i.imgur.com/C06GaC5.jpg">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ac5tm/ti4_a_heatmap_of_where_people_died_on_day_1_and/">[54 comments]</a>
+Vsubmitted by <a href="http://www.reddit.com/user/okokok1233"> okokok1233 </a> <br /> <a href="https://www.youtube.com/watch?v=2o60pW091NU">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aczwh/bulbaeveryone_flamed_us/">[262 comments]</a>
 p352
 stRp353
 sg19
@@ -1254,7 +1254,7 @@ g1
 g3
 (dp355
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2ac5tm/ti4_a_heatmap_of_where_people_died_on_day_1_and/
+Vhttp://www.reddit.com/r/DotA2/comments/2aczwh/bulbaeveryone_flamed_us/
 p356
 sg11
 g24
@@ -1266,15 +1266,15 @@ g106
 ((I2014
 I7
 I10
-I15
-I9
-I3
+I19
+I53
+I49
 I3
 I191
 I0
 t(dtRp358
 sg36
-V[TI4] A heatmap of where people died on day 1 and wildcard matches
+VBulba:"Everyone flamed us"
 p359
 sg109
 g352
@@ -1298,10 +1298,10 @@ stRp363
 sg37
 g356
 sg115
-VThu, 10 Jul 2014 15:09:03 +0000
+VThu, 10 Jul 2014 12:53:49 -0700
 p364
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2ac5tm/ti4_a_heatmap_of_where_people_died_on_day_1_and/
+Vhttp://www.reddit.com/r/DotA2/comments/2aczwh/bulbaeveryone_flamed_us/
 p365
 stRp366
 ag1
@@ -1321,7 +1321,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/MarelePisoi"> MarelePisoi </a> <br /> <a href="http://youtu.be/gCyq9vn0QRs">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ad2q3/fastest_dieback_ever_navi_vs_titan_ti4_group_stage/">[27 comments]</a>
+Vsubmitted by <a href="http://www.reddit.com/user/Speyedur"> Speyedur </a> <br /> <a href="http://cloud-4.steampowered.com/ugc/582405046292771869/6861E6224CEB6C8299555C3E527087144E81F384/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adbwa/new_players_when_watching_in_game_clicking_on_an/">[38 comments]</a>
 p371
 stRp372
 sg19
@@ -1331,7 +1331,7 @@ g1
 g3
 (dp374
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2ad2q3/fastest_dieback_ever_navi_vs_titan_ti4_group_stage/
+Vhttp://www.reddit.com/r/DotA2/comments/2adbwa/new_players_when_watching_in_game_clicking_on_an/
 p375
 sg11
 g24
@@ -1343,15 +1343,15 @@ g106
 ((I2014
 I7
 I10
-I20
-I19
-I45
+I21
+I46
+I38
 I3
 I191
 I0
 t(dtRp377
 sg36
-VFastest Dieback ever? - Na'Vi vs. Titan @ TI4 Group Stage
+VNew Players: when watching in game, clicking on an ability during a draft shows you what the ability does with a cool little video!
 p378
 sg109
 g371
@@ -1375,10 +1375,10 @@ stRp382
 sg37
 g375
 sg115
-VThu, 10 Jul 2014 20:19:45 +0000
+VThu, 10 Jul 2014 21:46:38 +0000
 p383
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2ad2q3/fastest_dieback_ever_navi_vs_titan_ti4_group_stage/
+Vhttp://www.reddit.com/r/DotA2/comments/2adbwa/new_players_when_watching_in_game_clicking_on_an/
 p384
 stRp385
 ag1
@@ -1398,7 +1398,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/Eznark"> Eznark </a> <br /> <a href="http://giant.gfycat.com/GreedyUniqueBarbet.gif">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2abuk4/waytosexy_play_of_the_day_gif/">[33 comments]</a>
+V<!-- SC_OFF --><div class="md"><p>I like commentator camera control but sometimes I want to click on heroes/units or check out a spot on the map real quick. It's a pain to use the drop-down list to switch back and forth.</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/wrathgiver"> wrathgiver </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2adz93/valve_spectating_please_add_a_button_that/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adz93/valve_spectating_please_add_a_button_that/">[29 comments]</a>
 p390
 stRp391
 sg19
@@ -1408,7 +1408,7 @@ g1
 g3
 (dp393
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2abuk4/waytosexy_play_of_the_day_gif/
+Vhttp://www.reddit.com/r/DotA2/comments/2adz93/valve_spectating_please_add_a_button_that/
 p394
 sg11
 g24
@@ -1419,16 +1419,16 @@ asg105
 g106
 ((I2014
 I7
-I10
-I13
+I11
 I1
-I27
-I3
-I191
+I45
+I46
+I4
+I192
 I0
 t(dtRp396
 sg36
-VWaytosexy Play of the Day .gif
+VValve: Spectating: Please add a button that switches to Free Camera mode while the button is held.
 p397
 sg109
 g390
@@ -1452,10 +1452,10 @@ stRp401
 sg37
 g394
 sg115
-VThu, 10 Jul 2014 13:01:27 +0000
+VFri, 11 Jul 2014 01:45:46 +0000
 p402
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2abuk4/waytosexy_play_of_the_day_gif/
+Vhttp://www.reddit.com/r/DotA2/comments/2adz93/valve_spectating_please_add_a_button_that/
 p403
 stRp404
 ag1
@@ -1475,7 +1475,7 @@ sg11
 g54
 sg13
 Nsg14
-V<!-- SC_OFF --><div class="md"><p>Someone at TI4 stop that spam</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/PesNr"> PesNr </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2addyd/did_someone_just_hacked_metabies_twitch_account/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2addyd/did_someone_just_hacked_metabies_twitch_account/">[54 comments]</a>
+V<!-- SC_OFF --><div class="md"><h3>The International 2014</h3> <h2>Organized and hosted by Valve Corporation</h2> <h2>Sponsored by Valve Corporation, The Compendium</h2> <hr /> <p><strong>Need info on the event? Check out our <a href="http://www.reddit.com/r/DotA2/wiki/events/ti4">Survival Guide</a></strong></p> <p><strong>Check out the Day 3 <a href="http://www.reddit.com/r/DotA2/comments/2ac6qf/the_international_2014_playoffs_day_3_match/">Live Discussion</a>.</strong></p> <h4>VODs can be found on the Watch tab of the TI Tournament Site</h4> <h3><a href="http://www.dota2.com/international/watch/July10/">Click &quot;Stream Navigation&quot; for a full list of Today's Games</a></h3> <hr /> <p>Well hello there! With the conclusion of Day 3 we find ourselves playing a little bit over half of the round robin games. The standings are developing, but with many more games to be played everything is still in flux. into Today we were blessed with another 12 hours of dota, most of which had four games going on simultaneously. We had a total of 36 games played between the 16 teams who made it to groups. This thread will serve as a recap of must watch games, cool stats, and general discussion. </p> <hr /> <h3>Standings after Day 3:</h3> <table><thead> <tr> <th align="left">Round Robin</th> <th align="center"><a href="http://www.reddit.com/nbsp"></a></th> <th align="center">Tentative Placing</th> </tr> </thead><tbody> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> <strong>Vici Gaming</strong></td> <td align="center">7-1</td> <td align="center">Team advances to Main Event's WB</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> <strong>Invictus Gaming</strong></td> <td align="center">6-3</td> <td align="center"></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> <strong>Team DK</strong></td> <td align="center">6-3</td> <td align="center">Team advances to 3rd phase round 3</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/us" title="United States"></a> <strong>Evil Geniuses</strong></td> <td align="center">6-3</td> <td align="center"></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/ua" title="Ukraine"></a> <strong>Natus Vincere</strong></td> <td align="center">5-3</td> <td align="center">Team advances to 3rd phase round 2</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/my" title="Malaysia"></a> <strong>Titan</strong></td> <td align="center">5-4</td> <td align="center"></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/us" title="United States"></a> <strong>Team Liquid</strong></td> <td align="center">5-4</td> <td align="center">Team advances to 3rd phase round 1</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/wo" title="World"></a> <strong>Cloud 9</strong></td> <td align="center">5-4</td> <td align="center"></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> <strong>Newbee</strong></td> <td align="center">5-5</td> <td align="center"></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/se" title="Sweden"></a> <strong>Alliance</strong></td> <td align="center">4-5</td> <td align="center"></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/us" title="United States"></a> <strong>Na'Vi North America</strong></td> <td align="center">4-5</td> <td align="center">Team is eliminated</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/eu" title="Europe"></a> <strong>Fnatic</strong></td> <td align="center">4-5</td> <td align="center"></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/cn" title="China"></a> <strong>LGD Gaming</strong></td> <td align="center">3-6</td> <td align="center"></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/ru" title="Russia"></a> <strong>Team Empire</strong></td> <td align="center">3-6</td> <td align="center"></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/de" title="Germany"></a> <strong>mousesports</strong></td> <td align="center">2-7</td> <td align="center"></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/my" title="Malaysia"></a> <strong>Arrow Gaming</strong></td> <td align="center">2-8</td> <td align="center"></td> </tr> </tbody></table> <hr /> <h3>Games to watch from Day 3:</h3> <p><strong><a href="http://www.dota2.com/international/watch/July9/">You can watch ALL match vods directly on the offical TI4 site. Click here to see them all</a>. You can also watch the games ingame, which is why we have provided matchIDs!</strong><br /> Now I know you might not be interested in watching 36 games. That is a metric-shit-ton of content. Here are some highlighted games to check out. The best of the best. The crème. The upper class of day 3.</p> <table><thead> <tr> <th align="center">Team 1</th> <th>vs</th> <th align="center">Team 2</th> <th align="center">matchID</th> </tr> </thead><tbody> <tr> <td align="center"><a href="http://www.reddit.com/logo-nar"></a></td> <td>vs</td> <td align="center"><a href="http://www.reddit.com/logo-ig"></a></td> <td align="center">769199481</td> </tr> <tr> <td align="center"><a href="http://www.reddit.com/logo-liquid"></a></td> <td>vs</td> <td align="center"><a href="http://www.reddit.com/logo-fnatic"></a></td> <td align="center">768808772</td> </tr> <tr> <td align="center"><a href="http://www.reddit.com/logo-nar"></a></td> <td>vs</td> <td align="center"><a href="http://www.reddit.com/logo-arrow"></a></td> <td align="center">769371854</td> </tr> <tr> <td align="center"><a href="http://www.reddit.com/logo-arrow"></a></td> <td>vs</td> <td align="center"><a href="http://www.reddit.com/logo-liquid"></a></td> <td align="center">769408915</td> </tr> <tr> <td align="center"><a href="http://www.reddit.com/logo-empire"></a></td> <td>vs</td> <td align="center"><a href="http://www.reddit.com/logo-dk"></a></td> <td align="center">769287352</td> </tr> <tr> <td align="center"><a href="http://www.reddit.com/logo-c9"></a></td> <td>vs</td> <td align="center"><a href="http://www.reddit.com/logo-navi"></a></td> <td align="center">768904872</td> </tr> <tr> <td align="center"><a href="http://www.reddit.com/logo-vg"></a></td> <td>vs</td> <td align="center"><a href="http://www.reddit.com/logo-newbee"></a></td> <td align="center">769348520</td> </tr> <tr> <td align="center"><a href="http://www.reddit.com/logo-arrow"></a></td> <td>vs</td> <td align="center"><a href="http://www.reddit.com/logo-dk"></a></td> <td align="center">768917747</td> </tr> </tbody></table> <p>While all these games are A++, this list is sorted with the &quot;best&quot; at the top. If you're pressed for time watch in order. Obviously there is no bias present. </p> <p>Are you sad that I did not list your favorite game here? Maybe I missed it. Please share your favorite match of Day 2 below! </p> <h3>Stats n' Stuff:</h3> <p>Here is a list of heroes who have not been picked through Day 2 of competition: </p> <table><thead> <tr> <th align="center">Str</th> <th align="center">Agi</th> <th align="center">Int</th> </tr> </thead><tbody> <tr> <td align="center"><a href="http://www.reddit.com/hero-omniknight"></a></td> <td align="center"><a href="http://www.reddit.com/hero-medusa"></a></td> <td align="center"><a href="http://www.reddit.com/hero-crystalmaiden"></a></td> </tr> <tr> <td align="center"><a href="http://www.reddit.com/hero-huskar"></a></td> <td align="center"><a href="http://www.reddit.com/hero-bountyhunter"></a></td> <td align="center"><a href="http://www.reddit.com/hero-lina"></a></td> </tr> <tr> <td align="center"><a href="http://www.reddit.com/hero-undying"></a></td> <td align="center"><a href="http://www.reddit.com/hero-phantomlancer"></a></td> <td align="center"><a href="http://www.reddit.com/hero-keeperofthelight"></a></td> </tr> <tr> <td align="center"><a href="http://www.reddit.com/hero-pudge"></a></td> <td align="center"><a href="http://www.reddit.com/hero-bloodseeker"></a></td> <td align="center"></td> </tr> <tr> <td align="center"><a href="http://www.reddit.com/hero-slardar"></a></td> <td align="center"><a href="http://www.reddit.com/hero-shadowfiend"></a></td> <td align="center"></td> </tr> <tr> <td align="center"><a href="http://www.reddit.com/hero-spiritbreaker"></a></td> <td align="center"><a href="http://www.reddit.com/hero-meepo"></a></td> <td align="center"></td> </tr> <tr> <td align="center"><a href="http://www.reddit.com/hero-nightstalker"></a></td> <td align="center"></td> <td align="center"></td> </tr> </tbody></table> <p>Fun tidbits: </p> <table><thead> <tr> <th align="center">What?</th> <th align="center">Who?</th> <th align="center">How much?</th> <th align="center">Info</th> </tr> </thead><tbody> <tr> <td align="center">Most Picked</td> <td align="center"><a href="http://www.reddit.com/hero-skywrathmage"></a></td> <td align="center">26</td> <td align="center">35% Winrate (9-17)</td> </tr> <tr> <td align="center">Most Banned</td> <td align="center"><a href="http://www.reddit.com/hero-lycan"></a></td> <td align="center">33</td> <td align="center">Picked in remaining 3 games</td> </tr> <tr> <td align="center">Most Successful (min 5 games)</td> <td align="center"><a href="http://www.reddit.com/hero-shadowshaman"></a></td> <td align="center">-</td> <td align="center">71% Winrate (10-4)</td> </tr> <tr> <td align="center">Least Successful (min 5 games)</td> <td align="center"><a href="http://www.reddit.com/hero-viper"></a></td> <td align="center">-</td> <td align="center">14% Winrate (1-6)</td> </tr> <tr> <td align="center">Best GPM</td> <td align="center"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a> <strong>Sneyking</strong> <a href="http://www.reddit.com/hero-nagasiren"></a></td> <td align="center">817</td> <td align="center">versus <a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> </tr> <tr> <td align="center">Best KDA</td> <td align="center"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a> <strong>Lance</strong> <a href="http://www.reddit.com/hero-mirana"></a></td> <td align="center">13-1</td> <td align="center">versus <a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> </tr> <tr> <td align="center">Most Deaths</td> <td align="center"><a href="http://www.reddit.com/logo-nar"></a> <strong>1437</strong> <a href="http://www.reddit.com/hero-skywrathmage"></a></td> <td align="center">7-16</td> <td align="center">versus <a href="http://www.reddit.com/logo-ig"></a></td> </tr> <tr> <td align="center">Longest Game</td> <td align="center"><a href="http://www.reddit.com/logo-arrow"></a></td> <td align="center">73.07 minutes</td> <td align="center">versus <a href="http://www.reddit.com/logo-dk"></a></td> </tr> <tr> <td align="center">Shortest Game</td> <td align="center"><a href="http://www.reddit.com/logo-lgd"></a></td> <td align="center">17.52 minutes</td> <td align="center">versus <a href="http://www.reddit.com/logo-vg"></a></td> </tr> <tr> <td align="center">Fantasy Leader</td> <td align="center"><a href="http://www.reddit.com/logo-dk"></a> <strong>Mushi</strong></td> <td align="center">57</td> <td align="center">&lt;3</td> </tr> <tr> <td align="center">Best fantasy team score</td> <td align="center"><a href="http://www.reddit.com/logo-dk"></a> <strong>DK</strong></td> <td align="center">243.8</td> <td align="center"><a href="http://www.reddit.com/logo-ig"></a> when / games played</td> </tr> <tr> <td align="center">Minutes of dota played today</td> <td align="center">-</td> <td align="center">1432.06</td> <td align="center">That's just shy of 24hrs.</td> </tr> </tbody></table> <p>The best possible fantasy team today would have been a full DK roster, except Deamon sneaks in to replace MMY. Deamon is classified as a support even though he has been playing offlane, so that is an issue that should be addressed. Mushi (57), Iceiceice (56.6), Burning (53.1), LaNM (42.6) &amp; Pegasus (41.7) = 251. </p> <p><em>How many fantasy points did you score today?</em> </p> <p><a href="http://www.datdota.com/tournament.php?q=285&amp;tournament=The%20International%202014%3EThe%20International">I want more sexy TI4 Stats.</a><br /> <a href="https://docs.google.com/spreadsheets/d/1PsDzbVMQ2a_mDUyXTg63tZ2mvjC9TicWdhhzYMPC0eY/edit?usp=sharing">I want more sexy Fantasy Stats.</a> </p> <hr /> <p>So how did you feel about day 3? Were you overwhelmed with awesome games and the copious amount of content? Here are some talking-points for us:</p> <ul> <li>Are you still watching multicast with Bruno, or do you prefer to have more control over which games you're watching? </li> <li>Which team do you feel has disappointed you the most today?<br /></li> <li>Which team were you pleasantly surprised by today?<br /></li> <li>Will any of the bottom 6 teams make make it out of the trench on day 4? If so who will be falling down?<br /></li> <li>What hero do you want to see more of?<br /></li> <li>Are liquid <em>still</em> doing it? Will they make it to the main event?<br /></li> <li>Will Arrow finish in 14th or higher and earn some of that sweet dirty valve cash?<br /></li> <li>Are you sitting on <a href="http://www.reddit.com/r/dota2">/r/dota2</a> while watching these games? Any feedback for us or ideas for new content?<br /></li> </ul> <p>Get hyped for day 4 everyone. </p> <hr /> <h3>Full Results:</h3> <p><strong><a href="http://wiki.teamliquid.net/dota2/The_International/2014/Playoffs/Phase_Two">Check out the Liquipedia TI4 page for even more infromation and easier viewing</a></strong> </p> <table><thead> <tr> <th align="left">Team</th> <th align="center">&nbsp; vs. &nbsp;</th> <th align="center">Team</th> <th align="center">Casters</th> <th align="center">Result</th> </tr> </thead><tbody> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center">LD + Lumi</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-fnatic" title="Fnatic"></a></td> <td align="center">Toby + Syn</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-empire" title="Empire"></a></td> <td align="center">Merlini + Godz</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center">Maut + KOTL Guy</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-eg" title="Evil Geniuses"></a></td> <td align="center">LD + Lumi</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-c9" title="Cloud9"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-navi" title="Na'Vi.EU"></a></td> <td align="center">Toby + Syn</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-dk" title="Team DK"></a></td> <td align="center">Merlini + Godz</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-lgd" title="LGD"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-vg" title="Vici Gaming"></a></td> <td align="center">Maut + KOTL Guy</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-lgd" title="LGD"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-fnatic" title="Fnatic"></a></td> <td align="center">LD + Lumi</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-navi" title="Na'Vi.EU"></a></td> <td align="center">Toby + Syn</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-alliance" title="Alliance"></a></td> <td align="center">Merlini + Godz</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-vg" title="Vici Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">Maut + KOTL Guy</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-empire" title="Empire"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center">LD + Lumi</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">Toby + Syn</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-dk" title="Team DK"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-c9" title="Cloud9"></a></td> <td align="center">Merlini + Godz</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-eg" title="Evil Geniuses"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center">Maut + KOTL Guy</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-lgd" title="LGD"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center">LD + Lumi</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">Toby + Syn</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-dk" title="Team DK"></a></td> <td align="center">Lysander + Basskip</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-empire" title="Empire"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-alliance" title="Alliance"></a></td> <td align="center">Maut + KOTL Guy</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-vg" title="Vici Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-fnatic" title="Fnatic"></a></td> <td align="center">LD + Lumi</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-c9" title="Cloud9"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center">Toby + Syn</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center">Lysander + Basskip</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-navi" title="Na'Vi.EU"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-eg" title="Evil Geniuses"></a></td> <td align="center">Capt+ Waga</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-empire" title="Empire"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-dk" title="Team DK"></a></td> <td align="center">Ayesee + Malek</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-alliance" title="Alliance"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">Merlini + Godz</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-c9" title="Cloud9"></a></td> <td align="center">Lysander + Basskip</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">Capt+ Waga</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-vg" title="Vici Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center">Ayesee + Malek</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">Merlini + Godz</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-navi" title="Na'Vi.EU"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-lgd" title="LGD"></a></td> <td align="center">Lysander + Basskip</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-alliance" title="Alliance"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-fnatic" title="Fnatic"></a></td> <td align="center">Capt+ Waga</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center">Ayesee + Malek</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center">Merlini + Godz</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-empire" title="Empire"></a></td> <td align="center">Lysander + Basskip</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="0-1"></a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-eg" title="Evil Geniuses"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">Capt+ Waga</td> <td align="center"><a href="http://www.reddit.com/r/DotA2.rss#s" title="1-0"></a></td> </tr> </tbody></table> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/leafeator"> leafeator </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2aedp1/the_international_2014_playoffs_day_3_results/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aedp1/the_international_2014_playoffs_day_3_results/">[27 comments]</a>
 p409
 stRp410
 sg19
@@ -1485,7 +1485,7 @@ g1
 g3
 (dp412
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2addyd/did_someone_just_hacked_metabies_twitch_account/
+Vhttp://www.reddit.com/r/DotA2/comments/2aedp1/the_international_2014_playoffs_day_3_results/
 p413
 sg11
 g24
@@ -1496,16 +1496,16 @@ asg105
 g106
 ((I2014
 I7
-I10
-I22
-I6
-I22
-I3
-I191
+I11
+I4
+I31
+I2
+I4
+I192
 I0
 t(dtRp415
 sg36
-VDid someone just hacked metabies twitch account or he is intentionaly posting fucking screamers?
+VThe International 2014 Playoffs Day 3: Results, Highlighted Games, Stats, & Discussion (Group's Day 2)
 p416
 sg109
 g409
@@ -1529,10 +1529,10 @@ stRp420
 sg37
 g413
 sg115
-VThu, 10 Jul 2014 22:06:22 +0000
+VFri, 11 Jul 2014 04:31:02 +0000
 p421
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2addyd/did_someone_just_hacked_metabies_twitch_account/
+Vhttp://www.reddit.com/r/DotA2/comments/2aedp1/the_international_2014_playoffs_day_3_results/
 p422
 stRp423
 ag1
@@ -1552,7 +1552,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/Verdey"> Verdey </a> <br /> <a href="http://i.imgur.com/H8gjeQu.jpg">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aaumx/nobody_believed_him_he_was_right_all_along/">[964 comments]</a>
+V<!-- SC_OFF --><div class="md"><p>Hi!</p> <p>Do you have any feedback for <a href="http://wiki.teamliquid.net/dota2/The_International/2014">our The International 4 coverage</a>? Our goal is to provide useful information for teams, players, and of course all of the results. We're always greatful for feedback from our users.</p> <p>You are always welcome to help us with our coverage. The only thing you need is a LiquidDota.com account and you can jump right into editing. For more information see <a href="http://www.liquiddota.com/forum/dota-2-general/453864-lp-the-liquipedia-dota-2-wiki">here</a> and <a href="http://www.liquiddota.com/forum/website-feedback/455658-liquipedia-feedback-thread">here</a>.</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/Liquipedia"> Liquipedia </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2ad96y/with_ti4_going_on_weve_have_a_lot_of_visitors/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ad96y/with_ti4_going_on_weve_have_a_lot_of_visitors/">[139 comments]</a>
 p428
 stRp429
 sg19
@@ -1562,7 +1562,7 @@ g1
 g3
 (dp431
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2aaumx/nobody_believed_him_he_was_right_all_along/
+Vhttp://www.reddit.com/r/DotA2/comments/2ad96y/with_ti4_going_on_weve_have_a_lot_of_visitors/
 p432
 sg11
 g24
@@ -1574,15 +1574,15 @@ g106
 ((I2014
 I7
 I10
-I3
-I17
-I20
+I21
+I19
+I55
 I3
 I191
 I0
 t(dtRp434
 sg36
-VNobody believed him .. he was right all along.
+VWith TI4 going on, we've have a lot of visitors that are new to Liquipedia, so we're asking if you guys (new and old users) have any feedback about our TI4 coverage?
 p435
 sg109
 g428
@@ -1606,10 +1606,10 @@ stRp439
 sg37
 g432
 sg115
-VThu, 10 Jul 2014 03:17:20 +0000
+VThu, 10 Jul 2014 21:19:55 +0000
 p440
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2aaumx/nobody_believed_him_he_was_right_all_along/
+Vhttp://www.reddit.com/r/DotA2/comments/2ad96y/with_ti4_going_on_weve_have_a_lot_of_visitors/
 p441
 stRp442
 ag1
@@ -1629,7 +1629,7 @@ sg11
 g54
 sg13
 Nsg14
-V<!-- SC_OFF --><div class="md"><p>In all the commotion of The International, seems like nobody remembered. We only need a reason to rejoice!</p> <p>Dota 2 came out of beta and was formally tagged as '<em>Released</em>' on <strong>July 9, 2013</strong>.</p> <p>On the day we went live, the game saw a monthly concurrent viewer number of 3 Million and today we are just about to hit 9 Million. So that is 3 times in the first recorded year. Well played.</p> <p>Here's to many more years like we've been through so many until now! &lt;3</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/wykrhm"> wykrhm </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2ab50f/happy_one_year_of_official_release_folks/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ab50f/happy_one_year_of_official_release_folks/">[271 comments]</a>
+V<!-- SC_OFF --><div class="md"><p>/s</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/Another_year"> Another_year </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2adxrs/attention_skywrath_mage_and_razor_picked_up_in/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adxrs/attention_skywrath_mage_and_razor_picked_up_in/">[120 comments]</a>
 p447
 stRp448
 sg19
@@ -1639,7 +1639,7 @@ g1
 g3
 (dp450
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2ab50f/happy_one_year_of_official_release_folks/
+Vhttp://www.reddit.com/r/DotA2/comments/2adxrs/attention_skywrath_mage_and_razor_picked_up_in/
 p451
 sg11
 g24
@@ -1650,16 +1650,16 @@ asg105
 g106
 ((I2014
 I7
-I10
-I5
-I20
-I37
-I3
-I191
+I11
+I1
+I29
+I26
+I4
+I192
 I0
 t(dtRp453
 sg36
-VHappy One Year of Official Release folks!
+VATTENTION: SKywrath Mage and Razor picked up in Alliance vs. Fnatic
 p454
 sg109
 g447
@@ -1683,10 +1683,10 @@ stRp458
 sg37
 g451
 sg115
-VThu, 10 Jul 2014 05:20:37 +0000
+VFri, 11 Jul 2014 01:29:26 +0000
 p459
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2ab50f/happy_one_year_of_official_release_folks/
+Vhttp://www.reddit.com/r/DotA2/comments/2adxrs/attention_skywrath_mage_and_razor_picked_up_in/
 p460
 stRp461
 ag1
@@ -1706,7 +1706,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/anewmoonera"> anewmoonera </a> <br /> <a href="https://www.youtube.com/watch?v=z9HadyPilJM">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2acn5h/kuroky_epic_epicenter_vs_cloud_9/">[26 comments]</a>
+Vsubmitted by <a href="http://www.reddit.com/user/teheditor"> teheditor </a> <br /> <a href="http://www.abc.net.au/technology/articles/2014/07/11/4044021.htm">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adqw2/abc_covers_the_international_shows_all_main/">[25 comments]</a>
 p466
 stRp467
 sg19
@@ -1716,7 +1716,7 @@ g1
 g3
 (dp469
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2acn5h/kuroky_epic_epicenter_vs_cloud_9/
+Vhttp://www.reddit.com/r/DotA2/comments/2adqw2/abc_covers_the_international_shows_all_main/
 p470
 sg11
 g24
@@ -1727,16 +1727,16 @@ asg105
 g106
 ((I2014
 I7
-I10
+I11
+I0
 I17
-I57
-I52
-I3
-I191
+I26
+I4
+I192
 I0
 t(dtRp472
 sg36
-VKuroKy Epic Epicenter vs Cloud 9
+VABC covers The International. Shows all main qualifiers.
 p473
 sg109
 g466
@@ -1760,10 +1760,10 @@ stRp477
 sg37
 g470
 sg115
-VThu, 10 Jul 2014 17:57:52 +0000
+VFri, 11 Jul 2014 00:17:26 +0000
 p478
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2acn5h/kuroky_epic_epicenter_vs_cloud_9/
+Vhttp://www.reddit.com/r/DotA2/comments/2adqw2/abc_covers_the_international_shows_all_main/
 p479
 stRp480
 ag1
@@ -1783,7 +1783,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/imusingreddityay"> imusingreddityay </a> <br /> <a href="https://www.youtube.com/watch?v=Ssw18XoJTUc&amp;feature=youtu.be">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aaush/bigdaddy_youre_sick_if_you_get_this/">[138 comments]</a>
+Vsubmitted by <a href="http://www.reddit.com/user/datProtein"> datProtein </a> <br /> <a href="http://imgur.com/rVU3cwt">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adhce/but_i_became_the_tiniest_one/">[80 comments]</a>
 p485
 stRp486
 sg19
@@ -1793,7 +1793,7 @@ g1
 g3
 (dp488
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2aaush/bigdaddy_youre_sick_if_you_get_this/
+Vhttp://www.reddit.com/r/DotA2/comments/2adhce/but_i_became_the_tiniest_one/
 p489
 sg11
 g24
@@ -1805,15 +1805,15 @@ g106
 ((I2014
 I7
 I10
-I3
-I18
-I43
+I22
+I41
+I0
 I3
 I191
 I0
 t(dtRp491
 sg36
-VBigDaddy: "You're sick if you get this."
+V"But I became the Tiniest one"
 p492
 sg109
 g485
@@ -1837,10 +1837,10 @@ stRp496
 sg37
 g489
 sg115
-VThu, 10 Jul 2014 03:18:43 +0000
+VThu, 10 Jul 2014 22:41:00 +0000
 p497
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2aaush/bigdaddy_youre_sick_if_you_get_this/
+Vhttp://www.reddit.com/r/DotA2/comments/2adhce/but_i_became_the_tiniest_one/
 p498
 stRp499
 ag1
@@ -1860,7 +1860,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/Trolololowns"> Trolololowns </a> <br /> <a href="https://www.youtube.com/watch?v=bZLydp3z3Ys&amp;list=UUaGWSIZnljlgNTSMzYnxTEg">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ac4d8/pflax_in_the_morning_s02e03/">[22 comments]</a>
+Vsubmitted by <a href="http://www.reddit.com/user/Callik"> Callik </a> <br /> <a href="http://i.imgur.com/l7bTt7w.jpg">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ae2ad/ti4_playoffs_phase_two_parity/">[25 comments]</a>
 p504
 stRp505
 sg19
@@ -1870,7 +1870,7 @@ g1
 g3
 (dp507
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2ac4d8/pflax_in_the_morning_s02e03/
+Vhttp://www.reddit.com/r/DotA2/comments/2ae2ad/ti4_playoffs_phase_two_parity/
 p508
 sg11
 g24
@@ -1881,16 +1881,16 @@ asg105
 g106
 ((I2014
 I7
-I10
-I14
-I54
-I17
-I3
-I191
+I11
+I2
+I18
+I32
+I4
+I192
 I0
 t(dtRp510
 sg36
-VPFlax in the Morning s02e03
+VTI4 - Playoffs Phase Two Parity
 p511
 sg109
 g504
@@ -1914,10 +1914,10 @@ stRp515
 sg37
 g508
 sg115
-VThu, 10 Jul 2014 14:54:17 +0000
+VFri, 11 Jul 2014 02:18:32 +0000
 p516
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2ac4d8/pflax_in_the_morning_s02e03/
+Vhttp://www.reddit.com/r/DotA2/comments/2ae2ad/ti4_playoffs_phase_two_parity/
 p517
 stRp518
 ag1
@@ -1937,7 +1937,7 @@ sg11
 g54
 sg13
 Nsg14
-V<!-- SC_OFF --><div class="md"><p>Hey guys, like <a href="http://www.reddit.com/r/DotA2/comments/2a8rg0/the_international_2014_textbased_commentary_9th/">2 previous days</a>, we are again doing text-based commentary of Day 2 of The International 2014.<br /> In this post you will be able to watch (read) all games we will text-cast today.<br /> Just click on &quot;LIVE BLOG&quot; and you will be taken to the page of text-cast.<br /> I hope all of you will enjoy like you did yesterday and feel free to follow me on <a href="https://twitter.com/HohD2W">TWITTER</a> </p> <h5>10th of July</h5> <table><thead> <tr> <th align="left">Team</th> <th align="center">&nbsp; vs. &nbsp;</th> <th align="center">Team</th> <th align="center">PDT</th> <th align="center">EDT</th> <th align="center">GMT</th> <th align="center">CEST</th> <th align="center">SGT</th> <th align="center">AEST</th> <th align="center">Format</th> <th align="center">LiveBlog</th> <th align="center">Caster</th> </tr> </thead><tbody> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140710T16&amp;p0=%3A">09:00</a></td> <td align="center">12:00</td> <td align="center">16:00</td> <td align="center">18:00</td> <td align="center">00:00</td> <td align="center">02:00</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/invictus-gaming-vs-mousesports-round-robin-day-2/">LIVE BLOG</a></td> <td align="center"><a href="http://twitter.com/camdat">Camdat</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-fnatic" title="Fnatic"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/fnatic-vs-team-liquid-round-robin-day-2/">LIVE BLOG</a></td> <td align="center"><a href="http://twitter.com/riningear">Riningear</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-empire" title="Team Empire"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center">NO CAST</td> <td align="center">NO CAST</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center">NO CAST</td> <td align="center">NO CAST</td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-eg" title="Evil Geniuses"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140710T1715&amp;p0=%3A">10:15</a></td> <td align="center">13:15</td> <td align="center">17:15</td> <td align="center">19:15</td> <td align="center">01:15</td> <td align="center">03:15</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/evil-genius-vs-invictus-gaming-round-robin-day-2/">LIVE BLOG</a></td> <td align="center"><a href="http://twitter.com/Dubzkimo">Dubzkimo</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-c9" title="Cloud9"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-navi" title="Natus Vincere EU"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/cloud-9-vs-navi-round-robin-day-2/">LIVE BLOG</a></td> <td align="center"><a href="http://twitter.com/camdat">camdat</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-dk" title="Team DK"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/dk-vs-arrow-round-robin-day-2/">LIVE BLOG</a></td> <td align="center"><a href="http://twitter.com/riningear">Riningear</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-lgd" title="LGD"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-vg" title="Vici Gaming"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center">NO CAST</td> <td align="center">NO CAST</td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-lgd" title="LGD"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-fnatic" title="Fnatic"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140710T1830&amp;p0=%3A">11:30</a></td> <td align="center">14:30</td> <td align="center">18:30</td> <td align="center">20:30</td> <td align="center">02:30</td> <td align="center">04:30</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/fnatic-vs-lgd-round-robin-day-2/"><strong>LIVE BLOG</strong></a></td> <td align="center"><a href="http://twitter.com/camdat">camdat</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-navi" title="Natus Vincere EU"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/titan-vs-navi-round-robin-day-2/"><strong>LIVE BLOG</strong></a></td> <td align="center"><a href="http://twitter.com/riningear">Riningear</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-alliance" title="Alliance"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/mouse-sports-vs-alliance-round-robin-day-2/"><strong>LIVE BLOG</strong></a></td> <td align="center"><a href="http://twitter.com/Dubzkimo">Dubzkimo</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-vg" title="Vici Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center">NO CAST</td> <td align="center">NO CAST</td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-empire" title="Team Empire"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140710T1945&amp;p0=%3A">12:45</a></td> <td align="center">15:45</td> <td align="center">19:45</td> <td align="center">21:45</td> <td align="center">03:45</td> <td align="center">05:45</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/team-empire-vs-team-liquid-round-robin-day-2/">LIVE BLOG</a></td> <td align="center"><a href="http://twitter.com/camdat">camdat</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center">NO CAST</td> <td align="center">NO CAST</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-dk" title="Team DK"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-c9" title="Cloud9"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/team-dk-vs-cloud-9-round-robin-day-2/">LIVE BLOG</a></td> <td align="center"><a href="http://twitter.com/riningear">Riningear</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-eg" title="Evil Geniuses"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/eg-vs-newbee-round-robin-day-2/">LIVE BLOG</a></td> <td align="center"><a href="http://twitter.com/Dubzkimo">Dubzkimo</a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-lgd" title="LGD"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140710T21&amp;p0=%3A">14:00</a></td> <td align="center">17:00</td> <td align="center">21:00</td> <td align="center">23:00</td> <td align="center">05:00</td> <td align="center">07:00</td> <td align="center">Round-Robin</td> <td align="center">BREAK</td> <td align="center"><a href="http://twitter.com/camdat">camdat</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center">BREAK</td> <td align="center"><a href="http://twitter.com/riningear">Riningear</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-dk" title="Team DK"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center">BREAK</td> <td align="center"><a href="http://twitter.com/Dubzkimo">Dubzkimo</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-empire" title="Team Empire"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-alliance" title="Alliance"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/empire-vs-alliance-round-robin-day-2/">LIVE BLOG</a></td> <td align="center"><a href="https://twitter.com/cuckoodota">Cuckoo</a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-vg" title="Vici Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-fnatic" title="Fnatic"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140710T2215&amp;p0=%3A">15:15</a></td> <td align="center">18:15</td> <td align="center">22:15</td> <td align="center">00:15</td> <td align="center">06:15</td> <td align="center">08:15</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/1">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/camdat">camdat</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-c9" title="Cloud9"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/2">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/riningear">Riningear</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/3">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/Dubzkimo">Dubzkimo</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-navi"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-eg" title="Evil Geniuses"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/4">LiveBlog</a></td> <td align="center"><a href="https://twitter.com/cuckoodota">Cuckoo</a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-empire" title="Team Empire"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-dk" title="Team DK"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140710T2330&amp;p0=%3A">16:30</a></td> <td align="center">19:30</td> <td align="center">23:30</td> <td align="center">01:30</td> <td align="center">07:30</td> <td align="center">09:30</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/5">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/camdat">camdat</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-alliance" title="Alliance"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/6">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/riningear">Riningear</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-c9" title="Cloud9"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/7">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/Dubzkimo">Dubzkimo</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/8">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/Cuckoo">Cuckoo</a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-vg" title="Vici Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140711T0045&amp;p0=%3A">17:45</a></td> <td align="center">20:45</td> <td align="center">00:45</td> <td align="center">02:45</td> <td align="center">08:45</td> <td align="center">10:45</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/9">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/camdat">camdat</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-nar" title="Na'Vi.US"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/10">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/riningear">Riningear</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-navi" title="Natus Vincere EU"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-lgd" title="LGD"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/11">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/Dubzkimo">Dubzkimo</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-alliance" title="Alliance"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-fnatic" title="Fnatic"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/12">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/Cuckoo">Cuckoo</a></td> </tr> <tr> <td align="left">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-newbee" title="Newbee"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-mouz" title="Mousesports"></a></td> <td align="center"><a href="http://www.timeanddate.com/countdown/generic?iso=20140711T02&amp;p0=%3A">19:00</a></td> <td align="center">22:00</td> <td align="center">02:00</td> <td align="center">04:00</td> <td align="center">10:00</td> <td align="center">12:00</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/13">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/camdat">camdat</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-arrow" title="Arrow Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-liquid" title="Team Liquid"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/14">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/riningear">Riningear</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-ig" title="Invictus Gaming"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-empire" title="Team Empire"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/15">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/Dubzkimo">Dubzkimo</a></td> </tr> <tr> <td align="left"><a href="http://www.reddit.com/logo-eg" title="Evil Geniuses"></a></td> <td align="center">vs.</td> <td align="center"><a href="http://www.reddit.com/logo-titan" title="Titan"></a></td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">-</td> <td align="center">Round-Robin</td> <td align="center"><a href="http://dota2world.org/16">LiveBlog</a></td> <td align="center"><a href="http://twitter.com/Cuckoo">Cuckoo</a></td> </tr> </tbody></table> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/HohD2W"> HohD2W </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2ac99w/the_international_2014_textbased_commentary_10th/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ac99w/the_international_2014_textbased_commentary_10th/">[35 comments]</a>
+V<!-- SC_OFF --><div class="md"><p>On the C9 vs NaVi game it was bad and Arrow vs DK had it too, though not as bad. It sounds like something is disrupting a wireless microphone connection.(experience)<br /> Anyone else experiencing this?</p> <p>EDIT: It got worse again, I'm okay with a bit of delay or something, but this is straight up torture. Not listening to casting until this is fixed.</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/Double_DeluXe"> Double_DeluXe </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2aclue/casts_are_full_of_digital_stutter_and_tearing/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aclue/casts_are_full_of_digital_stutter_and_tearing/">[124 comments]</a>
 p523
 stRp524
 sg19
@@ -1947,7 +1947,7 @@ g1
 g3
 (dp526
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2ac99w/the_international_2014_textbased_commentary_10th/
+Vhttp://www.reddit.com/r/DotA2/comments/2aclue/casts_are_full_of_digital_stutter_and_tearing/
 p527
 sg11
 g24
@@ -1959,15 +1959,15 @@ g106
 ((I2014
 I7
 I10
-I15
-I44
-I39
+I17
+I45
+I26
 I3
 I191
 I0
 t(dtRp529
 sg36
-VThe International 2014 Text-Based commentary, 10th of July
+VCasts are full of digital stutter and tearing
 p530
 sg109
 g523
@@ -1991,10 +1991,10 @@ stRp534
 sg37
 g527
 sg115
-VThu, 10 Jul 2014 15:44:39 +0000
+VThu, 10 Jul 2014 17:45:26 +0000
 p535
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2ac99w/the_international_2014_textbased_commentary_10th/
+Vhttp://www.reddit.com/r/DotA2/comments/2aclue/casts_are_full_of_digital_stutter_and_tearing/
 p536
 stRp537
 ag1
@@ -2014,7 +2014,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/GoblinTechies"> GoblinTechies </a> <br /> <a href="https://www.youtube.com/watch?v=HHjo3jgAnJ4">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2acn3q/videoblog_by_navi_at_ti4_showing_off_the/">[16 comments]</a>
+V<!-- SC_OFF --><div class="md"><p>Several games going all the way to the ancient. No real dominant team. What a show. What. A. Show.</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/Spasticon"> Spasticon </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2adjan/ti4_these_games_so_good/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adjan/ti4_these_games_so_good/">[168 comments]</a>
 p542
 stRp543
 sg19
@@ -2024,7 +2024,7 @@ g1
 g3
 (dp545
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2acn3q/videoblog_by_navi_at_ti4_showing_off_the/
+Vhttp://www.reddit.com/r/DotA2/comments/2adjan/ti4_these_games_so_good/
 p546
 sg11
 g24
@@ -2036,15 +2036,15 @@ g106
 ((I2014
 I7
 I10
-I17
-I57
-I25
+I23
+I0
+I53
 I3
 I191
 I0
 t(dtRp548
 sg36
-VVideoblog by Na`Vi at TI4, showing off the International rewards, the dining room, crazy Dota 2 cakes and more!
+VTI4 ... these games ... so good.
 p549
 sg109
 g542
@@ -2068,10 +2068,10 @@ stRp553
 sg37
 g546
 sg115
-VThu, 10 Jul 2014 17:57:25 +0000
+VThu, 10 Jul 2014 23:00:53 +0000
 p554
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2acn3q/videoblog_by_navi_at_ti4_showing_off_the/
+Vhttp://www.reddit.com/r/DotA2/comments/2adjan/ti4_these_games_so_good/
 p555
 stRp556
 ag1
@@ -2091,7 +2091,7 @@ sg11
 g54
 sg13
 Nsg14
-Vsubmitted by <a href="http://www.reddit.com/user/datProtein"> datProtein </a> <br /> <a href="http://imgur.com/rVU3cwt">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2adhce/but_i_became_the_tiniest_one/">[9 comments]</a>
+Vsubmitted by <a href="http://www.reddit.com/user/matrix325"> matrix325 </a> <br /> <a href="http://www.youtube.com/watch?v=vJpo324AfTE&amp;feature=youtu.be">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aekgp/matchmaking_episode_3_xboct_dendi/">[15 comments]</a>
 p561
 stRp562
 sg19
@@ -2101,7 +2101,7 @@ g1
 g3
 (dp564
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2adhce/but_i_became_the_tiniest_one/
+Vhttp://www.reddit.com/r/DotA2/comments/2aekgp/matchmaking_episode_3_xboct_dendi/
 p565
 sg11
 g24
@@ -2112,16 +2112,16 @@ asg105
 g106
 ((I2014
 I7
-I10
-I22
-I41
-I0
-I3
-I191
+I11
+I6
+I2
+I13
+I4
+I192
 I0
 t(dtRp567
 sg36
-V"But I became the Tiniest one"
+VMatchmaking Episode 3 - XBOCT & Dendi
 p568
 sg109
 g561
@@ -2145,10 +2145,10 @@ stRp572
 sg37
 g565
 sg115
-VThu, 10 Jul 2014 22:41:00 +0000
+VFri, 11 Jul 2014 06:02:13 +0000
 p573
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2adhce/but_i_became_the_tiniest_one/
+Vhttp://www.reddit.com/r/DotA2/comments/2aekgp/matchmaking_episode_3_xboct_dendi/
 p574
 stRp575
 ag1
@@ -2168,7 +2168,7 @@ sg11
 g54
 sg13
 Nsg14
-V<!-- SC_OFF --><div class="md"><p><strong>Disruptor, the Stormcrafter</strong></p> <p><a href="http://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Dis_rare_03.mp3"><em>Storms gather at my fingertips.</em></a></p> <p>Storms gather at his fingertips and with that he can control the battle. Disruptor is a support with a distinct ability to control people's location and movement, aswell as spells. With his first skill Lightning Strike, Disruptor can soften an enemy up, it's a standard nuke over 3 seconds, also giving vision. His second ability allows him to do what was mentioned earlier, control positioning. Kinetic Field traps enemies in a circle location causing them to not be able to escape, and allowing your team do decimate them. You may feel a slight fluster of confusion as Glimpse causes you to return to the location you were 4 seconds ago, leaving you little room to run. His ultimate, Static Storm, is a menace in teamfights causing people in an area to be silenced and take constant damage. Couple this with Kinetic Field and people cannot escape it.</p> <p><strong>Lore</strong></p> <p>High on the wind-ravaged steppes of Druud, a gifted young stormcrafter called Disruptor was the first to unlock the secrets of the summer squalls. Constantly under assault from both seasonal storms and encroachment from civilized kingdoms to the South, the upland Oglodi have for centuries struggled to subsist atop the endless tablelands. They are the fractured remnant of a once-great civilization\u2014a fallen tribe, their stormcraft strange and inscrutable, cobbled together from scraps of lost knowledge which even they no longer fully understand. For those on the high plain, weather has become a kind of religion, worshiped as both the giver and taker of life. But the electrical storms that bring life-sustaining rains arrive at a cost, and many are the charred and smoking corpses left in their wake. Although small for his kind, Disruptor is fearless, and driven by an insatiable curiosity. As a youth, while still unblooded and without a stryder, he explored the ruins of the ancestral cities\u2014searching through collapsed and long-moldering libraries, rummaging through rusting manufactories. He took what he needed and returned to his tribe. Adapting a coil of ancient design, he harnessed the power of electrical differential and now calls down the thunder whenever he wishes. Part magic, part craftsmanship, his coils hold in their glowing plates the power of life and death\u2014a power wielded with precision against the landed castes to the South, and any interlopers who cross into ancient Oglodi lands.</p> <p><del>==</del> </p> <h2><strong>Roles:</strong> Nuker, Support, Initiator, Disabler</h2> <p><del>==</del></p> <p>Strength: 19 + 1.9</p> <p>Agility: 15 + 1.4</p> <p><strong>Intelligence: 22 + 2.5</strong></p> <p><del>==</del></p> <p>Damage: 49-53</p> <p>Armour: 1.1</p> <p>Movement Speed: 300</p> <p>Attack Range: 600</p> <p>Missile Speed: 1200</p> <p>Base Attack Time: 1.7</p> <p>Sight Range: 1800 (Day) / 800 (Night)</p> <p>Turn Rate: 0.5</p> <p><del>==</del></p> <p><strong>Thunder Strike</strong></p> <p>Repeatedly strikes the targeted unit with lightning. Each strike damages nearby enemy units in a small radius.</p> <table><thead> <tr> <th align="left">Level</th> <th align="left">Manacost</th> <th align="left">Cooldown</th> <th align="left">Casting Range</th> <th align="left">Area</th> <th align="left">Duration</th> <th align="left">Effects</th> </tr> </thead><tbody> <tr> <td align="left">1</td> <td align="left">130</td> <td align="left">16</td> <td align="left">800</td> <td align="left">240</td> <td align="left">6</td> <td align="left">Strikes the target 4 times for the duration, each strike doing 40 damage</td> </tr> <tr> <td align="left">2</td> <td align="left">130</td> <td align="left">16</td> <td align="left">800</td> <td align="left">240</td> <td align="left">6</td> <td align="left">Strikes the target 4 times for the duration, each strike doing 60 damage</td> </tr> <tr> <td align="left">3</td> <td align="left">130</td> <td align="left">16</td> <td align="left">800</td> <td align="left">240</td> <td align="left">6</td> <td align="left">Strikes the target 4 times for the duration, each strike doing 80 damage</td> </tr> <tr> <td align="left">4</td> <td align="left">130</td> <td align="left">16</td> <td align="left">800</td> <td align="left">240</td> <td align="left">6</td> <td align="left">Strikes the target 4 times for the duration, each strike doing 100 damage</td> </tr> </tbody></table> <ul> <li><p>Magical damage</p></li> <li><p>Gives vision around the target for the duration of the spell</p></li> <li><p>With Linken's, the spell will be blocked if the Hero is the main target. They are still subject to being hit by Thunder Strikes on an adjacent unit.</p></li> </ul> <p><em>Disruptor's charged coils occasionally overload, and a singed armor plate or tuft of fur is the enemy's result.</em></p> <p><del>==</del></p> <p><strong>Glimpse</strong></p> <p>Teleports the target hero back to where it was 4 seconds ago. Instantly kills illusions.</p> <table><thead> <tr> <th align="left">Level</th> <th align="left">Manacost</th> <th align="left">Cooldown</th> <th align="left">Casting Range</th> <th align="left">Area</th> <th align="left">Duration</th> <th align="left">Effects</th> </tr> </thead><tbody> <tr> <td align="left">1</td> <td align="left">160</td> <td align="left">65</td> <td align="left">600</td> <td align="left">N/A</td> <td align="left">N/A</td> <td align="left">Moves the target hero back back in time to where it was 4 seconds ago</td> </tr> <tr> <td align="left">2</td> <td align="left">130</td> <td align="left">50</td> <td align="left">1000</td> <td align="left">N/A</td> <td align="left">N/A</td> <td align="left">Moves the target hero back back in time to where it was 4 seconds ago</td> </tr> <tr> <td align="left">3</td> <td align="left">100</td> <td align="left">35</td> <td align="left">1400</td> <td align="left">N/A</td> <td align="left">N/A</td> <td align="left">Moves the target hero back back in time to where it was 4 seconds ago</td> </tr> <tr> <td align="left">4</td> <td align="left">70</td> <td align="left">20</td> <td align="left">1800</td> <td align="left">N/A</td> <td align="left">N/A</td> <td align="left">Moves the target hero back back in time to where it was 4 seconds ago</td> </tr> </tbody></table> <ul> <li><p>The Glimpse effect has some travel time, the target isn't instantly moved back</p></li> <li><p>If the target hero dies and buys back while still being under the effect of glimpse he will be moved back</p></li> <li><p>It also disrupts any command that is currently active on the player; meaning you will stand still after Glimpse</p></li> </ul> <p><em>Playing with electricity can have unexpected results.</em></p> <p><del>==</del></p> <p><strong>Kinetic Field</strong></p> <p>After a short formation time, creates a circular barrier of kinetic energy that enemies can't pass.</p> <table><thead> <tr> <th align="left">Level</th> <th align="left">Manacost</th> <th align="left">Cooldown</th> <th align="left">Casting Range</th> <th align="left">Area</th> <th align="left">Duration</th> <th align="left">Effects</th> </tr> </thead><tbody> <tr> <td align="left">1</td> <td align="left">70</td> <td align="left">14</td> <td align="left">900</td> <td align="left">325</td> <td align="left">2.5</td> <td align="left">Makes a circular barrier which enemies cannot move through, in or out</td> </tr> <tr> <td align="left">2</td> <td align="left">70</td> <td align="left">13</td> <td align="left">900</td> <td align="left">325</td> <td align="left">3</td> <td align="left">Makes a circular barrier which enemies cannot move through, in or out</td> </tr> <tr> <td align="left">3</td> <td align="left">70</td> <td align="left">12</td> <td align="left">900</td> <td align="left">325</td> <td align="left">3.5</td> <td align="left">Makes a circular barrier which enemies cannot move through, in or out</td> </tr> <tr> <td align="left">4</td> <td align="left">70</td> <td align="left">11</td> <td align="left">900</td> <td align="left">325</td> <td align="left">4</td> <td align="left">Makes a circular barrier which enemies cannot move through, in or out</td> </tr> </tbody></table> <ul> <li><p>Has a 1.2 second cast delay before the field is fully formed</p></li> <li><p>Only stops enemies from walking through the barrier, other sorts of movement will not be stopped.</p></li> <li><p>As of 6.75, Force Staff will not push units through Kinetic Field</p></li> </ul> <p><em>The stryder is immune to the gale-force winds that will consume its adversaries.</em></p> <p><del>==</del></p> <p><strong>Static Storm</strong></p> <p><em>Ultimate</em></p> <p>Creates a damaging static storm that also silences all enemy units in the area for the duration. The damage starts off weak, but increases in power over the duration.</p> <table><thead> <tr> <th align="left">Level</th> <th align="left">Mana Cost</th> <th align="left">Cooldown</th> <th align="left">Casting Range</th> <th align="left">Area</th> <th align="left">Duration</th> <th align="left">Effects</th> </tr> </thead><tbody> <tr> <td align="left">1</td> <td align="left">125</td> <td align="left">85</td> <td align="left">800</td> <td align="left">450</td> <td align="left">5 (7*)</td> <td align="left">Silences enemies in the area and deals a maximum of 200 damage per second</td> </tr> <tr> <td align="left">2</td> <td align="left">175</td> <td align="left">85</td> <td align="left">800</td> <td align="left">450</td> <td align="left">5 (7*)</td> <td align="left">Silences enemies in the area and deals a maximum of 250 damage per second</td> </tr> <tr> <td align="left">3</td> <td align="left">255</td> <td align="left">85</td> <td align="left">800</td> <td align="left">450</td> <td align="left">5 (7*)</td> <td align="left">Silences enemies in the area and deals a maximum of 300 damage per second</td> </tr> </tbody></table> <ul> <li><p>Magical Damage</p></li> <li><p>This ultimate can be upgraded via Sceptre, (*) denotes the added effects. Sceptre also causes Static Storm to silence items</p></li> <li><p>The damage starts off slow and ramps up continuously until it reaches the maximum</p></li> </ul> <p><em>A summer squall in Druud is a hardship that only an Oglodi can survive.</em></p> <p><del>==</del></p> <p><strong>Recent Changes from 6.81/6.81b</strong></p> <ul> <li>Kinetic Field cooldown reduced from 14 to 14/13/12/11</li> </ul> <p><strong>Recent Changes from 6.80</strong></p> <ul> <li>None</li> </ul> <p><del>==</del></p> <p><strong>Tips:</strong></p> <p>Predict enemies movements when using Kinetic Field to successfully trap the enemy. Kinetic Field can also be used to block off paths while escaping or while your allies are escaping by placing the Field over clutch areas of path.</p> <p><del>==</del></p> <p><a href="http://www.reddit.com/r/DotA2/comments/1pr8lf/hero_discussion_of_this_day_disruptor_2_november/">Previous Disruptor discussion.</a></p> <p><del>==</del></p> <p>If you want a specific hero to be discussed next, feel free to message me. <em><a href="http://sdrv.ms/11NyjJv">Request list</a></em></p> <p><a href="http://media.steampowered.com/apps/dota2/images/blogfiles/keyart_disruptor.jpg">Valve Artwork</a> | <a href="http://dota2.gamepedia.com/Disruptor_responses">Voice Responses</a> | <a href="http://hydra-media.cursecdn.com/dota2.gamepedia.com/c/ce/Disruptor.png">In-game Icon</a> | Dota Cinema Video Overview Outdated | <a href="http://dota2.gamepedia.com/Disruptor">Dota2Wiki Hero Page</a> | <a href="http://dotaflame.com/heroes/87-Disruptor">Pro VOD Catalogue</a></p> <p><strong>Posts are every two or four days with one post being stickied every week.</strong></p> <p><del>==</del></p> <p><strong>Previous Daily Discussions:</strong></p> <p><strong><a href="http://www.reddit.com/r/DotA2/comments/1pr8lf/hero_discussion_of_this_day_disruptor_2_november/">Phantom Lancer</a></strong></p> <p><del>==</del></p> <p><strong><a href="http://www.reddit.com/r/DotA2/comments/29zeny/hero_discussion_of_this_day_phantom_lancer_6_july/cipzmok">Good Phantom Lancer tip from last thread by topazsparrow:</a></strong></p> <p><strong>&quot;A lot of people and guides suggest maxing Lance before anything else, but a few early points into juxtapose allows you to jungle if the lane isn't going well. If your kill potential in Lane isn't so good because you're being bullied or whatever, consider points in juxtapose.&quot;</strong></p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/Plasma_Ball1"> Plasma_Ball1 </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2ac8mf/highlighted_hero_discussion_of_this_week/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2ac8mf/highlighted_hero_discussion_of_this_week/">[84 comments]</a>
+V<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I'm Chris and I know a bunch of you awesome folks at <a href="http://www.reddit.com/r/Dota2">/r/Dota2</a> have been listening to the <a href="http://www.audiodota.com">audio only streams on AudioDota.com</a>. I have a few exciting announcements.</p> <p><strong>First</strong>, we've gone from having only the multistream available to having Stream 1 and Stream 2 available as well. I'd love to have all four streams live, but I don't have the physical capabilities to provide more than 3 streams from my current location. I've had some amazing volunteers offer to help, so we will hopefully have all four streams up soon.</p> <p><strong>Second</strong>, some android users have had problems listening to the streams. It seems like an issue isolated to a few phones, and I'm going to be borrowing some android devices today to test these issues and get them resolved. Until then, the best solution is to download the <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc.betav7neon">VLC for Android Beta</a>. Once it's installed, open the audio stream through VLC.</p> <p>There are three audio streams:</p> <ul> <li>MultiStream: <a href="http://dotaaudio.com:8000/DotaMultiMp3">http://dotaaudio.com:8000/DotaMultiMp3</a></li> <li>Stream 1: <a href="http://dotaaudio.com:8000/DotaStream1Mp3">http://dotaaudio.com:8000/DotaStream1Mp3</a></li> <li>Stream 2: <a href="http://dotaaudio.com:8000/DotaStream2Mp3">http://dotaaudio.com:8000/DotaStream2Mp3</a></li> </ul> <p>If these streams aren't working, feel free to send me a pm on reddit, post here, or contact me via email (my email address is on the site.) </p> <p><strong>Third</strong>, it looks like an android Dota app might soon be integrating the streams, creating a more seamless Dota 2 listening experience during The International 4. I'll let you know on reddit and on the site when the app is featuring the streams.</p> <p>Finally,</p> <p>Thanks for your support. I was quite worried about bandwidth costs going into this, but it looks like ads and a few generous donations through paypal and bitcoin have me almost breaking even by the end of TI4.</p> <p><strong>Edit</strong>: I'm heading out for a few hours. The stream's held up without a hitch today, which is blowing my mind. If the stream goes down, you need some help, or you just want to say hi, please contact me via <a href="http://twitter.com/ckinniburgh">twitter</a> so I can quickly respond to any issues! I'm <a href="http://twitter.com/ckinniburgh">@ckinniburgh</a>.</p> <p>Thanks for listening!</p> </div><!-- SC_ON --> submitted by <a href="http://www.reddit.com/user/Shalarn"> Shalarn </a> <br /> <a href="http://www.reddit.com/r/DotA2/comments/2aci3b/low_bandwidth_audio_only_streams_for_ti4/">[link]</a> <a href="http://www.reddit.com/r/DotA2/comments/2aci3b/low_bandwidth_audio_only_streams_for_ti4/">[74 comments]</a>
 p580
 stRp581
 sg19
@@ -2178,67 +2178,55 @@ g1
 g3
 (dp583
 g22
-Vhttp://www.reddit.com/r/DotA2/comments/2ac8mf/highlighted_hero_discussion_of_this_week/
+Vhttp://www.reddit.com/r/DotA2/comments/2aci3b/low_bandwidth_audio_only_streams_for_ti4/
 p584
 sg11
 g24
 sg25
 g26
 stRp585
-ag1
-(g2
-g3
-(dp586
-Vhref
-p587
-Vhttp://hydra-media.cursecdn.com/dota2.gamepedia.com/1/13/Dis_rare_03.mp3
-p588
-sg25
-Venclosure
-p589
-stRp590
 asg105
 g106
 ((I2014
 I7
 I10
-I15
-I37
-I16
+I17
+I10
+I18
 I3
 I191
 I0
-t(dtRp591
+t(dtRp586
 sg36
-VHighlighted Hero Discussion of this Week: Disruptor (10 July 2014)
-p592
+VLow Bandwidth Audio Only Streams for TI4
+p587
 sg109
 g580
 sg110
 I00
 sS'title_detail'
-p593
+p588
 g1
 (g2
 g3
-(dp594
+(dp589
 g9
 Vhttp://www.reddit.com/r/DotA2.rss
-p595
+p590
 sg11
 g12
 sg13
 Nsg14
-g592
-stRp596
+g587
+stRp591
 sg37
 g584
 sg115
-VThu, 10 Jul 2014 15:37:16 +0000
-p597
+VThu, 10 Jul 2014 17:10:18 +0000
+p592
 sg117
-Vhttp://www.reddit.com/r/DotA2/comments/2ac8mf/highlighted_hero_discussion_of_this_week/
-p598
-stRp599
-astRp600
+Vhttp://www.reddit.com/r/DotA2/comments/2aci3b/low_bandwidth_audio_only_streams_for_ti4/
+p593
+stRp594
+astRp595
 .

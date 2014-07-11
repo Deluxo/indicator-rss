@@ -99,7 +99,7 @@ p41
 (dp42
 S'content-length'
 p43
-S'4821'
+S'4859'
 p44
 sS'x-powered-by'
 p45
@@ -123,7 +123,7 @@ S'close'
 p54
 sS'date'
 p55
-S'Fri, 11 Jul 2014 00:24:14 GMT'
+S'Fri, 11 Jul 2014 10:17:08 GMT'
 p56
 sS'content-type'
 p57
@@ -159,7 +159,7 @@ sg11
 g34
 sg13
 Nsg14
-VAMD has just published a massive patch-set for the Linux kernel that finally implements a HSA (Heterogeneous System Architecture) in open-source. The set of 83 patches implement a Linux HSA driver for Radeon family GPUs and serves too as a sample driver for other HSA-compatible devices. This big driver in part is what well known Phoronix contributor John Bridgman has been working on at AMD...
+VOne of the biggest challenges with the Nouveau open-source graphics driver for NVIDIA graphics hardware in recent times has been with regard to GPU / video memory re-clocking. As a minor step forward, NVIDIA has contributed re-clocking patches for the GK20A graphics processor...
 p70
 stRp71
 sg19
@@ -169,7 +169,7 @@ g1
 g3
 (dp73
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczOTY
+Vhttp://www.phoronix.com/vr.php?view=MTczOTg
 p74
 sg11
 g24
@@ -183,16 +183,16 @@ struct_time
 p77
 ((I2014
 I7
-I10
-I22
-I23
-I53
-I3
-I191
+I11
+I4
+I48
+I54
+I4
+I192
 I0
 t(dtRp78
 sg29
-VAMD Publishes Open-Source Linux HSA Kernel Driver
+VNVIDIA Contributes Re-Clocking Code To Nouveau For The GK20A
 p79
 sS'summary'
 p80
@@ -219,11 +219,11 @@ sg30
 g74
 sS'published'
 p86
-VThu, 10 Jul 2014 18:23:53 EDT
+VFri, 11 Jul 2014 00:48:54 EDT
 p87
 sS'id'
 p88
-Vhttp://www.phoronix.com/vr.php?view=MTczOTY
+Vhttp://www.phoronix.com/vr.php?view=MTczOTg
 p89
 stRp90
 ag1
@@ -243,7 +243,7 @@ sg11
 g34
 sg13
 Nsg14
-VFor those still out there running a GeForce 6 or 7 series graphics card, NVIDIA has updated its legacy proprietary 304.xx Unix graphics driver for Linux, FreeBSD, and Solaris systems...
+VThe first beta of KDE with new releases for the applications and development platform is now available for the 4.14 release cycle...
 p95
 stRp96
 sg19
@@ -253,7 +253,7 @@ g1
 g3
 (dp98
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczOTU
+Vhttp://www.phoronix.com/vr.php?view=MTczOTc
 p99
 sg11
 g24
@@ -264,16 +264,16 @@ asg76
 g77
 ((I2014
 I7
-I10
-I17
-I18
-I3
-I3
-I191
+I11
+I4
+I12
+I5
+I4
+I192
 I0
 t(dtRp101
 sg29
-VNVIDIA Updates Its Linux Legacy Driver For GeForce 6/7 GPUs
+VKDE 4.14  Applications & Development Platform Beta Released
 p102
 sg80
 g95
@@ -297,10 +297,10 @@ stRp106
 sg30
 g99
 sg86
-VThu, 10 Jul 2014 13:18:03 EDT
+VFri, 11 Jul 2014 00:12:05 EDT
 p107
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczOTU
+Vhttp://www.phoronix.com/vr.php?view=MTczOTc
 p108
 stRp109
 ag1
@@ -320,7 +320,7 @@ sg11
 g34
 sg13
 Nsg14
-VThe latest stable release of CodeWeavers' CrossOver software is now available and it's now more liberal about package installation...
+VAMD has just published a massive patch-set for the Linux kernel that finally implements a HSA (Heterogeneous System Architecture) in open-source. The set of 83 patches implement a Linux HSA driver for Radeon family GPUs and serves too as a sample driver for other HSA-compatible devices. This big driver in part is what well known Phoronix contributor John Bridgman has been working on at AMD...
 p114
 stRp115
 sg19
@@ -330,7 +330,7 @@ g1
 g3
 (dp117
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczOTQ
+Vhttp://www.phoronix.com/vr.php?view=MTczOTY
 p118
 sg11
 g24
@@ -342,15 +342,15 @@ g77
 ((I2014
 I7
 I10
-I16
-I6
-I27
+I22
+I23
+I53
 I3
 I191
 I0
 t(dtRp120
 sg29
-VCrossOver 13.2.0 Allows Easier Package Installation On Linux
+VAMD Publishes Open-Source Linux HSA Kernel Driver
 p121
 sg80
 g114
@@ -374,10 +374,10 @@ stRp125
 sg30
 g118
 sg86
-VThu, 10 Jul 2014 12:06:27 EDT
+VThu, 10 Jul 2014 18:23:53 EDT
 p126
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczOTQ
+Vhttp://www.phoronix.com/vr.php?view=MTczOTY
 p127
 stRp128
 ag1
@@ -397,7 +397,7 @@ sg11
 g34
 sg13
 Nsg14
-VCentOS 7.0 was released this week and that came just days after the first alpha of Scientific Linux 7, both of which are based upon last month's release of Red Hat Enterprise Linux 7. With these new community-based EL7 releases coming about, it's time for some fresh Enterprise Linux benchmarking and performance monitoring on Phoronix.
+VFor those still out there running a GeForce 6 or 7 series graphics card, NVIDIA has updated its legacy proprietary 304.xx Unix graphics driver for Linux, FreeBSD, and Solaris systems...
 p133
 stRp134
 sg19
@@ -407,7 +407,7 @@ g1
 g3
 (dp136
 g22
-Vhttp://www.phoronix.com/vr.php?view=20681
+Vhttp://www.phoronix.com/vr.php?view=MTczOTU
 p137
 sg11
 g24
@@ -419,15 +419,15 @@ g77
 ((I2014
 I7
 I10
-I14
-I23
-I7
+I17
+I18
+I3
 I3
 I191
 I0
 t(dtRp139
 sg29
-VPreview: Benchmarking CentOS 7.0 & Scientific Linux 7.0
+VNVIDIA Updates Its Linux Legacy Driver For GeForce 6/7 GPUs
 p140
 sg80
 g133
@@ -451,10 +451,10 @@ stRp144
 sg30
 g137
 sg86
-VThu, 10 Jul 2014 10:23:07 EDT
+VThu, 10 Jul 2014 13:18:03 EDT
 p145
 sg88
-Vhttp://www.phoronix.com/vr.php?view=20681
+Vhttp://www.phoronix.com/vr.php?view=MTczOTU
 p146
 stRp147
 ag1
@@ -474,7 +474,7 @@ sg11
 g34
 sg13
 Nsg14
-VMore code by Emil Velikov was merged yesterday to push along the Gallium3D Mega Drivers model...
+VThe latest stable release of CodeWeavers' CrossOver software is now available and it's now more liberal about package installation...
 p152
 stRp153
 sg19
@@ -484,7 +484,7 @@ g1
 g3
 (dp155
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczOTM
+Vhttp://www.phoronix.com/vr.php?view=MTczOTQ
 p156
 sg11
 g24
@@ -496,15 +496,15 @@ g77
 ((I2014
 I7
 I10
-I13
-I20
-I56
+I16
+I6
+I27
 I3
 I191
 I0
 t(dtRp158
 sg29
-VMore "Mega Driver" Work Merged For Mesa
+VCrossOver 13.2.0 Allows Easier Package Installation On Linux
 p159
 sg80
 g152
@@ -528,10 +528,10 @@ stRp163
 sg30
 g156
 sg86
-VThu, 10 Jul 2014 09:20:56 EDT
+VThu, 10 Jul 2014 12:06:27 EDT
 p164
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczOTM
+Vhttp://www.phoronix.com/vr.php?view=MTczOTQ
 p165
 stRp166
 ag1
@@ -551,7 +551,7 @@ sg11
 g34
 sg13
 Nsg14
-VFor those still dependent upon Red Hat Enterprise Linux 5, the beta to the 5.11 point release is now out, which serves as the last planned revision to RHEL5...
+VCentOS 7.0 was released this week and that came just days after the first alpha of Scientific Linux 7, both of which are based upon last month's release of Red Hat Enterprise Linux 7. With these new community-based EL7 releases coming about, it's time for some fresh Enterprise Linux benchmarking and performance monitoring on Phoronix.
 p171
 stRp172
 sg19
@@ -561,7 +561,7 @@ g1
 g3
 (dp174
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczOTI
+Vhttp://www.phoronix.com/vr.php?view=20681
 p175
 sg11
 g24
@@ -573,15 +573,15 @@ g77
 ((I2014
 I7
 I10
-I4
-I37
-I35
+I14
+I23
+I7
 I3
 I191
 I0
 t(dtRp177
 sg29
-VThe Beta To The Final Minor Release Of RHEL5 Is Out
+VPreview: Benchmarking CentOS 7.0 & Scientific Linux 7.0
 p178
 sg80
 g171
@@ -605,10 +605,10 @@ stRp182
 sg30
 g175
 sg86
-VThu, 10 Jul 2014 00:37:35 EDT
+VThu, 10 Jul 2014 10:23:07 EDT
 p183
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczOTI
+Vhttp://www.phoronix.com/vr.php?view=20681
 p184
 stRp185
 ag1
@@ -628,7 +628,7 @@ sg11
 g34
 sg13
 Nsg14
-VBack in May The Witcher 2 was released for Linux but the quality of this Linux game port was extremely bad and problematic for many Linux gamers due to slow performance and other issues. Fortunately, it looks like some of the problems at least may be addressed as a new open beta is beginning for the Linux version of The Witcher 2...
+VMore code by Emil Velikov was merged yesterday to push along the Gallium3D Mega Drivers model...
 p190
 stRp191
 sg19
@@ -638,7 +638,7 @@ g1
 g3
 (dp193
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczOTE
+Vhttp://www.phoronix.com/vr.php?view=MTczOTM
 p194
 sg11
 g24
@@ -650,15 +650,15 @@ g77
 ((I2014
 I7
 I10
-I4
-I6
-I12
+I13
+I20
+I56
 I3
 I191
 I0
 t(dtRp196
 sg29
-VThe Witcher 2 Works On Beta Improvements
+VMore "Mega Driver" Work Merged For Mesa
 p197
 sg80
 g190
@@ -682,10 +682,10 @@ stRp201
 sg30
 g194
 sg86
-VThu, 10 Jul 2014 00:06:12 EDT
+VThu, 10 Jul 2014 09:20:56 EDT
 p202
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczOTE
+Vhttp://www.phoronix.com/vr.php?view=MTczOTM
 p203
 stRp204
 ag1
@@ -705,7 +705,7 @@ sg11
 g34
 sg13
 Nsg14
-VThe latest Fedora Copr repository established provides a "kernel playground" whereby currently out-of-tree and/or experimental kernel features are enabled for developers and enthusiasts to try out...
+VFor those still dependent upon Red Hat Enterprise Linux 5, the beta to the 5.11 point release is now out, which serves as the last planned revision to RHEL5...
 p209
 stRp210
 sg19
@@ -715,7 +715,7 @@ g1
 g3
 (dp212
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczOTA
+Vhttp://www.phoronix.com/vr.php?view=MTczOTI
 p213
 sg11
 g24
@@ -726,16 +726,16 @@ asg76
 g77
 ((I2014
 I7
-I9
-I19
-I26
-I48
-I2
-I190
+I10
+I4
+I37
+I35
+I3
+I191
 I0
 t(dtRp215
 sg29
-VFedora Gets A Kernel Playground Repository
+VThe Beta To The Final Minor Release Of RHEL5 Is Out
 p216
 sg80
 g209
@@ -759,10 +759,10 @@ stRp220
 sg30
 g213
 sg86
-VWed, 09 Jul 2014 15:26:48 EDT
+VThu, 10 Jul 2014 00:37:35 EDT
 p221
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczOTA
+Vhttp://www.phoronix.com/vr.php?view=MTczOTI
 p222
 stRp223
 ag1
@@ -782,7 +782,7 @@ sg11
 g34
 sg13
 Nsg14
-VFor KDE desktop users unhappy with the level of integration with Mozilla's Firefox web browser, the situation might finally be changing...
+VBack in May The Witcher 2 was released for Linux but the quality of this Linux game port was extremely bad and problematic for many Linux gamers due to slow performance and other issues. Fortunately, it looks like some of the problems at least may be addressed as a new open beta is beginning for the Linux version of The Witcher 2...
 p228
 stRp229
 sg19
@@ -792,7 +792,7 @@ g1
 g3
 (dp231
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczODk
+Vhttp://www.phoronix.com/vr.php?view=MTczOTE
 p232
 sg11
 g24
@@ -803,16 +803,16 @@ asg76
 g77
 ((I2014
 I7
-I9
-I15
-I28
-I20
-I2
-I190
+I10
+I4
+I6
+I12
+I3
+I191
 I0
 t(dtRp234
 sg29
-VFirefox Might Finally Be Moving Closer To Better KDE Integration
+VThe Witcher 2 Works On Beta Improvements
 p235
 sg80
 g228
@@ -836,10 +836,10 @@ stRp239
 sg30
 g232
 sg86
-VWed, 09 Jul 2014 11:28:20 EDT
+VThu, 10 Jul 2014 00:06:12 EDT
 p240
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczODk
+Vhttp://www.phoronix.com/vr.php?view=MTczOTE
 p241
 stRp242
 ag1
@@ -859,7 +859,7 @@ sg11
 g34
 sg13
 Nsg14
-VFor nearly one year we've known about RealVNC being interested in Wayland support for their commercial VNC products and last year they proposed a remote access protocol for Wayland. Today, RealVNC has put out a developer preview of its VNC software for Wayland...
+VThe latest Fedora Copr repository established provides a "kernel playground" whereby currently out-of-tree and/or experimental kernel features are enabled for developers and enthusiasts to try out...
 p247
 stRp248
 sg19
@@ -869,7 +869,7 @@ g1
 g3
 (dp250
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczODg
+Vhttp://www.phoronix.com/vr.php?view=MTczOTA
 p251
 sg11
 g24
@@ -881,15 +881,15 @@ g77
 ((I2014
 I7
 I9
-I14
-I0
-I0
+I19
+I26
+I48
 I2
 I190
 I0
 t(dtRp253
 sg29
-VRealVNC Introduces VNC Wayland Developer Preview
+VFedora Gets A Kernel Playground Repository
 p254
 sg80
 g247
@@ -913,10 +913,10 @@ stRp258
 sg30
 g251
 sg86
-VWed, 09 Jul 2014 10:00:00 EDT
+VWed, 09 Jul 2014 15:26:48 EDT
 p259
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczODg
+Vhttp://www.phoronix.com/vr.php?view=MTczOTA
 p260
 stRp261
 ag1
@@ -936,7 +936,7 @@ sg11
 g34
 sg13
 Nsg14
-VWhile KDE Frameworks 5 was just released this week, there's already new features and functionality sought after for future revisions of this modularized set of next-gen KDE libraries...
+VFor KDE desktop users unhappy with the level of integration with Mozilla's Firefox web browser, the situation might finally be changing...
 p266
 stRp267
 sg19
@@ -946,7 +946,7 @@ g1
 g3
 (dp269
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczODc
+Vhttp://www.phoronix.com/vr.php?view=MTczODk
 p270
 sg11
 g24
@@ -958,15 +958,15 @@ g77
 ((I2014
 I7
 I9
-I13
-I46
-I1
+I15
+I28
+I20
 I2
 I190
 I0
 t(dtRp272
 sg29
-VLooking Forward To The Future Of KDE Frameworks 5
+VFirefox Might Finally Be Moving Closer To Better KDE Integration
 p273
 sg80
 g266
@@ -990,10 +990,10 @@ stRp277
 sg30
 g270
 sg86
-VWed, 09 Jul 2014 09:46:01 EDT
+VWed, 09 Jul 2014 11:28:20 EDT
 p278
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczODc
+Vhttp://www.phoronix.com/vr.php?view=MTczODk
 p279
 stRp280
 ag1
@@ -1013,7 +1013,7 @@ sg11
 g34
 sg13
 Nsg14
-VThe latest programming language that can leverage using LLVM and its plethora of back-ends is Pascal-86, a language most Phoronix readers have probably never even heard of...
+VFor nearly one year we've known about RealVNC being interested in Wayland support for their commercial VNC products and last year they proposed a remote access protocol for Wayland. Today, RealVNC has put out a developer preview of its VNC software for Wayland...
 p285
 stRp286
 sg19
@@ -1023,7 +1023,7 @@ g1
 g3
 (dp288
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczODY
+Vhttp://www.phoronix.com/vr.php?view=MTczODg
 p289
 sg11
 g24
@@ -1035,15 +1035,15 @@ g77
 ((I2014
 I7
 I9
-I13
-I34
-I52
+I14
+I0
+I0
 I2
 I190
 I0
 t(dtRp291
 sg29
-VThere's Now Even LLVM Support For Pascal-86
+VRealVNC Introduces VNC Wayland Developer Preview
 p292
 sg80
 g285
@@ -1067,10 +1067,10 @@ stRp296
 sg30
 g289
 sg86
-VWed, 09 Jul 2014 09:34:52 EDT
+VWed, 09 Jul 2014 10:00:00 EDT
 p297
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczODY
+Vhttp://www.phoronix.com/vr.php?view=MTczODg
 p298
 stRp299
 ag1
@@ -1090,7 +1090,7 @@ sg11
 g34
 sg13
 Nsg14
-VThe first alpha release of the upcoming Mageia 5 has been released...
+VWhile KDE Frameworks 5 was just released this week, there's already new features and functionality sought after for future revisions of this modularized set of next-gen KDE libraries...
 p304
 stRp305
 sg19
@@ -1100,7 +1100,7 @@ g1
 g3
 (dp307
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczODU
+Vhttp://www.phoronix.com/vr.php?view=MTczODc
 p308
 sg11
 g24
@@ -1112,15 +1112,15 @@ g77
 ((I2014
 I7
 I9
-I5
-I57
-I2
+I13
+I46
+I1
 I2
 I190
 I0
 t(dtRp310
 sg29
-VMageia 5 Alpha Updates A Lot Of Software
+VLooking Forward To The Future Of KDE Frameworks 5
 p311
 sg80
 g304
@@ -1144,10 +1144,10 @@ stRp315
 sg30
 g308
 sg86
-VWed, 09 Jul 2014 01:57:02 EDT
+VWed, 09 Jul 2014 09:46:01 EDT
 p316
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczODU
+Vhttp://www.phoronix.com/vr.php?view=MTczODc
 p317
 stRp318
 ag1
@@ -1167,7 +1167,7 @@ sg11
 g34
 sg13
 Nsg14
-VKDE 4.14 code is getting ready while being worked on for a December debut is a mix of KDE4 and KF5 application code...
+VThe latest programming language that can leverage using LLVM and its plethora of back-ends is Pascal-86, a language most Phoronix readers have probably never even heard of...
 p323
 stRp324
 sg19
@@ -1177,7 +1177,7 @@ g1
 g3
 (dp326
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczODQ
+Vhttp://www.phoronix.com/vr.php?view=MTczODY
 p327
 sg11
 g24
@@ -1189,15 +1189,15 @@ g77
 ((I2014
 I7
 I9
-I4
-I47
-I44
+I13
+I34
+I52
 I2
 I190
 I0
 t(dtRp329
 sg29
-VKDE 4.14 Branched, Mix-Release Planned For December
+VThere's Now Even LLVM Support For Pascal-86
 p330
 sg80
 g323
@@ -1221,10 +1221,10 @@ stRp334
 sg30
 g327
 sg86
-VWed, 09 Jul 2014 00:47:44 EDT
+VWed, 09 Jul 2014 09:34:52 EDT
 p335
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczODQ
+Vhttp://www.phoronix.com/vr.php?view=MTczODY
 p336
 stRp337
 ag1
@@ -1244,7 +1244,7 @@ sg11
 g34
 sg13
 Nsg14
-VThe first release candidate to the upcoming QEMU 2.1 was released on Tuesday...
+VThe first alpha release of the upcoming Mageia 5 has been released...
 p342
 stRp343
 sg19
@@ -1254,7 +1254,7 @@ g1
 g3
 (dp345
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczODM
+Vhttp://www.phoronix.com/vr.php?view=MTczODU
 p346
 sg11
 g24
@@ -1266,15 +1266,15 @@ g77
 ((I2014
 I7
 I9
-I4
-I4
-I0
+I5
+I57
+I2
 I2
 I190
 I0
 t(dtRp348
 sg29
-VThe Exciting QEMU 2.1 Is Up To Its Release Candidate Phase
+VMageia 5 Alpha Updates A Lot Of Software
 p349
 sg80
 g342
@@ -1298,10 +1298,10 @@ stRp353
 sg30
 g346
 sg86
-VWed, 09 Jul 2014 00:04:00 EDT
+VWed, 09 Jul 2014 01:57:02 EDT
 p354
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczODM
+Vhttp://www.phoronix.com/vr.php?view=MTczODU
 p355
 stRp356
 ag1
@@ -1321,7 +1321,7 @@ sg11
 g34
 sg13
 Nsg14
-VIt seems all of the Manjaro Linux developers might have parted way with the distribution's development except for the project leader...
+VKDE 4.14 code is getting ready while being worked on for a December debut is a mix of KDE4 and KF5 application code...
 p361
 stRp362
 sg19
@@ -1331,7 +1331,7 @@ g1
 g3
 (dp364
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczODI
+Vhttp://www.phoronix.com/vr.php?view=MTczODQ
 p365
 sg11
 g24
@@ -1342,16 +1342,16 @@ asg76
 g77
 ((I2014
 I7
-I8
-I22
-I56
-I7
-I1
-I189
+I9
+I4
+I47
+I44
+I2
+I190
 I0
 t(dtRp367
 sg29
-VManjaro Linux Developers Experience A Mass Exodus [Updated]
+VKDE 4.14 Branched, Mix-Release Planned For December
 p368
 sg80
 g361
@@ -1375,10 +1375,10 @@ stRp372
 sg30
 g365
 sg86
-VTue, 08 Jul 2014 18:56:07 EDT
+VWed, 09 Jul 2014 00:47:44 EDT
 p373
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczODI
+Vhttp://www.phoronix.com/vr.php?view=MTczODQ
 p374
 stRp375
 ag1
@@ -1398,7 +1398,7 @@ sg11
 g34
 sg13
 Nsg14
-VEcma International has approved Google's Dart web programming language as the latest ECMA standard...
+VThe first release candidate to the upcoming QEMU 2.1 was released on Tuesday...
 p380
 stRp381
 sg19
@@ -1408,7 +1408,7 @@ g1
 g3
 (dp383
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczODA
+Vhttp://www.phoronix.com/vr.php?view=MTczODM
 p384
 sg11
 g24
@@ -1419,16 +1419,16 @@ asg76
 g77
 ((I2014
 I7
-I8
-I18
-I22
-I39
-I1
-I189
+I9
+I4
+I4
+I0
+I2
+I190
 I0
 t(dtRp386
 sg29
-VGoogle's Dart Language Approved By The ECMA
+VThe Exciting QEMU 2.1 Is Up To Its Release Candidate Phase
 p387
 sg80
 g380
@@ -1452,10 +1452,10 @@ stRp391
 sg30
 g384
 sg86
-VTue, 08 Jul 2014 14:22:39 EDT
+VWed, 09 Jul 2014 00:04:00 EDT
 p392
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczODA
+Vhttp://www.phoronix.com/vr.php?view=MTczODM
 p393
 stRp394
 ag1
@@ -1475,7 +1475,7 @@ sg11
 g34
 sg13
 Nsg14
-VIn complementing the earlier Linux 3.16 file-system tests on an SSD (and the later Btrfs testing), here are benchmarks of EXT4, XFS, and Btrfs from the Linux 3.15 and 3.16 kernels being compared from a traditional rotating hard drive.
+VIt seems all of the Manjaro Linux developers might have parted way with the distribution's development except for the project leader...
 p399
 stRp400
 sg19
@@ -1485,7 +1485,7 @@ g1
 g3
 (dp402
 g22
-Vhttp://www.phoronix.com/vr.php?view=20679
+Vhttp://www.phoronix.com/vr.php?view=MTczODI
 p403
 sg11
 g24
@@ -1497,15 +1497,15 @@ g77
 ((I2014
 I7
 I8
-I16
+I22
+I56
 I7
-I2
 I1
 I189
 I0
 t(dtRp405
 sg29
-VLinux 3.16 File-System Tests On A Hard Drive
+VManjaro Linux Developers Experience A Mass Exodus [Updated]
 p406
 sg80
 g399
@@ -1529,10 +1529,10 @@ stRp410
 sg30
 g403
 sg86
-VTue, 08 Jul 2014 12:07:02 EDT
+VTue, 08 Jul 2014 18:56:07 EDT
 p411
 sg88
-Vhttp://www.phoronix.com/vr.php?view=20679
+Vhttp://www.phoronix.com/vr.php?view=MTczODI
 p412
 stRp413
 ag1
@@ -1552,7 +1552,7 @@ sg11
 g34
 sg13
 Nsg14
-VJust shy of one month since releasing Red Hat Enterprise Linux 7.0 (and one day past CentOS 7), Red Hat has announced today their latest major software launch: Red Hat Enterprise Linux OpenStack Platform 5...
+VEcma International has approved Google's Dart web programming language as the latest ECMA standard...
 p418
 stRp419
 sg19
@@ -1562,7 +1562,7 @@ g1
 g3
 (dp421
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNzk
+Vhttp://www.phoronix.com/vr.php?view=MTczODA
 p422
 sg11
 g24
@@ -1574,15 +1574,15 @@ g77
 ((I2014
 I7
 I8
-I15
-I14
-I2
+I18
+I22
+I39
 I1
 I189
 I0
 t(dtRp424
 sg29
-VRed Hat Enterprise Linux OpenStack Platform 5 Released
+VGoogle's Dart Language Approved By The ECMA
 p425
 sg80
 g418
@@ -1606,10 +1606,10 @@ stRp429
 sg30
 g422
 sg86
-VTue, 08 Jul 2014 11:14:02 EDT
+VTue, 08 Jul 2014 14:22:39 EDT
 p430
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNzk
+Vhttp://www.phoronix.com/vr.php?view=MTczODA
 p431
 stRp432
 ag1
@@ -1629,7 +1629,7 @@ sg11
 g34
 sg13
 Nsg14
-VThe Linux 3.16 kernel is set to debut with a fair amount of new ARM hardware / SoC enablement, which in turn will soon benefit Fedora ARM users seeing as they are likely to lock onto this new version for the Fedora 21 release...
+VIn complementing the earlier Linux 3.16 file-system tests on an SSD (and the later Btrfs testing), here are benchmarks of EXT4, XFS, and Btrfs from the Linux 3.15 and 3.16 kernels being compared from a traditional rotating hard drive.
 p437
 stRp438
 sg19
@@ -1639,7 +1639,7 @@ g1
 g3
 (dp440
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNzc
+Vhttp://www.phoronix.com/vr.php?view=20679
 p441
 sg11
 g24
@@ -1651,15 +1651,15 @@ g77
 ((I2014
 I7
 I8
-I14
+I16
 I7
-I49
+I2
 I1
 I189
 I0
 t(dtRp443
 sg29
-VLinux 3.16 Is Looking Good For ARM Hardware Support
+VLinux 3.16 File-System Tests On A Hard Drive
 p444
 sg80
 g437
@@ -1683,10 +1683,10 @@ stRp448
 sg30
 g441
 sg86
-VTue, 08 Jul 2014 10:07:49 EDT
+VTue, 08 Jul 2014 12:07:02 EDT
 p449
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNzc
+Vhttp://www.phoronix.com/vr.php?view=20679
 p450
 stRp451
 ag1
@@ -1706,7 +1706,7 @@ sg11
 g34
 sg13
 Nsg14
-VDigia has happily put out the first beta today of Qt Creator 3.2...
+VJust shy of one month since releasing Red Hat Enterprise Linux 7.0 (and one day past CentOS 7), Red Hat has announced today their latest major software launch: Red Hat Enterprise Linux OpenStack Platform 5...
 p456
 stRp457
 sg19
@@ -1716,7 +1716,7 @@ g1
 g3
 (dp459
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNzg
+Vhttp://www.phoronix.com/vr.php?view=MTczNzk
 p460
 sg11
 g24
@@ -1728,15 +1728,15 @@ g77
 ((I2014
 I7
 I8
-I12
-I25
-I50
+I15
+I14
+I2
 I1
 I189
 I0
 t(dtRp462
 sg29
-VQt Creator 3.2 In Beta With Greater Stability & Improvements
+VRed Hat Enterprise Linux OpenStack Platform 5 Released
 p463
 sg80
 g456
@@ -1760,10 +1760,10 @@ stRp467
 sg30
 g460
 sg86
-VTue, 08 Jul 2014 08:25:50 EDT
+VTue, 08 Jul 2014 11:14:02 EDT
 p468
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNzg
+Vhttp://www.phoronix.com/vr.php?view=MTczNzk
 p469
 stRp470
 ag1
@@ -1783,7 +1783,7 @@ sg11
 g34
 sg13
 Nsg14
-VSucceeding last month's NVIDIA 340.17 Linux driver beta is now the first official release in the 340.xx driver series for Linux / Solaris / BSD. The NVIDIA 340.24 driver was released this morning with new features but is heavier on the fixing side...
+VThe Linux 3.16 kernel is set to debut with a fair amount of new ARM hardware / SoC enablement, which in turn will soon benefit Fedora ARM users seeing as they are likely to lock onto this new version for the Fedora 21 release...
 p475
 stRp476
 sg19
@@ -1793,7 +1793,7 @@ g1
 g3
 (dp478
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNzY
+Vhttp://www.phoronix.com/vr.php?view=MTczNzc
 p479
 sg11
 g24
@@ -1805,15 +1805,15 @@ g77
 ((I2014
 I7
 I8
-I12
-I0
-I0
+I14
+I7
+I49
 I1
 I189
 I0
 t(dtRp481
 sg29
-VNVIDIA 340.24 Linux Driver Has G-SYNC Support, FXAA Control
+VLinux 3.16 Is Looking Good For ARM Hardware Support
 p482
 sg80
 g475
@@ -1837,10 +1837,10 @@ stRp486
 sg30
 g479
 sg86
-VTue, 08 Jul 2014 08:00:00 EDT
+VTue, 08 Jul 2014 10:07:49 EDT
 p487
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNzY
+Vhttp://www.phoronix.com/vr.php?view=MTczNzc
 p488
 stRp489
 ag1
@@ -1860,7 +1860,7 @@ sg11
 g34
 sg13
 Nsg14
-VIt's time for another monthly development update to the Unvanquished open-source, cross-platform first person shooter...
+VDigia has happily put out the first beta today of Qt Creator 3.2...
 p494
 stRp495
 sg19
@@ -1870,7 +1870,7 @@ g1
 g3
 (dp497
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNzU
+Vhttp://www.phoronix.com/vr.php?view=MTczNzg
 p498
 sg11
 g24
@@ -1882,15 +1882,15 @@ g77
 ((I2014
 I7
 I8
-I11
-I31
-I10
+I12
+I25
+I50
 I1
 I189
 I0
 t(dtRp500
 sg29
-VUnvanquished Alpha 29 Makes Use Of libRocket
+VQt Creator 3.2 In Beta With Greater Stability & Improvements
 p501
 sg80
 g494
@@ -1914,10 +1914,10 @@ stRp505
 sg30
 g498
 sg86
-VTue, 08 Jul 2014 07:31:10 EDT
+VTue, 08 Jul 2014 08:25:50 EDT
 p506
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNzU
+Vhttp://www.phoronix.com/vr.php?view=MTczNzg
 p507
 stRp508
 ag1
@@ -1937,7 +1937,7 @@ sg11
 g34
 sg13
 Nsg14
-VWhile LLVM's Clang compiler is predominantly used on Linux, OS X, and BSD systems, the Microsoft Windows support has been a focus over the past several months and is reaching an improved state for building native Windows programs with Visual C++ compatibility...
+VSucceeding last month's NVIDIA 340.17 Linux driver beta is now the first official release in the 340.xx driver series for Linux / Solaris / BSD. The NVIDIA 340.24 driver was released this morning with new features but is heavier on the fixing side...
 p513
 stRp514
 sg19
@@ -1947,7 +1947,7 @@ g1
 g3
 (dp516
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNzQ
+Vhttp://www.phoronix.com/vr.php?view=MTczNzY
 p517
 sg11
 g24
@@ -1959,15 +1959,15 @@ g77
 ((I2014
 I7
 I8
-I11
-I15
-I47
+I12
+I0
+I0
 I1
 I189
 I0
 t(dtRp519
 sg29
-VLLVM's Clang Is Working Better For Building Windows Programs
+VNVIDIA 340.24 Linux Driver Has G-SYNC Support, FXAA Control
 p520
 sg80
 g513
@@ -1991,10 +1991,10 @@ stRp524
 sg30
 g517
 sg86
-VTue, 08 Jul 2014 07:15:47 EDT
+VTue, 08 Jul 2014 08:00:00 EDT
 p525
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNzQ
+Vhttp://www.phoronix.com/vr.php?view=MTczNzY
 p526
 stRp527
 ag1
@@ -2014,7 +2014,7 @@ sg11
 g34
 sg13
 Nsg14
-VThe DisplayPort MST support code that's been in the works for several months is starting to land with the Linux 3.17 kernel that will be officially entering development stages next month...
+VIt's time for another monthly development update to the Unvanquished open-source, cross-platform first person shooter...
 p532
 stRp533
 sg19
@@ -2024,7 +2024,7 @@ g1
 g3
 (dp535
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNzM
+Vhttp://www.phoronix.com/vr.php?view=MTczNzU
 p536
 sg11
 g24
@@ -2036,15 +2036,15 @@ g77
 ((I2014
 I7
 I8
-I6
-I16
-I20
+I11
+I31
+I10
 I1
 I189
 I0
 t(dtRp538
 sg29
-VDisplayPort MST Code Starts Lining Up For Linux 3.17, Other DRM Changes
+VUnvanquished Alpha 29 Makes Use Of libRocket
 p539
 sg80
 g532
@@ -2068,10 +2068,10 @@ stRp543
 sg30
 g536
 sg86
-VTue, 08 Jul 2014 02:16:20 EDT
+VTue, 08 Jul 2014 07:31:10 EDT
 p544
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNzM
+Vhttp://www.phoronix.com/vr.php?view=MTczNzU
 p545
 stRp546
 ag1
@@ -2091,7 +2091,7 @@ sg11
 g34
 sg13
 Nsg14
-VX.Org Server 1.16 has been delayed. However, it's not been delayed like in some of the more notorious past releases due to outstanding bugs, etc, but over letting in a late feature to this latest revision of the X11 server...
+VWhile LLVM's Clang compiler is predominantly used on Linux, OS X, and BSD systems, the Microsoft Windows support has been a focus over the past several months and is reaching an improved state for building native Windows programs with Visual C++ compatibility...
 p551
 stRp552
 sg19
@@ -2101,7 +2101,7 @@ g1
 g3
 (dp554
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNzI
+Vhttp://www.phoronix.com/vr.php?view=MTczNzQ
 p555
 sg11
 g24
@@ -2113,15 +2113,15 @@ g77
 ((I2014
 I7
 I8
-I4
-I8
-I26
+I11
+I15
+I47
 I1
 I189
 I0
 t(dtRp557
 sg29
-VX.Org Server 1.16 Delayed To Let In Non-PCI Graphics Support
+VLLVM's Clang Is Working Better For Building Windows Programs
 p558
 sg80
 g551
@@ -2145,10 +2145,10 @@ stRp562
 sg30
 g555
 sg86
-VTue, 08 Jul 2014 00:08:26 EDT
+VTue, 08 Jul 2014 07:15:47 EDT
 p563
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNzI
+Vhttp://www.phoronix.com/vr.php?view=MTczNzQ
 p564
 stRp565
 ag1
@@ -2168,7 +2168,7 @@ sg11
 g34
 sg13
 Nsg14
-VAs a follow-up to the story from earlier about KDE Frameworks 5 being due out, the official release of KF5 ended up taking place this afternoon...
+VThe DisplayPort MST support code that's been in the works for several months is starting to land with the Linux 3.17 kernel that will be officially entering development stages next month...
 p570
 stRp571
 sg19
@@ -2178,7 +2178,7 @@ g1
 g3
 (dp573
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNzE
+Vhttp://www.phoronix.com/vr.php?view=MTczNzM
 p574
 sg11
 g24
@@ -2189,16 +2189,16 @@ asg76
 g77
 ((I2014
 I7
-I7
-I23
-I5
-I48
-I0
-I188
+I8
+I6
+I16
+I20
+I1
+I189
 I0
 t(dtRp576
 sg29
-VKDE Frameworks 5 Has Been Officially Released
+VDisplayPort MST Code Starts Lining Up For Linux 3.17, Other DRM Changes
 p577
 sg80
 g570
@@ -2222,10 +2222,10 @@ stRp581
 sg30
 g574
 sg86
-VMon, 07 Jul 2014 19:05:48 EDT
+VTue, 08 Jul 2014 02:16:20 EDT
 p582
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNzE
+Vhttp://www.phoronix.com/vr.php?view=MTczNzM
 p583
 stRp584
 ag1
@@ -2245,7 +2245,7 @@ sg11
 g34
 sg13
 Nsg14
-VAs a follow-up to the story about a Qualcomm DMCA notice taking down 100+ repositories of open-source code on GitHub, Qualcomm has changed course...
+VX.Org Server 1.16 has been delayed. However, it's not been delayed like in some of the more notorious past releases due to outstanding bugs, etc, but over letting in a late feature to this latest revision of the X11 server...
 p589
 stRp590
 sg19
@@ -2255,7 +2255,7 @@ g1
 g3
 (dp592
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNzA
+Vhttp://www.phoronix.com/vr.php?view=MTczNzI
 p593
 sg11
 g24
@@ -2266,16 +2266,16 @@ asg76
 g77
 ((I2014
 I7
-I7
-I20
-I39
-I31
-I0
-I188
+I8
+I4
+I8
+I26
+I1
+I189
 I0
 t(dtRp595
 sg29
-VQualcomm Retracts Its Massive DMCA Takedown Of Git Repositories
+VX.Org Server 1.16 Delayed To Let In Non-PCI Graphics Support
 p596
 sg80
 g589
@@ -2299,10 +2299,10 @@ stRp600
 sg30
 g593
 sg86
-VMon, 07 Jul 2014 16:39:31 EDT
+VTue, 08 Jul 2014 00:08:26 EDT
 p601
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNzA
+Vhttp://www.phoronix.com/vr.php?view=MTczNzI
 p602
 stRp603
 ag1
@@ -2322,7 +2322,7 @@ sg11
 g34
 sg13
 Nsg14
-VAfter being under public QA since last month, CentOS 7 has been released as the popular community-based re-spin of Red Hat Enterprise Linux 7...
+VAs a follow-up to the story from earlier about KDE Frameworks 5 being due out, the official release of KF5 ended up taking place this afternoon...
 p608
 stRp609
 sg19
@@ -2332,7 +2332,7 @@ g1
 g3
 (dp611
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNjk
+Vhttp://www.phoronix.com/vr.php?view=MTczNzE
 p612
 sg11
 g24
@@ -2344,15 +2344,15 @@ g77
 ((I2014
 I7
 I7
-I20
-I28
-I26
+I23
+I5
+I48
 I0
 I188
 I0
 t(dtRp614
 sg29
-VCentOS 7 Release Relives RHEL7 As A Community Project
+VKDE Frameworks 5 Has Been Officially Released
 p615
 sg80
 g608
@@ -2376,10 +2376,10 @@ stRp619
 sg30
 g612
 sg86
-VMon, 07 Jul 2014 16:28:26 EDT
+VMon, 07 Jul 2014 19:05:48 EDT
 p620
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNjk
+Vhttp://www.phoronix.com/vr.php?view=MTczNzE
 p621
 stRp622
 ag1
@@ -2399,7 +2399,7 @@ sg11
 g34
 sg13
 Nsg14
-VCanonical's Mir display server for Ubuntu Linux has cleared Mir 0.4.0 for Ubuntu 14.10 "Utopic" while Mir 0.5 is immediately under development...
+VAs a follow-up to the story about a Qualcomm DMCA notice taking down 100+ repositories of open-source code on GitHub, Qualcomm has changed course...
 p627
 stRp628
 sg19
@@ -2409,7 +2409,7 @@ g1
 g3
 (dp630
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNjg
+Vhttp://www.phoronix.com/vr.php?view=MTczNzA
 p631
 sg11
 g24
@@ -2421,15 +2421,15 @@ g77
 ((I2014
 I7
 I7
-I17
-I47
-I16
+I20
+I39
+I31
 I0
 I188
 I0
 t(dtRp633
 sg29
-VMir 0.4 Released, Mir 0.5 Under Development
+VQualcomm Retracts Its Massive DMCA Takedown Of Git Repositories
 p634
 sg80
 g627
@@ -2453,10 +2453,10 @@ stRp638
 sg30
 g631
 sg86
-VMon, 07 Jul 2014 13:47:16 EDT
+VMon, 07 Jul 2014 16:39:31 EDT
 p639
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNjg
+Vhttp://www.phoronix.com/vr.php?view=MTczNzA
 p640
 stRp641
 ag1
@@ -2476,7 +2476,7 @@ sg11
 g34
 sg13
 Nsg14
-VKDE Frameworks 5 is due out tomorrow on 8 July...
+VAfter being under public QA since last month, CentOS 7 has been released as the popular community-based re-spin of Red Hat Enterprise Linux 7...
 p646
 stRp647
 sg19
@@ -2486,7 +2486,7 @@ g1
 g3
 (dp649
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNjc
+Vhttp://www.phoronix.com/vr.php?view=MTczNjk
 p650
 sg11
 g24
@@ -2498,15 +2498,15 @@ g77
 ((I2014
 I7
 I7
-I16
-I39
-I10
+I20
+I28
+I26
 I0
 I188
 I0
 t(dtRp652
 sg29
-VKDE Frameworks 5 Is Due Out Tomorrow
+VCentOS 7 Release Relives RHEL7 As A Community Project
 p653
 sg80
 g646
@@ -2530,10 +2530,10 @@ stRp657
 sg30
 g650
 sg86
-VMon, 07 Jul 2014 12:39:10 EDT
+VMon, 07 Jul 2014 16:28:26 EDT
 p658
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNjc
+Vhttp://www.phoronix.com/vr.php?view=MTczNjk
 p659
 stRp660
 ag1
@@ -2553,7 +2553,7 @@ sg11
 g34
 sg13
 Nsg14
-VLinux developers and fans of Unreal Engine 4 have started offering compiled builds of several UE4 tech demos and some simple games for 64-bit Linux...
+VCanonical's Mir display server for Ubuntu Linux has cleared Mir 0.4.0 for Ubuntu 14.10 "Utopic" while Mir 0.5 is immediately under development...
 p665
 stRp666
 sg19
@@ -2563,7 +2563,7 @@ g1
 g3
 (dp668
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNjY
+Vhttp://www.phoronix.com/vr.php?view=MTczNjg
 p669
 sg11
 g24
@@ -2575,15 +2575,15 @@ g77
 ((I2014
 I7
 I7
-I15
 I17
 I47
+I16
 I0
 I188
 I0
 t(dtRp671
 sg29
-VA Variety Of Unreal Engine 4 Linux Demos Are Now Available
+VMir 0.4 Released, Mir 0.5 Under Development
 p672
 sg80
 g665
@@ -2607,10 +2607,10 @@ stRp676
 sg30
 g669
 sg86
-VMon, 07 Jul 2014 11:17:47 EDT
+VMon, 07 Jul 2014 13:47:16 EDT
 p677
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNjY
+Vhttp://www.phoronix.com/vr.php?view=MTczNjg
 p678
 stRp679
 ag1
@@ -2630,7 +2630,7 @@ sg11
 g34
 sg13
 Nsg14
-VAt the same time as announcing Oculus Connect, a new developer conference for the popular virtual reality gaming device, Oculus has shared they have acquired RakNet and open-sourced the software...
+VKDE Frameworks 5 is due out tomorrow on 8 July...
 p684
 stRp685
 sg19
@@ -2640,7 +2640,7 @@ g1
 g3
 (dp687
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNjU
+Vhttp://www.phoronix.com/vr.php?view=MTczNjc
 p688
 sg11
 g24
@@ -2652,15 +2652,15 @@ g77
 ((I2014
 I7
 I7
-I15
-I0
-I27
+I16
+I39
+I10
 I0
 I188
 I0
 t(dtRp690
 sg29
-VOculus Acquires RakNet Middleware & Open-Sources It
+VKDE Frameworks 5 Is Due Out Tomorrow
 p691
 sg80
 g684
@@ -2684,10 +2684,10 @@ stRp695
 sg30
 g688
 sg86
-VMon, 07 Jul 2014 11:00:27 EDT
+VMon, 07 Jul 2014 12:39:10 EDT
 p696
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNjU
+Vhttp://www.phoronix.com/vr.php?view=MTczNjc
 p697
 stRp698
 ag1
@@ -2707,7 +2707,7 @@ sg11
 g34
 sg13
 Nsg14
-VThis weekend marked the release of Deepin 2014 as a Chinese derivative of Ubuntu 14.04 LTS featuring the new DDE 2.0 desktop. Here's some benchmarks of running some OpenGL Linux games on Deepin 2014 compared to Ubuntu 14.04 LTS when testing a few different desktop environments.
+VLinux developers and fans of Unreal Engine 4 have started offering compiled builds of several UE4 tech demos and some simple games for 64-bit Linux...
 p703
 stRp704
 sg19
@@ -2717,7 +2717,7 @@ g1
 g3
 (dp706
 g22
-Vhttp://www.phoronix.com/vr.php?view=20672
+Vhttp://www.phoronix.com/vr.php?view=MTczNjY
 p707
 sg11
 g24
@@ -2729,15 +2729,15 @@ g77
 ((I2014
 I7
 I7
-I14
-I0
-I0
+I15
+I17
+I47
 I0
 I188
 I0
 t(dtRp709
 sg29
-VBenchmarking Deepin 2014 With DDE 2.0 Using Linux Games
+VA Variety Of Unreal Engine 4 Linux Demos Are Now Available
 p710
 sg80
 g703
@@ -2761,10 +2761,10 @@ stRp714
 sg30
 g707
 sg86
-VMon, 07 Jul 2014 10:00:00 EDT
+VMon, 07 Jul 2014 11:17:47 EDT
 p715
 sg88
-Vhttp://www.phoronix.com/vr.php?view=20672
+Vhttp://www.phoronix.com/vr.php?view=MTczNjY
 p716
 stRp717
 ag1
@@ -2784,7 +2784,7 @@ sg11
 g34
 sg13
 Nsg14
-VFollowing last month's release of Unicode 7.0, the GNU Unifont project is out with an open-source glyph for each printable code point in the Unicode 7.0 Plane 0 standard...
+VAt the same time as announcing Oculus Connect, a new developer conference for the popular virtual reality gaming device, Oculus has shared they have acquired RakNet and open-sourced the software...
 p722
 stRp723
 sg19
@@ -2794,7 +2794,7 @@ g1
 g3
 (dp725
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNjQ
+Vhttp://www.phoronix.com/vr.php?view=MTczNjU
 p726
 sg11
 g24
@@ -2806,15 +2806,15 @@ g77
 ((I2014
 I7
 I7
-I13
-I43
-I30
+I15
+I0
+I27
 I0
 I188
 I0
 t(dtRp728
 sg29
-VUnifont 7.0 Update Covers The Unicode 7.0 Basic Multilingual Plane
+VOculus Acquires RakNet Middleware & Open-Sources It
 p729
 sg80
 g722
@@ -2838,10 +2838,10 @@ stRp733
 sg30
 g726
 sg86
-VMon, 07 Jul 2014 09:43:30 EDT
+VMon, 07 Jul 2014 11:00:27 EDT
 p734
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNjQ
+Vhttp://www.phoronix.com/vr.php?view=MTczNjU
 p735
 stRp736
 ag1
@@ -2861,7 +2861,7 @@ sg11
 g34
 sg13
 Nsg14
-VA Linux kernel developer is working on porting FreeBSD's CAPSICUM security framework over to the Linux kernel...
+VThis weekend marked the release of Deepin 2014 as a Chinese derivative of Ubuntu 14.04 LTS featuring the new DDE 2.0 desktop. Here's some benchmarks of running some OpenGL Linux games on Deepin 2014 compared to Ubuntu 14.04 LTS when testing a few different desktop environments.
 p741
 stRp742
 sg19
@@ -2871,7 +2871,7 @@ g1
 g3
 (dp744
 g22
-Vhttp://www.phoronix.com/vr.php?view=MTczNjM
+Vhttp://www.phoronix.com/vr.php?view=20672
 p745
 sg11
 g24
@@ -2883,15 +2883,15 @@ g77
 ((I2014
 I7
 I7
-I13
-I8
-I50
+I14
+I0
+I0
 I0
 I188
 I0
 t(dtRp747
 sg29
-VThe Linux Kernel Might Use FreeBSD's Capsicum Security Framework
+VBenchmarking Deepin 2014 With DDE 2.0 Using Linux Games
 p748
 sg80
 g741
@@ -2915,10 +2915,10 @@ stRp752
 sg30
 g745
 sg86
-VMon, 07 Jul 2014 09:08:50 EDT
+VMon, 07 Jul 2014 10:00:00 EDT
 p753
 sg88
-Vhttp://www.phoronix.com/vr.php?view=MTczNjM
+Vhttp://www.phoronix.com/vr.php?view=20672
 p754
 stRp755
 astRp756

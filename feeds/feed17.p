@@ -16,7 +16,7 @@ g3
 (dp6
 S'updated'
 p7
-VThu, 10 Jul 2014 17:21:31 -0000
+VFri, 11 Jul 2014 03:17:19 -0000
 p8
 sS'subtitle'
 p9
@@ -110,12 +110,12 @@ struct_time
 p46
 ((I2014
 I7
-I10
-I17
-I21
-I31
+I11
 I3
-I191
+I17
+I19
+I4
+I192
 I0
 t(dtRp47
 stRp48
@@ -123,16 +123,16 @@ sS'status'
 p49
 I200
 sg7
-S'Fri, 11 Jul 2014 00:21:31 GMT'
+S'Fri, 11 Jul 2014 10:17:19 GMT'
 p50
 sg45
 g46
 ((I2014
 I7
 I11
-I0
-I21
-I31
+I10
+I17
+I19
 I4
 I192
 I0
@@ -149,7 +149,7 @@ p55
 (dp56
 S'content-length'
 p57
-S'5574'
+S'5583'
 p58
 sS'content-encoding'
 p59
@@ -157,7 +157,7 @@ S'gzip'
 p60
 sS'expires'
 p61
-S'Fri, 11 Jul 2014 00:22:31 GMT'
+S'Fri, 11 Jul 2014 10:18:19 GMT'
 p62
 sS'vary'
 p63
@@ -180,7 +180,7 @@ S'max-age=60'
 p71
 sS'date'
 p72
-S'Fri, 11 Jul 2014 00:21:31 GMT'
+S'Fri, 11 Jul 2014 10:17:19 GMT'
 p73
 sS'x-frame-options'
 p74
@@ -217,7 +217,7 @@ sg16
 g36
 sg28
 Nsg37
-VThis is the druid deck I'm running this season. It is doing quite well at the moment. Pretty straight forward ramp up ability with the double force-savage combo. I like this deck much better than the fast druids that have ...
+VIsn't he good against zoo in theory? I'd hang on to the guy personally, even if not using him. I have a Gruul for the same reason. The 400 dust just doesn't seem worth it for something so hard to ...
 p87
 stRp88
 sg11
@@ -227,7 +227,7 @@ g1
 g3
 (dp90
 g14
-Vhttp://day9.tv/d/OxygenOP/druid-ramp-combo-deck/
+Vhttp://day9.tv/d/bronzeager/good-against-zoo/
 p91
 sg16
 g17
@@ -235,7 +235,7 @@ sg18
 g19
 stRp92
 asg30
-VDruid Ramp Combo Deck by OxygenOP
+VGood against zoo? by bronzeager
 p93
 sS'summary'
 p94
@@ -262,7 +262,7 @@ sg44
 g91
 sS'id'
 p100
-Vhttp://day9.tv/d/OxygenOP/druid-ramp-combo-deck/
+Vhttp://day9.tv/d/bronzeager/good-against-zoo/
 p101
 stRp102
 ag1
@@ -282,7 +282,7 @@ sg16
 g36
 sg28
 Nsg37
-VOr maybe all the love? Reminds me of the most fun series of games I've played thus far. I was playing a good friend of mine who was all excited because he had recently gotten his first legendary card (I ...
+VThis is the druid deck I'm running this season. It is doing quite well at the moment. Pretty straight forward ramp up ability with the double force-savage combo. I like this deck much better than the fast druids that have ...
 p107
 stRp108
 sg11
@@ -292,7 +292,7 @@ g1
 g3
 (dp110
 g14
-Vhttp://day9.tv/d/SteppeLively/no-love-for-antonidas/
+Vhttp://day9.tv/d/OxygenOP/druid-ramp-combo-deck/
 p111
 sg16
 g17
@@ -300,7 +300,7 @@ sg18
 g19
 stRp112
 asg30
-VNo love for Antonidas by SteppeLively
+VDruid Ramp Combo Deck by OxygenOP
 p113
 sg94
 g107
@@ -324,7 +324,7 @@ stRp117
 sg44
 g111
 sg100
-Vhttp://day9.tv/d/SteppeLively/no-love-for-antonidas/
+Vhttp://day9.tv/d/OxygenOP/druid-ramp-combo-deck/
 p118
 stRp119
 ag1
@@ -344,7 +344,7 @@ sg16
 g36
 sg28
 Nsg37
-VBut the option of trading out an almost useless card for several cards I'm already missing seems a little too tempting even for me (I must have all the cards!!!).
+VOr maybe all the love? Reminds me of the most fun series of games I've played thus far. I was playing a good friend of mine who was all excited because he had recently gotten his first legendary card (I ...
 p124
 stRp125
 sg11
@@ -354,7 +354,7 @@ g1
 g3
 (dp127
 g14
-Vhttp://day9.tv/d/SteppeLively/i-feel-the-same-way/
+Vhttp://day9.tv/d/SteppeLively/no-love-for-antonidas/
 p128
 sg16
 g17
@@ -362,7 +362,7 @@ sg18
 g19
 stRp129
 asg30
-VI feel the same way... by SteppeLively
+VNo love for Antonidas by SteppeLively
 p130
 sg94
 g124
@@ -386,7 +386,7 @@ stRp134
 sg44
 g128
 sg100
-Vhttp://day9.tv/d/SteppeLively/i-feel-the-same-way/
+Vhttp://day9.tv/d/SteppeLively/no-love-for-antonidas/
 p135
 stRp136
 ag1
@@ -406,7 +406,7 @@ sg16
 g36
 sg28
 Nsg37
-VEven a bad legendary is scarce, so as a rule I don't disenchant them, but that's the collector in me speaking.
+VBut the option of trading out an almost useless card for several cards I'm already missing seems a little too tempting even for me (I must have all the cards!!!).
 p141
 stRp142
 sg11
@@ -416,7 +416,7 @@ g1
 g3
 (dp144
 g14
-Vhttp://day9.tv/d/Kai.Herbertz/i-wouldnt-disenchant-legendaries/
+Vhttp://day9.tv/d/SteppeLively/i-feel-the-same-way/
 p145
 sg16
 g17
@@ -424,7 +424,7 @@ sg18
 g19
 stRp146
 asg30
-VI wouldn't disenchant legendaries by Kai.Herbertz
+VI feel the same way... by SteppeLively
 p147
 sg94
 g141
@@ -440,78 +440,78 @@ g34
 Vhttp://day9.tv/d/b/hearthstone/rss/
 p150
 sg16
-Vtext/html
-p151
+g42
 sg28
 Nsg37
 g147
-stRp152
+stRp151
 sg44
 g145
 sg100
-Vhttp://day9.tv/d/Kai.Herbertz/i-wouldnt-disenchant-legendaries/
-p153
-stRp154
+Vhttp://day9.tv/d/SteppeLively/i-feel-the-same-way/
+p152
+stRp153
 ag1
 (g2
 g3
-(dp155
+(dp154
 S'summary_detail'
-p156
+p155
 g1
 (g2
 g3
-(dp157
+(dp156
 g34
 Vhttp://day9.tv/d/b/hearthstone/rss/
-p158
+p157
 sg16
 g36
 sg28
 Nsg37
-VShort answer is yes, you can DE it : you'll probably never find a deck that needs such a risky card.EDIT : keep it if you want trolly games^^
-p159
-stRp160
+VEven a bad legendary is scarce, so as a rule I don't disenchant them, but that's the collector in me speaking.
+p158
+stRp159
 sg11
-(lp161
+(lp160
 g1
 (g2
 g3
-(dp162
+(dp161
 g14
-Vhttp://day9.tv/d/Lyho/theres-always-a-way-to-lose-with-millhouse-d/
-p163
+Vhttp://day9.tv/d/Kai.Herbertz/i-wouldnt-disenchant-legendaries/
+p162
 sg16
 g17
 sg18
 g19
-stRp164
+stRp163
 asg30
-VThere's always a way to lose with Millhouse :D by Lyho
-p165
+VI wouldn't disenchant legendaries by Kai.Herbertz
+p164
 sg94
-g159
+g158
 sg95
 I00
 sS'title_detail'
-p166
+p165
 g1
 (g2
 g3
-(dp167
+(dp166
 g34
 Vhttp://day9.tv/d/b/hearthstone/rss/
-p168
+p167
 sg16
-g151
+Vtext/html
+p168
 sg28
 Nsg37
-g165
+g164
 stRp169
 sg44
-g163
+g162
 sg100
-Vhttp://day9.tv/d/Lyho/theres-always-a-way-to-lose-with-millhouse-d/
+Vhttp://day9.tv/d/Kai.Herbertz/i-wouldnt-disenchant-legendaries/
 p170
 stRp171
 ag1
@@ -531,7 +531,7 @@ sg16
 g36
 sg28
 Nsg37
-VI have disenchanted him before and will do so again in a heartbeat, there are so many other cards I want, before I'll consider keeping him. Yes, there might be specific cases where he can work, but he seems to ...
+VShort answer is yes, you can DE it : you'll probably never find a deck that needs such a risky card.EDIT : keep it if you want trolly games^^
 p176
 stRp177
 sg11
@@ -541,7 +541,7 @@ g1
 g3
 (dp179
 g14
-Vhttp://day9.tv/d/Irony/would-not-keep/
+Vhttp://day9.tv/d/Lyho/theres-always-a-way-to-lose-with-millhouse-d/
 p180
 sg16
 g17
@@ -549,7 +549,7 @@ sg18
 g19
 stRp181
 asg30
-VWould not keep by Irony
+VThere's always a way to lose with Millhouse :D by Lyho
 p182
 sg94
 g176
@@ -565,7 +565,7 @@ g34
 Vhttp://day9.tv/d/b/hearthstone/rss/
 p185
 sg16
-g42
+g168
 sg28
 Nsg37
 g182
@@ -573,7 +573,7 @@ stRp186
 sg44
 g180
 sg100
-Vhttp://day9.tv/d/Irony/would-not-keep/
+Vhttp://day9.tv/d/Lyho/theres-always-a-way-to-lose-with-millhouse-d/
 p187
 stRp188
 ag1
@@ -593,7 +593,7 @@ sg16
 g36
 sg28
 Nsg37
-VBut I'm rank 19 or something like that. I also don't buy cards. Tried to use him in a couple of decks but he turned out to be more of an impairment to the deck. The 2nd (or maybe 1st) ...
+VI have disenchanted him before and will do so again in a heartbeat, there are so many other cards I want, before I'll consider keeping him. Yes, there might be specific cases where he can work, but he seems to ...
 p193
 stRp194
 sg11
@@ -603,7 +603,7 @@ g1
 g3
 (dp196
 g14
-Vhttp://day9.tv/d/khaoz/i-did/
+Vhttp://day9.tv/d/Irony/would-not-keep/
 p197
 sg16
 g17
@@ -611,7 +611,7 @@ sg18
 g19
 stRp198
 asg30
-VI did by khaoz
+VWould not keep by Irony
 p199
 sg94
 g193
@@ -635,7 +635,7 @@ stRp203
 sg44
 g197
 sg100
-Vhttp://day9.tv/d/khaoz/i-did/
+Vhttp://day9.tv/d/Irony/would-not-keep/
 p204
 stRp205
 ag1
@@ -655,7 +655,7 @@ sg16
 g36
 sg28
 Nsg37
-VSo I got another legendary card today in my pack. Millhouse manastorm. Now while I'm happy to get any new card, this one seems way to situational to be of use for me. SO my question to the dayknighters here ...
+VBut I'm rank 19 or something like that. I also don't buy cards. Tried to use him in a couple of decks but he turned out to be more of an impairment to the deck. The 2nd (or maybe 1st) ...
 p210
 stRp211
 sg11
@@ -665,7 +665,7 @@ g1
 g3
 (dp213
 g14
-Vhttp://day9.tv/d/turboswim/everythings-coming-up-millhouse/
+Vhttp://day9.tv/d/khaoz/i-did/
 p214
 sg16
 g17
@@ -673,7 +673,7 @@ sg18
 g19
 stRp215
 asg30
-VEverythings coming up millhouse by turboswim
+VI did by khaoz
 p216
 sg94
 g210
@@ -697,7 +697,7 @@ stRp220
 sg44
 g214
 sg100
-Vhttp://day9.tv/d/turboswim/everythings-coming-up-millhouse/
+Vhttp://day9.tv/d/khaoz/i-did/
 p221
 stRp222
 ag1
@@ -717,7 +717,7 @@ sg16
 g36
 sg28
 Nsg37
-VI am a rank 14 Hearthstoner on EU, and I was running my control warrior for my daily quest. I only needed a single win to bag that 60g, so naturally, my heart sunk a little when I saw I ...
+VSo I got another legendary card today in my pack. Millhouse manastorm. Now while I'm happy to get any new card, this one seems way to situational to be of use for me. SO my question to the dayknighters here ...
 p227
 stRp228
 sg11
@@ -727,7 +727,7 @@ g1
 g3
 (dp230
 g14
-Vhttp://day9.tv/d/StarShineFox/control-warrior-vs-ice-mage-a-short-story/
+Vhttp://day9.tv/d/turboswim/everythings-coming-up-millhouse/
 p231
 sg16
 g17
@@ -735,7 +735,7 @@ sg18
 g19
 stRp232
 asg30
-VControl Warrior vs Ice Mage, a short(ish) story by StarShineFox
+VEverythings coming up millhouse by turboswim
 p233
 sg94
 g227
@@ -759,7 +759,7 @@ stRp237
 sg44
 g231
 sg100
-Vhttp://day9.tv/d/StarShineFox/control-warrior-vs-ice-mage-a-short-story/
+Vhttp://day9.tv/d/turboswim/everythings-coming-up-millhouse/
 p238
 stRp239
 ag1
@@ -779,7 +779,7 @@ sg16
 g36
 sg28
 Nsg37
-VBut I quite honestly do not want to play ladder there. Much too repetitive for my taste. Any time I got within that range I felt like I'd rather play a goofball gimmick deck to drop ranks back down again ...
+VI am a rank 14 Hearthstoner on EU, and I was running my control warrior for my daily quest. I only needed a single win to bag that 60g, so naturally, my heart sunk a little when I saw I ...
 p244
 stRp245
 sg11
@@ -789,7 +789,7 @@ g1
 g3
 (dp247
 g14
-Vhttp://day9.tv/d/Rade/probs-10-5/
+Vhttp://day9.tv/d/StarShineFox/control-warrior-vs-ice-mage-a-short-story/
 p248
 sg16
 g17
@@ -797,7 +797,7 @@ sg18
 g19
 stRp249
 asg30
-VProbs 10-5 by Rade
+VControl Warrior vs Ice Mage, a short(ish) story by StarShineFox
 p250
 sg94
 g244
@@ -821,7 +821,7 @@ stRp254
 sg44
 g248
 sg100
-Vhttp://day9.tv/d/Rade/probs-10-5/
+Vhttp://day9.tv/d/StarShineFox/control-warrior-vs-ice-mage-a-short-story/
 p255
 stRp256
 ag1
@@ -841,7 +841,7 @@ sg16
 g36
 sg28
 Nsg37
-Vand it seems like it's a good place to get away from the frustrations of constructed. But then, I'm not a particularly awesome player anyway, so I'm not quite ranked high enough that my opponents won't make mistakes. I don't ...
+VBut I quite honestly do not want to play ladder there. Much too repetitive for my taste. Any time I got within that range I felt like I'd rather play a goofball gimmick deck to drop ranks back down again ...
 p261
 stRp262
 sg11
@@ -851,7 +851,7 @@ g1
 g3
 (dp264
 g14
-Vhttp://day9.tv/d/SteppeLively/just-starting-to-dip-my-toes-in-arena/
+Vhttp://day9.tv/d/Rade/probs-10-5/
 p265
 sg16
 g17
@@ -859,7 +859,7 @@ sg18
 g19
 stRp266
 asg30
-VJust starting to dip my toes in Arena by SteppeLively
+VProbs 10-5 by Rade
 p267
 sg94
 g261
@@ -883,7 +883,7 @@ stRp271
 sg44
 g265
 sg100
-Vhttp://day9.tv/d/SteppeLively/just-starting-to-dip-my-toes-in-arena/
+Vhttp://day9.tv/d/Rade/probs-10-5/
 p272
 stRp273
 ag1
@@ -903,7 +903,7 @@ sg16
 g36
 sg28
 Nsg37
-Vsounds like it wouldn't work 90% of the time, but would be THE BEST when it did work. I would LOVE to see sean give it a crack in one of the decktaculars :)
+Vand it seems like it's a good place to get away from the frustrations of constructed. But then, I'm not a particularly awesome player anyway, so I'm not quite ranked high enough that my opponents won't make mistakes. I don't ...
 p278
 stRp279
 sg11
@@ -913,7 +913,7 @@ g1
 g3
 (dp281
 g14
-Vhttp://day9.tv/d/gray.timothyjames/this-deck/
+Vhttp://day9.tv/d/SteppeLively/just-starting-to-dip-my-toes-in-arena/
 p282
 sg16
 g17
@@ -921,7 +921,7 @@ sg18
 g19
 stRp283
 asg30
-Vthis deck... by gray.timothyjames
+VJust starting to dip my toes in Arena by SteppeLively
 p284
 sg94
 g278
@@ -945,7 +945,7 @@ stRp288
 sg44
 g282
 sg100
-Vhttp://day9.tv/d/gray.timothyjames/this-deck/
+Vhttp://day9.tv/d/SteppeLively/just-starting-to-dip-my-toes-in-arena/
 p289
 stRp290
 ag1
@@ -965,7 +965,7 @@ sg16
 g36
 sg28
 Nsg37
-VIt's a great card for token decks. People usually drop it for the more bursty savage roar, but soul of the forest mid-game can really mess with any sort of removal, especially on a token deck.
+Vsounds like it wouldn't work 90% of the time, but would be THE BEST when it did work. I would LOVE to see sean give it a crack in one of the decktaculars :)
 p295
 stRp296
 sg11
@@ -975,7 +975,7 @@ g1
 g3
 (dp298
 g14
-Vhttp://day9.tv/d/Sheol/and-soul-of-the-forest-is-really-undervalued/
+Vhttp://day9.tv/d/gray.timothyjames/this-deck/
 p299
 sg16
 g17
@@ -983,7 +983,7 @@ sg18
 g19
 stRp300
 asg30
-VAnd soul of the forest is really undervalued by Sheol
+Vthis deck... by gray.timothyjames
 p301
 sg94
 g295
@@ -1007,7 +1007,7 @@ stRp305
 sg44
 g299
 sg100
-Vhttp://day9.tv/d/Sheol/and-soul-of-the-forest-is-really-undervalued/
+Vhttp://day9.tv/d/gray.timothyjames/this-deck/
 p306
 stRp307
 ag1
@@ -1027,7 +1027,7 @@ sg16
 g36
 sg28
 Nsg37
-VThis reminds me of my rogue with charge creatures, cold blood and shadowstep. I had a shaman kill me with something similar to what you have here the other day, I was completely surprised because no one runs stuff like ...
+VIt's a great card for token decks. People usually drop it for the more bursty savage roar, but soul of the forest mid-game can really mess with any sort of removal, especially on a token deck.
 p312
 stRp313
 sg11
@@ -1037,7 +1037,7 @@ g1
 g3
 (dp315
 g14
-Vhttp://day9.tv/d/Sheol/reminds-me-of-rogue/
+Vhttp://day9.tv/d/Sheol/and-soul-of-the-forest-is-really-undervalued/
 p316
 sg16
 g17
@@ -1045,7 +1045,7 @@ sg18
 g19
 stRp317
 asg30
-VReminds me of rogue by Sheol
+VAnd soul of the forest is really undervalued by Sheol
 p318
 sg94
 g312
@@ -1069,7 +1069,7 @@ stRp322
 sg44
 g316
 sg100
-Vhttp://day9.tv/d/Sheol/reminds-me-of-rogue/
+Vhttp://day9.tv/d/Sheol/and-soul-of-the-forest-is-really-undervalued/
 p323
 stRp324
 ag1
@@ -1089,7 +1089,7 @@ sg16
 g36
 sg28
 Nsg37
-VI think most people have the same experience, like i do, you play smart and use your cards the best way possible... and then the big dudes show up.
+VThis reminds me of my rogue with charge creatures, cold blood and shadowstep. I had a shaman kill me with something similar to what you have here the other day, I was completely surprised because no one runs stuff like ...
 p329
 stRp330
 sg11
@@ -1099,7 +1099,7 @@ g1
 g3
 (dp332
 g14
-Vhttp://day9.tv/d/lspy/i-know/
+Vhttp://day9.tv/d/Sheol/reminds-me-of-rogue/
 p333
 sg16
 g17
@@ -1107,7 +1107,7 @@ sg18
 g19
 stRp334
 asg30
-Vi know... by lspy
+VReminds me of rogue by Sheol
 p335
 sg94
 g329
@@ -1131,7 +1131,7 @@ stRp339
 sg44
 g333
 sg100
-Vhttp://day9.tv/d/lspy/i-know/
+Vhttp://day9.tv/d/Sheol/reminds-me-of-rogue/
 p340
 stRp341
 ag1
@@ -1151,7 +1151,7 @@ sg16
 g36
 sg28
 Nsg37
-VAlright guys I'll do it thanks :D
+VI think most people have the same experience, like i do, you play smart and use your cards the best way possible... and then the big dudes show up.
 p346
 stRp347
 sg11
@@ -1161,7 +1161,7 @@ g1
 g3
 (dp349
 g14
-Vhttp://day9.tv/d/Wiggull/thanks/
+Vhttp://day9.tv/d/lspy/i-know/
 p350
 sg16
 g17
@@ -1169,7 +1169,7 @@ sg18
 g19
 stRp351
 asg30
-VThanks! by Wiggull
+Vi know... by lspy
 p352
 sg94
 g346
@@ -1193,7 +1193,7 @@ stRp356
 sg44
 g350
 sg100
-Vhttp://day9.tv/d/Wiggull/thanks/
+Vhttp://day9.tv/d/lspy/i-know/
 p357
 stRp358
 ag1
@@ -1213,7 +1213,7 @@ sg16
 g36
 sg28
 Nsg37
-VI really enjoy watching you play Hearthstone. You are the reason im getting better. So i would say do it.
+VAlright guys I'll do it thanks :D
 p363
 stRp364
 sg11
@@ -1223,7 +1223,7 @@ g1
 g3
 (dp366
 g14
-Vhttp://day9.tv/d/daniel.bode.50/indeed/
+Vhttp://day9.tv/d/Wiggull/thanks/
 p367
 sg16
 g17
@@ -1231,7 +1231,7 @@ sg18
 g19
 stRp368
 asg30
-VIndeed! by daniel.bode.50
+VThanks! by Wiggull
 p369
 sg94
 g363
@@ -1255,7 +1255,7 @@ stRp373
 sg44
 g367
 sg100
-Vhttp://day9.tv/d/daniel.bode.50/indeed/
+Vhttp://day9.tv/d/Wiggull/thanks/
 p374
 stRp375
 ag1
@@ -1275,7 +1275,7 @@ sg16
 g36
 sg28
 Nsg37
-VI don't mind buying a game, but I'm not going to become part of somebody's cash cow. I don't mind getting beat by better players, but this game is 90% strength of the deck and luck of the draw. Strength ...
+VI really enjoy watching you play Hearthstone. You are the reason im getting better. So i would say do it.
 p380
 stRp381
 sg11
@@ -1285,7 +1285,7 @@ g1
 g3
 (dp383
 g14
-Vhttp://day9.tv/d/conastatu/this-game-has-become-an-exercise-in-frustration/
+Vhttp://day9.tv/d/daniel.bode.50/indeed/
 p384
 sg16
 g17
@@ -1293,7 +1293,7 @@ sg18
 g19
 stRp385
 asg30
-VThis game has become an exercise in frustration by conastatu
+VIndeed! by daniel.bode.50
 p386
 sg94
 g380
@@ -1317,7 +1317,7 @@ stRp390
 sg44
 g384
 sg100
-Vhttp://day9.tv/d/conastatu/this-game-has-become-an-exercise-in-frustration/
+Vhttp://day9.tv/d/daniel.bode.50/indeed/
 p391
 stRp392
 ag1
@@ -1337,7 +1337,7 @@ sg16
 g36
 sg28
 Nsg37
-VHey guys and gals we could use your help on how to improve our series. Also if your interested in this sort of thing. Video Embedded below. all comments welcome. Thanks in advance.
+VI don't mind buying a game, but I'm not going to become part of somebody's cash cow. I don't mind getting beat by better players, but this game is 90% strength of the deck and luck of the draw. Strength ...
 p397
 stRp398
 sg11
@@ -1347,7 +1347,7 @@ g1
 g3
 (dp400
 g14
-Vhttp://day9.tv/d/turboswim/need-some-feedback-on-our-new-series-dkmr-roud-up/
+Vhttp://day9.tv/d/conastatu/this-game-has-become-an-exercise-in-frustration/
 p401
 sg16
 g17
@@ -1355,7 +1355,7 @@ sg18
 g19
 stRp402
 asg30
-VNeed some feedback on our new series DKMR ROUND UP by turboswim
+VThis game has become an exercise in frustration by conastatu
 p403
 sg94
 g397
@@ -1379,7 +1379,7 @@ stRp407
 sg44
 g401
 sg100
-Vhttp://day9.tv/d/turboswim/need-some-feedback-on-our-new-series-dkmr-roud-up/
+Vhttp://day9.tv/d/conastatu/this-game-has-become-an-exercise-in-frustration/
 p408
 stRp409
 ag1
@@ -1399,7 +1399,7 @@ sg16
 g36
 sg28
 Nsg37
-VI really enjoy watching HS streams. And it can be a really good way to can a following between it and LoL. Besides I'd love to watch a dayknight in action, always worth it.
+VHey guys and gals we could use your help on how to improve our series. Also if your interested in this sort of thing. Video Embedded below. all comments welcome. Thanks in advance.
 p414
 stRp415
 sg11
@@ -1409,7 +1409,7 @@ g1
 g3
 (dp417
 g14
-Vhttp://day9.tv/d/turboswim/do-it/
+Vhttp://day9.tv/d/turboswim/need-some-feedback-on-our-new-series-dkmr-roud-up/
 p418
 sg16
 g17
@@ -1417,7 +1417,7 @@ sg18
 g19
 stRp419
 asg30
-VDO IT by turboswim
+VNeed some feedback on our new series DKMR ROUND UP by turboswim
 p420
 sg94
 g414
@@ -1441,7 +1441,7 @@ stRp424
 sg44
 g418
 sg100
-Vhttp://day9.tv/d/turboswim/do-it/
+Vhttp://day9.tv/d/turboswim/need-some-feedback-on-our-new-series-dkmr-roud-up/
 p425
 stRp426
 ag1
@@ -1461,7 +1461,7 @@ sg16
 g36
 sg28
 Nsg37
-VOn my channel I play a lot of games my channel is based off of series more than games themselves I have a minecraft series and a shadowgun series, I'm starting a LoL series and a horror game series (with ...
+VI really enjoy watching HS streams. And it can be a really good way to can a following between it and LoL. Besides I'd love to watch a dayknight in action, always worth it.
 p431
 stRp432
 sg11
@@ -1471,7 +1471,7 @@ g1
 g3
 (dp434
 g14
-Vhttp://day9.tv/d/Wiggull/should-i-start-a-hearthstone-series/
+Vhttp://day9.tv/d/turboswim/do-it/
 p435
 sg16
 g17
@@ -1479,7 +1479,7 @@ sg18
 g19
 stRp436
 asg30
-VShould I Start A Hearthstone Series?  by Wiggull
+VDO IT by turboswim
 p437
 sg94
 g431
@@ -1503,7 +1503,7 @@ stRp441
 sg44
 g435
 sg100
-Vhttp://day9.tv/d/Wiggull/should-i-start-a-hearthstone-series/
+Vhttp://day9.tv/d/turboswim/do-it/
 p442
 stRp443
 ag1
@@ -1523,7 +1523,7 @@ sg16
 g36
 sg28
 Nsg37
-VThe idea of this deck is to use removal spells to keep the board clear until you have enough mana to make big finishing plays with the charge + rockbiterX2 + windfury. I don't have any legendary cards included because ...
+VOn my channel I play a lot of games my channel is based off of series more than games themselves I have a minecraft series and a shadowgun series, I'm starting a LoL series and a horror game series (with ...
 p448
 stRp449
 sg11
@@ -1533,7 +1533,7 @@ g1
 g3
 (dp451
 g14
-Vhttp://day9.tv/d/badtakeout/bursty-otk-type-deck/
+Vhttp://day9.tv/d/Wiggull/should-i-start-a-hearthstone-series/
 p452
 sg16
 g17
@@ -1541,7 +1541,7 @@ sg18
 g19
 stRp453
 asg30
-VBursty OTK type deck!!! by badtakeout
+VShould I Start A Hearthstone Series?  by Wiggull
 p454
 sg94
 g448
@@ -1565,7 +1565,7 @@ stRp458
 sg44
 g452
 sg100
-Vhttp://day9.tv/d/badtakeout/bursty-otk-type-deck/
+Vhttp://day9.tv/d/Wiggull/should-i-start-a-hearthstone-series/
 p459
 stRp460
 ag1
@@ -1585,7 +1585,7 @@ sg16
 g36
 sg28
 Nsg37
-VANd when it works it is awesome. Basically if you take the standard token build and throw in the dragon, and a soul, you get a deck that's still viable. although somewhat more inconsistent. That being said Onyxia + innervate ...
+VThe idea of this deck is to use removal spells to keep the board clear until you have enough mana to make big finishing plays with the charge + rockbiterX2 + windfury. I don't have any legendary cards included because ...
 p465
 stRp466
 sg11
@@ -1595,7 +1595,7 @@ g1
 g3
 (dp468
 g14
-Vhttp://day9.tv/d/turboswim/it-has-been-done-before/
+Vhttp://day9.tv/d/badtakeout/bursty-otk-type-deck/
 p469
 sg16
 g17
@@ -1603,7 +1603,7 @@ sg18
 g19
 stRp470
 asg30
-VIt has been done before by turboswim
+VBursty OTK type deck!!! by badtakeout
 p471
 sg94
 g465
@@ -1627,7 +1627,7 @@ stRp475
 sg44
 g469
 sg100
-Vhttp://day9.tv/d/turboswim/it-has-been-done-before/
+Vhttp://day9.tv/d/badtakeout/bursty-otk-type-deck/
 p476
 stRp477
 ag1
@@ -1647,7 +1647,7 @@ sg16
 g36
 sg28
 Nsg37
-Vwell ofc like i said its easy to crush and burn, but its cool for fun to try out, revise see what is missing what needs to be inputted to make it work better. and surely it will be awesome ...
+VANd when it works it is awesome. Basically if you take the standard token build and throw in the dragon, and a soul, you get a deck that's still viable. although somewhat more inconsistent. That being said Onyxia + innervate ...
 p482
 stRp483
 sg11
@@ -1657,7 +1657,7 @@ g1
 g3
 (dp485
 g14
-Vhttp://day9.tv/d/Freaky_Niki/_/
+Vhttp://day9.tv/d/turboswim/it-has-been-done-before/
 p486
 sg16
 g17
@@ -1665,7 +1665,7 @@ sg18
 g19
 stRp487
 asg30
-V:) by Freaky_Niki
+VIt has been done before by turboswim
 p488
 sg94
 g482
@@ -1689,7 +1689,7 @@ stRp492
 sg44
 g486
 sg100
-Vhttp://day9.tv/d/Freaky_Niki/_/
+Vhttp://day9.tv/d/turboswim/it-has-been-done-before/
 p493
 stRp494
 ag1
@@ -1709,7 +1709,7 @@ sg16
 g36
 sg28
 Nsg37
-VI'm not great by any means but I feel I'm better than my starcraft self.... When it comes to the levels i'm pretty much 20 but have gone to 18 briefly.... But i'd say level 20 and on a level ...
+Vwell ofc like i said its easy to crush and burn, but its cool for fun to try out, revise see what is missing what needs to be inputted to make it work better. and surely it will be awesome ...
 p499
 stRp500
 sg11
@@ -1719,7 +1719,7 @@ g1
 g3
 (dp502
 g14
-Vhttp://day9.tv/d/mirrageofhope/its-hard-to-say/
+Vhttp://day9.tv/d/Freaky_Niki/_/
 p503
 sg16
 g17
@@ -1727,7 +1727,7 @@ sg18
 g19
 stRp504
 asg30
-VIt's hard to say.... by mirrageofhope
+V:) by Freaky_Niki
 p505
 sg94
 g499
@@ -1743,7 +1743,7 @@ g34
 Vhttp://day9.tv/d/b/hearthstone/rss/
 p508
 sg16
-g151
+g42
 sg28
 Nsg37
 g505
@@ -1751,7 +1751,7 @@ stRp509
 sg44
 g503
 sg100
-Vhttp://day9.tv/d/mirrageofhope/its-hard-to-say/
+Vhttp://day9.tv/d/Freaky_Niki/_/
 p510
 stRp511
 ag1
@@ -1771,7 +1771,7 @@ sg16
 g36
 sg28
 Nsg37
-Vto rely on specific cards doesn't work very well, especially when the card requires Ony, SotF, Innervate x2, and savage roar. That's 5 cards, unless the deck is built around (like a freeze mage, to stall, you won't win). That's ...
+VI'm not great by any means but I feel I'm better than my starcraft self.... When it comes to the levels i'm pretty much 20 but have gone to 18 briefly.... But i'd say level 20 and on a level ...
 p516
 stRp517
 sg11
@@ -1781,7 +1781,7 @@ g1
 g3
 (dp519
 g14
-Vhttp://day9.tv/d/LordMatsu/building-a-deck/
+Vhttp://day9.tv/d/mirrageofhope/its-hard-to-say/
 p520
 sg16
 g17
@@ -1789,7 +1789,7 @@ sg18
 g19
 stRp521
 asg30
-VBuilding a deck by LordMatsu
+VIt's hard to say.... by mirrageofhope
 p522
 sg94
 g516
@@ -1805,7 +1805,7 @@ g34
 Vhttp://day9.tv/d/b/hearthstone/rss/
 p525
 sg16
-g42
+g168
 sg28
 Nsg37
 g522
@@ -1813,7 +1813,7 @@ stRp526
 sg44
 g520
 sg100
-Vhttp://day9.tv/d/LordMatsu/building-a-deck/
+Vhttp://day9.tv/d/mirrageofhope/its-hard-to-say/
 p527
 stRp528
 ag1
@@ -1833,7 +1833,7 @@ sg16
 g36
 sg28
 Nsg37
-Vwell i had this idea (you might find it silly but a bit of testing never harmed anyone) so i was thinking of a druid deck built around one idea! onyxia+soul of the forest combo-you get a 2/2 back if ...
+Vto rely on specific cards doesn't work very well, especially when the card requires Ony, SotF, Innervate x2, and savage roar. That's 5 cards, unless the deck is built around (like a freeze mage, to stall, you won't win). That's ...
 p533
 stRp534
 sg11
@@ -1843,7 +1843,7 @@ g1
 g3
 (dp536
 g14
-Vhttp://day9.tv/d/Freaky_Niki/drood-idea/
+Vhttp://day9.tv/d/LordMatsu/building-a-deck/
 p537
 sg16
 g17
@@ -1851,7 +1851,7 @@ sg18
 g19
 stRp538
 asg30
-VDrood idea!!! by Freaky_Niki
+VBuilding a deck by LordMatsu
 p539
 sg94
 g533
@@ -1875,7 +1875,7 @@ stRp543
 sg44
 g537
 sg100
-Vhttp://day9.tv/d/Freaky_Niki/drood-idea/
+Vhttp://day9.tv/d/LordMatsu/building-a-deck/
 p544
 stRp545
 ag1
@@ -1895,7 +1895,7 @@ sg16
 g36
 sg28
 Nsg37
-VDoes age excuse cheating (if it actually happened)? Absolutely not. So, as Artosis has called for, I'd love to see a real examination of all the data before declaring him guilty of cheating.
+Vwell i had this idea (you might find it silly but a bit of testing never harmed anyone) so i was thinking of a druid deck built around one idea! onyxia+soul of the forest combo-you get a 2/2 back if ...
 p550
 stRp551
 sg11
@@ -1905,7 +1905,7 @@ g1
 g3
 (dp553
 g14
-Vhttp://day9.tv/d/SteppeLively/on-the-age-issue/
+Vhttp://day9.tv/d/Freaky_Niki/drood-idea/
 p554
 sg16
 g17
@@ -1913,7 +1913,7 @@ sg18
 g19
 stRp555
 asg30
-VOn the age issue by SteppeLively
+VDrood idea!!! by Freaky_Niki
 p556
 sg94
 g550
@@ -1937,7 +1937,7 @@ stRp560
 sg44
 g554
 sg100
-Vhttp://day9.tv/d/SteppeLively/on-the-age-issue/
+Vhttp://day9.tv/d/Freaky_Niki/drood-idea/
 p561
 stRp562
 ag1
@@ -1957,7 +1957,7 @@ sg16
 g36
 sg28
 Nsg37
-VIsn't it more commonly known as Randuin? Anyway I'd love to see this deck played at some point for giggles and lols XDXD
+VDoes age excuse cheating (if it actually happened)? Absolutely not. So, as Artosis has called for, I'd love to see a real examination of all the data before declaring him guilty of cheating.
 p567
 stRp568
 sg11
@@ -1967,7 +1967,7 @@ g1
 g3
 (dp570
 g14
-Vhttp://day9.tv/d/manbon/oh-yeah/
+Vhttp://day9.tv/d/SteppeLively/on-the-age-issue/
 p571
 sg16
 g17
@@ -1975,7 +1975,7 @@ sg18
 g19
 stRp572
 asg30
-Voh yeah by manbon
+VOn the age issue by SteppeLively
 p573
 sg94
 g567
@@ -1999,7 +1999,7 @@ stRp577
 sg44
 g571
 sg100
-Vhttp://day9.tv/d/manbon/oh-yeah/
+Vhttp://day9.tv/d/SteppeLively/on-the-age-issue/
 p578
 stRp579
 ag1
@@ -2019,7 +2019,7 @@ sg16
 g36
 sg28
 Nsg37
-VThough I imagine that's something that will come with this observer interface they keep promising.
+VIsn't it more commonly known as Randuin? Anyway I'd love to see this deck played at some point for giggles and lols XDXD
 p584
 stRp585
 sg11
@@ -2029,7 +2029,7 @@ g1
 g3
 (dp587
 g14
-Vhttp://day9.tv/d/Omega068/agree-on-the-pause-thing/
+Vhttp://day9.tv/d/manbon/oh-yeah/
 p588
 sg16
 g17
@@ -2037,7 +2037,7 @@ sg18
 g19
 stRp589
 asg30
-VAgree on the pause thing by Omega068
+Voh yeah by manbon
 p590
 sg94
 g584
@@ -2061,7 +2061,7 @@ stRp594
 sg44
 g588
 sg100
-Vhttp://day9.tv/d/Omega068/agree-on-the-pause-thing/
+Vhttp://day9.tv/d/manbon/oh-yeah/
 p595
 stRp596
 ag1
@@ -2081,7 +2081,7 @@ sg16
 g36
 sg28
 Nsg37
-VI really hope they put a dnd in too. Even aside from the cheating issues, the idea that some random person on a player's friend's list can message them in the middle of the tourney and the message can show ...
+VThough I imagine that's something that will come with this observer interface they keep promising.
 p601
 stRp602
 sg11
@@ -2091,7 +2091,7 @@ g1
 g3
 (dp604
 g14
-Vhttp://day9.tv/d/Omega068/yeah-thats-a-problem/
+Vhttp://day9.tv/d/Omega068/agree-on-the-pause-thing/
 p605
 sg16
 g17
@@ -2099,7 +2099,7 @@ sg18
 g19
 stRp606
 asg30
-VYeah that's a problem by Omega068
+VAgree on the pause thing by Omega068
 p607
 sg94
 g601
@@ -2115,7 +2115,7 @@ g34
 Vhttp://day9.tv/d/b/hearthstone/rss/
 p610
 sg16
-g151
+g42
 sg28
 Nsg37
 g607
@@ -2123,7 +2123,7 @@ stRp611
 sg44
 g605
 sg100
-Vhttp://day9.tv/d/Omega068/yeah-thats-a-problem/
+Vhttp://day9.tv/d/Omega068/agree-on-the-pause-thing/
 p612
 stRp613
 ag1
@@ -2143,7 +2143,7 @@ sg16
 g36
 sg28
 Nsg37
-VSomething that involves clicking and typing and takes less than 5 minutes doesn't meet my "pain in the ass" threshold I guess.Now I hadn't heard that they were playing on ipads until Marko's post. I've never played the ipad version. ...
+VI really hope they put a dnd in too. Even aside from the cheating issues, the idea that some random person on a player's friend's list can message them in the middle of the tourney and the message can show ...
 p618
 stRp619
 sg11
@@ -2153,7 +2153,7 @@ g1
 g3
 (dp621
 g14
-Vhttp://day9.tv/d/zeek/different-tolerance/
+Vhttp://day9.tv/d/Omega068/yeah-thats-a-problem/
 p622
 sg16
 g17
@@ -2161,7 +2161,7 @@ sg18
 g19
 stRp623
 asg30
-VDifferent tolerance? by zeek
+VYeah that's a problem by Omega068
 p624
 sg94
 g618
@@ -2177,7 +2177,7 @@ g34
 Vhttp://day9.tv/d/b/hearthstone/rss/
 p627
 sg16
-g42
+g168
 sg28
 Nsg37
 g624
@@ -2185,7 +2185,7 @@ stRp628
 sg44
 g622
 sg100
-Vhttp://day9.tv/d/zeek/different-tolerance/
+Vhttp://day9.tv/d/Omega068/yeah-thats-a-problem/
 p629
 stRp630
 ag1
@@ -2205,7 +2205,7 @@ sg16
 g36
 sg28
 Nsg37
-VThis deck is a lot of fun to play give it a try and let me know what you thank.http://www.hearthpwn.com/decks/68225-weenie-paladin
+VSomething that involves clicking and typing and takes less than 5 minutes doesn't meet my "pain in the ass" threshold I guess.Now I hadn't heard that they were playing on ipads until Marko's post. I've never played the ipad version. ...
 p635
 stRp636
 sg11
@@ -2215,7 +2215,7 @@ g1
 g3
 (dp638
 g14
-Vhttp://day9.tv/d/thebigp60/weenie-paladin/
+Vhttp://day9.tv/d/zeek/different-tolerance/
 p639
 sg16
 g17
@@ -2223,7 +2223,7 @@ sg18
 g19
 stRp640
 asg30
-VWeenie Paladin by thebigp60
+VDifferent tolerance? by zeek
 p641
 sg94
 g635
@@ -2247,7 +2247,7 @@ stRp645
 sg44
 g639
 sg100
-Vhttp://day9.tv/d/thebigp60/weenie-paladin/
+Vhttp://day9.tv/d/zeek/different-tolerance/
 p646
 stRp647
 ag1
@@ -2267,7 +2267,7 @@ sg16
 g36
 sg28
 Nsg37
-VSo I wanted to figure out how much damage a mage could do to the opponent's hero with the current cards on a singly turn, starting with an empty board on your side. For this I did not count random ...
+VThis deck is a lot of fun to play give it a try and let me know what you thank.http://www.hearthpwn.com/decks/68225-weenie-paladin
 p652
 stRp653
 sg11
@@ -2277,7 +2277,7 @@ g1
 g3
 (dp655
 g14
-Vhttp://day9.tv/d/arcangg/mage-literal-oneturnkill/
+Vhttp://day9.tv/d/thebigp60/weenie-paladin/
 p656
 sg16
 g17
@@ -2285,7 +2285,7 @@ sg18
 g19
 stRp657
 asg30
-VMage literal OneTurnKill by arcangg
+VWeenie Paladin by thebigp60
 p658
 sg94
 g652
@@ -2309,7 +2309,7 @@ stRp662
 sg44
 g656
 sg100
-Vhttp://day9.tv/d/arcangg/mage-literal-oneturnkill/
+Vhttp://day9.tv/d/thebigp60/weenie-paladin/
 p663
 stRp664
 ag1
@@ -2329,7 +2329,7 @@ sg16
 g36
 sg28
 Nsg37
-VTechnical ProblemsIt's also worth noting that they were playing on iPads with timed turns (so any time you spend deleting your friend list is time you are not spending thinking about your play). After getting messages pop up while already ...
+VSo I wanted to figure out how much damage a mage could do to the opponent's hero with the current cards on a singly turn, starting with an empty board on your side. For this I did not count random ...
 p669
 stRp670
 sg11
@@ -2339,7 +2339,7 @@ g1
 g3
 (dp672
 g14
-Vhttp://day9.tv/d/Marko3Blokes/i-totally-agree-travis/
+Vhttp://day9.tv/d/arcangg/mage-literal-oneturnkill/
 p673
 sg16
 g17
@@ -2347,7 +2347,7 @@ sg18
 g19
 stRp674
 asg30
-VI totally agree Travis by Marko3Blokes
+VMage literal OneTurnKill by arcangg
 p675
 sg94
 g669
@@ -2371,7 +2371,7 @@ stRp679
 sg44
 g673
 sg100
-Vhttp://day9.tv/d/Marko3Blokes/i-totally-agree-travis/
+Vhttp://day9.tv/d/arcangg/mage-literal-oneturnkill/
 p680
 stRp681
 ag1
@@ -2391,7 +2391,7 @@ sg16
 g36
 sg28
 Nsg37
-VWhat are you "not buying" about the annoying argument? What you describe sounds very annoying. Artosis says it's one possible solution, with a downside of being a pain in the ass; I don't see what's untrue about that statement.Regardless of ...
+VTechnical ProblemsIt's also worth noting that they were playing on iPads with timed turns (so any time you spend deleting your friend list is time you are not spending thinking about your play). After getting messages pop up while already ...
 p686
 stRp687
 sg11
@@ -2401,7 +2401,7 @@ g1
 g3
 (dp689
 g14
-Vhttp://day9.tv/d/travis.willard.96/i-dont-quite-understand/
+Vhttp://day9.tv/d/Marko3Blokes/i-totally-agree-travis/
 p690
 sg16
 g17
@@ -2409,7 +2409,7 @@ sg18
 g19
 stRp691
 asg30
-VI don't quite understand by travis.willard.96
+VI totally agree Travis by Marko3Blokes
 p692
 sg94
 g686
@@ -2425,7 +2425,7 @@ g34
 Vhttp://day9.tv/d/b/hearthstone/rss/
 p695
 sg16
-g151
+g42
 sg28
 Nsg37
 g692
@@ -2433,7 +2433,7 @@ stRp696
 sg44
 g690
 sg100
-Vhttp://day9.tv/d/travis.willard.96/i-dont-quite-understand/
+Vhttp://day9.tv/d/Marko3Blokes/i-totally-agree-travis/
 p697
 stRp698
 ag1
@@ -2453,7 +2453,7 @@ sg16
 g36
 sg28
 Nsg37
-VThe only thing that doesn't ring true is that it's "annoying" to clear your friends list. Come on you take a few screenshots and hit 'x' a bunch of times. Sure you have to add them back later, but you're ...
+VWhat are you "not buying" about the annoying argument? What you describe sounds very annoying. Artosis says it's one possible solution, with a downside of being a pain in the ass; I don't see what's untrue about that statement.Regardless of ...
 p703
 stRp704
 sg11
@@ -2463,7 +2463,7 @@ g1
 g3
 (dp706
 g14
-Vhttp://day9.tv/d/zeek/not-buying-the-friend-list-thing/
+Vhttp://day9.tv/d/travis.willard.96/i-dont-quite-understand/
 p707
 sg16
 g17
@@ -2471,7 +2471,7 @@ sg18
 g19
 stRp708
 asg30
-Vnot buying the friend list thing by zeek
+VI don't quite understand by travis.willard.96
 p709
 sg94
 g703
@@ -2487,7 +2487,7 @@ g34
 Vhttp://day9.tv/d/b/hearthstone/rss/
 p712
 sg16
-g42
+g168
 sg28
 Nsg37
 g709
@@ -2495,7 +2495,7 @@ stRp713
 sg44
 g707
 sg100
-Vhttp://day9.tv/d/zeek/not-buying-the-friend-list-thing/
+Vhttp://day9.tv/d/travis.willard.96/i-dont-quite-understand/
 p714
 stRp715
 ag1
@@ -2515,7 +2515,7 @@ sg16
 g36
 sg28
 Nsg37
-VDKMR is taking on Reynad at 9PM on the 2p twitch. Hoping to see some great decks from reynad and kissatfer. rank 6 and 35 respectively on the NA server. Wondering if anyone else is excited for this.
+VThe only thing that doesn't ring true is that it's "annoying" to clear your friends list. Come on you take a few screenshots and hit 'x' a bunch of times. Sure you have to add them back later, but you're ...
 p720
 stRp721
 sg11
@@ -2525,7 +2525,7 @@ g1
 g3
 (dp723
 g14
-Vhttp://day9.tv/d/turboswim/anyone-watching-the-dkmr-invitational-tomorrow-night/
+Vhttp://day9.tv/d/zeek/not-buying-the-friend-list-thing/
 p724
 sg16
 g17
@@ -2533,7 +2533,7 @@ sg18
 g19
 stRp725
 asg30
-VAnyone Watching the DKMR Invitational tomorrow Night  by turboswim
+Vnot buying the friend list thing by zeek
 p726
 sg94
 g720
@@ -2557,7 +2557,7 @@ stRp730
 sg44
 g724
 sg100
-Vhttp://day9.tv/d/turboswim/anyone-watching-the-dkmr-invitational-tomorrow-night/
+Vhttp://day9.tv/d/zeek/not-buying-the-friend-list-thing/
 p731
 stRp732
 ag1
@@ -2577,7 +2577,7 @@ sg16
 g36
 sg28
 Nsg37
-Vhttp://www.hearthpwn.com/decks/66914-rngesus I'm not entirely sure what I have done here but this could be one of the things that reinvents the meta. Or not as the case may be. The full description is on the above link but I get ...
+VDKMR is taking on Reynad at 9PM on the 2p twitch. Hoping to see some great decks from reynad and kissatfer. rank 6 and 35 respectively on the NA server. Wondering if anyone else is excited for this.
 p737
 stRp738
 sg11
@@ -2587,7 +2587,7 @@ g1
 g3
 (dp740
 g14
-Vhttp://day9.tv/d/Perly/rngesus-no-i-mean-really/
+Vhttp://day9.tv/d/turboswim/anyone-watching-the-dkmr-invitational-tomorrow-night/
 p741
 sg16
 g17
@@ -2595,7 +2595,7 @@ sg18
 g19
 stRp742
 asg30
-VRNGesus - no, I mean really by Perly
+VAnyone Watching the DKMR Invitational tomorrow Night  by turboswim
 p743
 sg94
 g737
@@ -2619,7 +2619,7 @@ stRp747
 sg44
 g741
 sg100
-Vhttp://day9.tv/d/Perly/rngesus-no-i-mean-really/
+Vhttp://day9.tv/d/turboswim/anyone-watching-the-dkmr-invitational-tomorrow-night/
 p748
 stRp749
 ag1
@@ -2639,7 +2639,7 @@ sg16
 g36
 sg28
 Nsg37
-V...seems reasonable.I pretty much agree with him and the previous posts in this thread.Good: AmazBad: tournament administrators
+Vhttp://www.hearthpwn.com/decks/66914-rngesus I'm not entirely sure what I have done here but this could be one of the things that reinvents the meta. Or not as the case may be. The full description is on the above link but I get ...
 p754
 stRp755
 sg11
@@ -2649,7 +2649,7 @@ g1
 g3
 (dp757
 g14
-Vhttp://day9.tv/d/DayNEIN/artosiss-article-on-the-subject/
+Vhttp://day9.tv/d/Perly/rngesus-no-i-mean-really/
 p758
 sg16
 g17
@@ -2657,7 +2657,7 @@ sg18
 g19
 stRp759
 asg30
-VArtosis's article on the subject by DayNEIN
+VRNGesus - no, I mean really by Perly
 p760
 sg94
 g754
@@ -2673,7 +2673,7 @@ g34
 Vhttp://day9.tv/d/b/hearthstone/rss/
 p763
 sg16
-g151
+g42
 sg28
 Nsg37
 g760
@@ -2681,7 +2681,7 @@ stRp764
 sg44
 g758
 sg100
-Vhttp://day9.tv/d/DayNEIN/artosiss-article-on-the-subject/
+Vhttp://day9.tv/d/Perly/rngesus-no-i-mean-really/
 p765
 stRp766
 asS'namespaces'

@@ -16,7 +16,7 @@ g3
 (dp6
 S'updated'
 p7
-VThu, 10 Jul 2014 17:24:05 -0000
+VFri, 11 Jul 2014 03:17:18 -0000
 p8
 sS'subtitle'
 p9
@@ -110,12 +110,12 @@ struct_time
 p46
 ((I2014
 I7
-I10
-I17
-I24
-I5
+I11
 I3
-I191
+I17
+I18
+I4
+I192
 I0
 t(dtRp47
 stRp48
@@ -123,16 +123,16 @@ sS'status'
 p49
 I200
 sg7
-S'Fri, 11 Jul 2014 00:24:05 GMT'
+S'Fri, 11 Jul 2014 10:17:18 GMT'
 p50
 sg45
 g46
 ((I2014
 I7
 I11
-I0
-I24
-I5
+I10
+I17
+I18
 I4
 I192
 I0
@@ -157,7 +157,7 @@ S'gzip'
 p60
 sS'expires'
 p61
-S'Fri, 11 Jul 2014 00:25:05 GMT'
+S'Fri, 11 Jul 2014 10:18:18 GMT'
 p62
 sS'vary'
 p63
@@ -180,7 +180,7 @@ S'max-age=60'
 p71
 sS'date'
 p72
-S'Fri, 11 Jul 2014 00:24:25 GMT'
+S'Fri, 11 Jul 2014 10:17:18 GMT'
 p73
 sS'x-frame-options'
 p74

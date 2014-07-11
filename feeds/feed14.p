@@ -82,7 +82,7 @@ p36
 (dp37
 S'rdf:resource'
 p38
-Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/redakcijos_akiratis/S-41486/straipsnis?name=S-41486&l=2&p=1
+Vhttp://www.technologijos.lt/n/mokslas/astronomija_ir_kosmonautika/S-41474/straipsnis?name=S-41474&l=2&p=1
 p39
 ssS'feedburner_info'
 p40
@@ -104,12 +104,12 @@ p47
 sg14
 Vtext/html
 p48
-sS'value'
-p49
-g8
 sS'language'
+p49
+NsS'value'
 p50
-NstRp51
+g8
+stRp51
 sS'title_detail'
 p52
 g1
@@ -123,9 +123,9 @@ sg14
 Vtext/plain
 p55
 sg49
+Nsg50
 g34
-sg50
-NstRp56
+stRp56
 sS'link'
 p57
 g13
@@ -138,7 +138,7 @@ p60
 I200
 sS'updated'
 p61
-S'Fri, 11 Jul 2014 00:11:25 GMT'
+S'Fri, 11 Jul 2014 10:09:33 GMT'
 p62
 sS'updated_parsed'
 p63
@@ -148,9 +148,9 @@ p64
 ((I2014
 I7
 I11
-I0
-I11
-I25
+I10
+I9
+I33
 I4
 I192
 I0
@@ -187,7 +187,7 @@ S'chunked'
 p80
 sS'expires'
 p81
-S'Fri, 11 Jul 2014 00:24:23 GMT'
+S'Fri, 11 Jul 2014 10:17:17 GMT'
 p82
 sS'server'
 p83
@@ -202,7 +202,7 @@ S'close'
 p87
 sS'etag'
 p88
-S'AdrqixkWqTCbrrHXygY2n4ysWME'
+S'aCoBUJG5jAYg45Je90Dy6IVS6j4'
 p89
 sS'cache-control'
 p90
@@ -210,7 +210,7 @@ S'private, max-age=0'
 p91
 sS'date'
 p92
-S'Fri, 11 Jul 2014 00:24:23 GMT'
+S'Fri, 11 Jul 2014 10:17:17 GMT'
 p93
 sS'content-type'
 p94
@@ -218,7 +218,7 @@ S'text/xml; charset=UTF-8'
 p95
 ssS'etag'
 p96
-VAdrqixkWqTCbrrHXygY2n4ysWME
+VaCoBUJG5jAYg45Je90Dy6IVS6j4
 p97
 sg12
 Vhttp://feeds2.feedburner.com/technologijos-visos-publikacijos
@@ -245,20 +245,20 @@ p105
 sg14
 g48
 sg49
-VRaketa-ne\u0161\u0117ja "Saturn V" \u2013 kol kas galingiausia \u012f kosmos\u0105 skridusi \u017emoni\u0173 sukurta raketa, kuri \u012f M\u0117nul\u012f nuskraidino pirmuosius \u017emones. Nors visi technologiniai sprendimai pasiteisino ir technika nepaved\u0117, vis d\u0117lto kai kurie \u0161ios mil\u017eini\u0161kos dyd\u017eio raketos testai buvo vykdomi i\u0161ties kuriozi\u0161kai :) Jie u\u017efiksuoti dokumentiniuose kadruose.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/hET40HpPat8" width="1" />
+Nsg50
+VT\u016blas lietuvis d\u0117l automobilio \u012fsigijimo pasiruo\u0161\u0119s imti nepakeliam\u0105 kredit\u0105, t\u016bnoti sp\u016bstyse, kent\u0117ti d\u0117l parkavimo viet\u0173 tr\u016bkumo bei brangstan\u010di\u0173 degal\u0173, ta\u010diau asmenin\u0119 transporto priemon\u0119 laiko viena did\u017eiausi\u0173 investicij\u0173, u\u017e kuri\u0105 didesniu poreikiu laikomas tik nuosavas b\u016bstas.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/CNVhYyNptqg" width="1" />
 p106
-sg50
-NstRp107
+stRp107
 sg63
 g64
 ((I2014
 I7
-I10
-I14
+I11
+I13
 I5
 I0
-I3
-I191
+I4
+I192
 I0
 t(dtRp108
 sg9
@@ -268,7 +268,7 @@ g1
 g3
 (dp110
 g12
-Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/hET40HpPat8/straipsnis
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/CNVhYyNptqg/straipsnis
 p111
 sg14
 g15
@@ -276,14 +276,14 @@ sg16
 g17
 stRp112
 asg33
-VGalingiausi\u0105 \u017emonijos istorijoje raket\u0105 NASA in\u017einieriai testavo si\u016bbuodami rankomis ir kojomis (Video)
+VGoogle: ateityje nuosavi automobiliai bus nereikalingi
 p113
 sS'feedburner_origlink'
 p114
-Vhttp://www.technologijos.lt/n/mokslas/astronomija_ir_kosmonautika/S-41492/straipsnis?name=S-41492&l=2&p=1
+Vhttp://www.technologijos.lt/n/technologijos/automobiliai_ir_motociklai/S-41500/straipsnis?name=S-41500&l=2&p=1
 p115
 sg61
-V2014-07-10T14:05:00
+V2014-07-11T13:05:00
 p116
 sS'summary'
 p117
@@ -300,14 +300,14 @@ p120
 sg14
 g55
 sg49
+Nsg50
 g113
-sg50
-NstRp121
+stRp121
 sg57
 g111
 sS'id'
 p122
-Vhttp://www.technologijos.lt/n/mokslas/astronomija_ir_kosmonautika/S-41492/straipsnis?name=S-41492&l=2&p=1
+Vhttp://www.technologijos.lt/n/technologijos/automobiliai_ir_motociklai/S-41500/straipsnis?name=S-41500&l=2&p=1
 p123
 stRp124
 ag1
@@ -326,20 +326,20 @@ p128
 sg14
 g48
 sg49
-VNuo mirtino Saul\u0117s v\u0117jo ir \u017eybsni\u0173 \u017dem\u0119 saugantis magnetinis laukas intensyviau silpsta jau pastaruosius 6 m\u0117nesius. Apie tai byloja ESA palydovin\u0117s sistemos \u201eSwarm\u201c duomenys. Vis d\u0117lto labiausiai nerim\u0105 kelia tai, kad magnetosfera dabar silpsta 10 kart\u0173 spar\u010diau nei manyta iki \u0161iol, informuoja \u201eLiveScience.com\u201c.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/s_pvst_HmpQ" width="1" />
+Nsg50
+VGegu\u017e\u0117s 22\u201324 dienomis Sankt Peterburge vyko tarptautinis ekonomikos forumas, o bir\u017eelio 15\u201319 dienomis Maskvoje \u2013 21-asis pasaulio naftos kongresas (21th World Petroleum Congress). Analizuojant \u0161iuos du neseniai \u012fvykusius renginius galima su\u017einoti Vakar\u0173 valstybi\u0173 verslo \u012fmoni\u0173 po\u017ei\u016br\u012f \u012f Vakar\u0173 vyriausybi\u0173 sankcijas Rusijos Federacijai.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/HRb1a2W1Eew" width="1" />
 p129
-sg50
-NstRp130
+stRp130
 sg63
 g64
 ((I2014
 I7
-I10
-I13
+I11
+I12
 I45
 I0
-I3
-I191
+I4
+I192
 I0
 t(dtRp131
 sg9
@@ -349,7 +349,7 @@ g1
 g3
 (dp133
 g12
-Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/s_pvst_HmpQ/straipsnis
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/HRb1a2W1Eew/straipsnis
 p134
 sg14
 g15
@@ -357,14 +357,14 @@ sg16
 g17
 stRp135
 asg33
-V\u017dem\u0117s magnetinis laukas prad\u0117jo silpti 10 kart\u0173 spar\u010diau
+VVakar\u0173 sankcijos Rusijai: \u017evilgsnis i\u0161 vidaus
 p136
 sS'feedburner_origlink'
 p137
-Vhttp://www.technologijos.lt/n/mokslas/astronomija_ir_kosmonautika/S-41491/straipsnis?name=S-41491&l=2&p=1
+Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/redakcijos_akiratis/S-41501/straipsnis?name=S-41501&l=2&p=1
 p138
 sg61
-V2014-07-10T13:45:00
+V2014-07-11T12:45:00
 p139
 sg117
 g129
@@ -380,13 +380,13 @@ p142
 sg14
 g55
 sg49
+Nsg50
 g136
-sg50
-NstRp143
+stRp143
 sg57
 g134
 sg122
-Vhttp://www.technologijos.lt/n/mokslas/astronomija_ir_kosmonautika/S-41491/straipsnis?name=S-41491&l=2&p=1
+Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/redakcijos_akiratis/S-41501/straipsnis?name=S-41501&l=2&p=1
 p144
 stRp145
 ag1
@@ -405,20 +405,20 @@ p149
 sg14
 g48
 sg49
-VKol niekas nei\u0161rado sklandlent\u0117s (sklandan\u010dios riedlent\u0117s), vienas Los And\u017eelo i\u0161rad\u0117jas pasi\u016bl\u0117 tarpin\u012f variant\u0105 \u2013 motorizuotus riedu\u010dius "Rocket Skates" ("Raketiniai riedu\u010diai"). \u012edomu tai, kad jais naudotis itin patogu \u2013 jais riedama avint \u012fprasta avalyne. O norint sustoti (pvz., pasiekus laiptus), riedutininkui pakaks pasvirti \u012f priek\u012f.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/j6094N00OmY" width="1" />
+Nsg50
+VPo nusileidimo M\u0117nulyje pra\u0117jus 45 metams, astronautas Buzzas Aldrinas \u012fsitikin\u0119s, jog pirmieji Marse atsid\u016br\u0119 \u017emon\u0117s netur\u0117t\u0173 i\u0161 ten gr\u012f\u017eti \u2013 gal\u0117t\u0173 steigti nuolatin\u0119 kolonij\u0105, skelbia news.sky.com.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/4Agqe0mY74k" width="1" />
 p150
-sg50
-NstRp151
+stRp151
 sg63
 g64
 ((I2014
 I7
-I10
-I13
+I11
+I12
 I25
 I0
-I3
-I191
+I4
+I192
 I0
 t(dtRp152
 sg9
@@ -428,7 +428,7 @@ g1
 g3
 (dp154
 g12
-Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/j6094N00OmY/straipsnis
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/4Agqe0mY74k/straipsnis
 p155
 sg14
 g15
@@ -436,14 +436,14 @@ sg16
 g17
 stRp156
 asg33
-VSvajojantiems po miest\u0105 nardyti su v\u0117jeliu \u2013 "Raketiniai riedu\u010diai" (Video)
+VAstronautas: \u012f Mars\u0105 pirmieji nuskrid\u0119 \u017emon\u0117s tur\u0117t\u0173 ten ir likti
 p157
 sS'feedburner_origlink'
 p158
-Vhttp://www.technologijos.lt/n/technologijos/technologiju_rinka/S-41490/straipsnis?name=S-41490&l=2&p=1
+Vhttp://www.technologijos.lt/n/mokslas/astronomija_ir_kosmonautika/S-41505/straipsnis?name=S-41505&l=2&p=1
 p159
 sg61
-V2014-07-10T13:25:00
+V2014-07-11T12:25:00
 p160
 sg117
 g150
@@ -459,13 +459,13 @@ p163
 sg14
 g55
 sg49
+Nsg50
 g157
-sg50
-NstRp164
+stRp164
 sg57
 g155
 sg122
-Vhttp://www.technologijos.lt/n/technologijos/technologiju_rinka/S-41490/straipsnis?name=S-41490&l=2&p=1
+Vhttp://www.technologijos.lt/n/mokslas/astronomija_ir_kosmonautika/S-41505/straipsnis?name=S-41505&l=2&p=1
 p165
 stRp166
 ag1
@@ -484,20 +484,20 @@ p170
 sg14
 g48
 sg49
-VKompanija Google paskutiniu metu aktyviai domisi robotais. Ma\u0161inos gali b\u016bti naudingos, ta\u010diau tam tikros s\u0105mokslo teorijos teigia, jog ateis laikas, ir \u017emonija bus sunaikinta j\u0173 pa\u010di\u0173 sukurto dirbtinio intelekto, valdan\u010dio robotizuotas sistemas. Ta\u010diau pana\u0161u, jog mirtino susid\u016brimo su robotais i\u0161vengs Google \u012fk\u016br\u0117jai Sergey Brin ir Larry Page.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/jWXAx7AYbGM" width="1" />
+Nsg50
+VSuomijos ministras pirmininkas Aleksandras Stubas (Alexander Stubb) apkaltino vien\u0105 i\u0161 Apple \u012fk\u016br\u0117j\u0173 Steve'\u0105 Jobs\u0105 \u0161ios \u0160. Europos \u0161alies darbo rink\u0105 sunaikinimu ir ekonomikos sugriovimu, pardavin\u0117jant inovacijas, kurioms suomi\u0173 kompanijos nebuvo pasiruo\u0161usios, ra\u0161o puslapis IBN Live.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/4v_qaQFmyVA" width="1" />
 p171
-sg50
-NstRp172
+stRp172
 sg63
 g64
 ((I2014
 I7
-I10
-I13
+I11
+I12
 I5
 I0
-I3
-I191
+I4
+I192
 I0
 t(dtRp173
 sg9
@@ -507,7 +507,7 @@ g1
 g3
 (dp175
 g12
-Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/jWXAx7AYbGM/straipsnis
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/4v_qaQFmyVA/straipsnis
 p176
 sg14
 g15
@@ -515,14 +515,14 @@ sg16
 g17
 stRp177
 asg33
-VAteities robotams \u017eudikams u\u017edrausta skriausti Google \u012fk\u016br\u0117jus
+VSuomijos premjeras apkaltino Steve Jobs sugriovus \u0161alies ekonomik\u0105
 p178
 sS'feedburner_origlink'
 p179
-Vhttp://www.technologijos.lt/n/technologijos/elektronika/S-41484/straipsnis?name=S-41484&l=2&p=1
+Vhttp://www.technologijos.lt/n/technologijos/it/S-41499/straipsnis?name=S-41499&l=2&p=1
 p180
 sg61
-V2014-07-10T13:05:00
+V2014-07-11T12:05:00
 p181
 sg117
 g171
@@ -538,13 +538,13 @@ p184
 sg14
 g55
 sg49
+Nsg50
 g178
-sg50
-NstRp185
+stRp185
 sg57
 g176
 sg122
-Vhttp://www.technologijos.lt/n/technologijos/elektronika/S-41484/straipsnis?name=S-41484&l=2&p=1
+Vhttp://www.technologijos.lt/n/technologijos/it/S-41499/straipsnis?name=S-41499&l=2&p=1
 p186
 stRp187
 ag1
@@ -563,20 +563,20 @@ p191
 sg14
 g48
 sg49
-VD\u0117mesio visi muzikos myl\u0117tojai! \u201eYouTube\u201c buvo \u012fkelta giganti\u0161ka gyv\u0173 koncert\u0173 \u012fra\u0161\u0173 fonoteka \u2013 joje galima rasti apie 13 t\u016bkstan\u010di\u0173 skirting\u0173 muzikini\u0173 pasirodym\u0173.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/bfIJNB3gPVQ" width="1" />
+Nsg50
+VMasa\u010dusetso technologij\u0173 instituto (MIT) mokslininkai, remiami Billo Gateso, pristat\u0117 po oda implantuojam\u0105 kontraceptin\u0119 mikroschem\u0105, kuri gal\u0117s veikti 16 met\u0173, ra\u0161o \u201eBBC.com\u201c.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/VBPpwwP_S3w" width="1" />
 p192
-sg50
-NstRp193
+stRp193
 sg63
 g64
 ((I2014
 I7
-I10
-I12
+I11
+I11
 I45
 I0
-I3
-I191
+I4
+I192
 I0
 t(dtRp194
 sg9
@@ -586,7 +586,7 @@ g1
 g3
 (dp196
 g12
-Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/bfIJNB3gPVQ/straipsnis
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/VBPpwwP_S3w/straipsnis
 p197
 sg14
 g15
@@ -594,14 +594,14 @@ sg16
 g17
 stRp198
 asg33
-V\u201eYouTube\u201c patalpinta mil\u017eini\u0161ka koncertini\u0173 \u012fra\u0161\u0173 kolekcija
+VSukurtas nuotoliniu b\u016bdu valdomas kontraceptikas
 p199
 sS'feedburner_origlink'
 p200
-Vhttp://www.technologijos.lt/n/technologijos/it/S-41489/straipsnis?name=S-41489&l=2&p=1
+Vhttp://www.technologijos.lt/n/mokslas/zmogus_ir_medicina/S-41504/straipsnis?name=S-41504&l=2&p=1
 p201
 sg61
-V2014-07-10T12:45:00
+V2014-07-11T11:45:00
 p202
 sg117
 g192
@@ -617,13 +617,13 @@ p205
 sg14
 g55
 sg49
+Nsg50
 g199
-sg50
-NstRp206
+stRp206
 sg57
 g197
 sg122
-Vhttp://www.technologijos.lt/n/technologijos/it/S-41489/straipsnis?name=S-41489&l=2&p=1
+Vhttp://www.technologijos.lt/n/mokslas/zmogus_ir_medicina/S-41504/straipsnis?name=S-41504&l=2&p=1
 p207
 stRp208
 ag1
@@ -642,20 +642,20 @@ p212
 sg14
 g48
 sg49
-VD\u0117l amerikie\u010di\u0173 karo meno s\u0105jungininkai i\u0161gelb\u0117jo t\u016bkstan\u010dius gyvybi\u0173. Billas Blassas buvo vienas t\u0173 amerikie\u010di\u0173. Kaip ir Ellsworth\u2019as Kelly. Ir Arhuras Singeris. Ir Artas Kane\u2019as. \u0160ie \u017emon\u0117s, prie\u0161 u\u017esiimdami k\u016brybine veikla, kartu kariavo Antrajame pasauliniame kare.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/DSA3euIAaOQ" width="1" />
+Nsg50
+VPana\u0161u, kad gimtosios Pauk\u0161\u010di\u0173 Tako galaktikos ribas teks perbrai\u017eyti i\u0161 naujo. Astronomai atrado dvi atokiausiai nuo \u017dem\u0117s esan\u010dias \u017evaig\u017edes, kurios priklauso m\u016bs\u0173 galaktikai. Jos yra gerokai toliau nei ar\u010diausiai m\u016bs\u0173 esanti kaimynin\u0117 Did\u017eiojo Magelano Debesies galaktika.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/KECJ8K7nTX8" width="1" />
 p213
-sg50
-NstRp214
+stRp214
 sg63
 g64
 ((I2014
 I7
-I10
-I12
+I11
+I11
 I25
 I0
-I3
-I191
+I4
+I192
 I0
 t(dtRp215
 sg9
@@ -665,7 +665,7 @@ g1
 g3
 (dp217
 g12
-Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/DSA3euIAaOQ/straipsnis
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/KECJ8K7nTX8/straipsnis
 p218
 sg14
 g15
@@ -673,14 +673,14 @@ sg16
 g17
 stRp219
 asg33
-V\u0160m\u0117kl\u0173 armija arba \u201eTrojos arkliai\u201c Antrojo pasaulinio karo metais
+VAtrastos toliau u\u017e kaimynin\u0119 galaktik\u0105 esan\u010dios tolimiausios Pauk\u0161\u010di\u0173 Tako \u017evaig\u017ed\u0117s
 p220
 sS'feedburner_origlink'
 p221
-Vhttp://www.technologijos.lt/n/mokslas/istorija_ir_archeologija/S-41485/straipsnis?name=S-41485&l=2&p=1
+Vhttp://www.technologijos.lt/n/mokslas/astronomija_ir_kosmonautika/S-41518/straipsnis?name=S-41518&l=2&p=1
 p222
 sg61
-V2014-07-10T12:25:00
+V2014-07-11T11:25:00
 p223
 sg117
 g213
@@ -696,13 +696,13 @@ p226
 sg14
 g55
 sg49
+Nsg50
 g220
-sg50
-NstRp227
+stRp227
 sg57
 g218
 sg122
-Vhttp://www.technologijos.lt/n/mokslas/istorija_ir_archeologija/S-41485/straipsnis?name=S-41485&l=2&p=1
+Vhttp://www.technologijos.lt/n/mokslas/astronomija_ir_kosmonautika/S-41518/straipsnis?name=S-41518&l=2&p=1
 p228
 stRp229
 ag1
@@ -721,20 +721,20 @@ p233
 sg14
 g48
 sg49
-VPana\u0161u, kad kompanija AMD i\u0161 tikr\u0173j\u0173 ketina suma\u017einti vaizdo plok\u0161\u010di\u0173 Radeon R9 280X ir Radeon R9 280 kainas, o apie pirmuosius bandymus galima spr\u0119sti jau dabar.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/v6NX77fn3m8" width="1" />
+Nsg50
+VKompiuteriniai \u017eaidimai tampa ne k\u0105 ma\u017eiau brang\u016bs nei Holivudo filmai. Tiksliau, kai kuri\u0173 \u017eaidim\u0173 k\u016brimas kainuoja daugiau nei \u017ei\u016brimiausi\u0173 film\u0173. Tik, skirtingai nei film\u0173, kompiuterini\u0173 \u017eaidim\u0173 k\u016brimo kaina laikoma paslaptyje ir s\u0105naudos apskai\u010diuojamos remiantis analitik\u0173 prognoz\u0117mis.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/7pVgW500FFo" width="1" />
 p234
-sg50
-NstRp235
+stRp235
 sg63
 g64
 ((I2014
 I7
-I10
-I12
+I11
+I11
 I5
 I0
-I3
-I191
+I4
+I192
 I0
 t(dtRp236
 sg9
@@ -744,7 +744,7 @@ g1
 g3
 (dp238
 g12
-Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/v6NX77fn3m8/straipsnis
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/7pVgW500FFo/straipsnis
 p239
 sg14
 g15
@@ -752,14 +752,14 @@ sg16
 g17
 stRp240
 asg33
-VPrad\u0117jo pigti AMD vaizdo plok\u0161t\u0117s
+V10 brangiausi\u0173 vis\u0173 laik\u0173 kompiuterini\u0173 \u017eaidim\u0173
 p241
 sS'feedburner_origlink'
 p242
-Vhttp://www.technologijos.lt/n/technologijos/it/S-41483/straipsnis?name=S-41483&l=2&p=1
+Vhttp://www.technologijos.lt/n/technologijos/it/S-41497/straipsnis?name=S-41497&l=2&p=1
 p243
 sg61
-V2014-07-10T12:05:00
+V2014-07-11T11:05:00
 p244
 sg117
 g234
@@ -775,13 +775,13 @@ p247
 sg14
 g55
 sg49
+Nsg50
 g241
-sg50
-NstRp248
+stRp248
 sg57
 g239
 sg122
-Vhttp://www.technologijos.lt/n/technologijos/it/S-41483/straipsnis?name=S-41483&l=2&p=1
+Vhttp://www.technologijos.lt/n/technologijos/it/S-41497/straipsnis?name=S-41497&l=2&p=1
 p249
 stRp250
 ag1
@@ -800,20 +800,20 @@ p254
 sg14
 g48
 sg49
-VAtrodo, geopolitin\u0117 situacija pasaulyje pastaruoju metu tik blog\u0117ja. Kol vis\u0173 d\u0117mesys buvo nukreiptas \u012f Ukrain\u0105, pavojuje atsid\u016br\u0117 Irakas. Ir, sprend\u017eiant i\u0161 situacijos dinamikos, tai ne \u0161iaip sau gr\u0117sm\u0117, tai (lygiai kaip ir Ukrainos atveju) \u2013 valstyb\u0117s i\u0161likimo klausimas.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/qR06q_hxyns" width="1" />
+Nsg50
+VDa\u017enai vairuotojai mano, kad grei\u010dio matuokliai nefiksuoja iki 10 km/val. vir\u0161yto grei\u010dio, tod\u0117l leid\u017eia sau va\u017eiuoti grei\u010diau, nepaisydamas saugumo reikalavim\u0173. Toki\u0173 vairuotoj\u0173 Lietuvoje yra daugiau nei pus\u0117 (51 proc.), dar tre\u010ddalis (30 proc.) leistin\u0105 va\u017eiavimo greit\u012f da\u017eniausiai vir\u0161ija bent 10\u201320 kilometr\u0173 per valand\u0105. Tokius rezultatus atskleid\u0117 did\u017eiausios \u0161alies ne gyvyb\u0117s draudimo bendrov\u0117s \u201eLietuvos draudimas\u201c vykdyta internetin\u0117 vairuotoj\u0173 apklausa, kurioje dalyvavo daugiau nei 9 000 vairuotoj\u0173.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/64lNW5Nqckg" width="1" />
 p255
-sg50
-NstRp256
+stRp256
 sg63
 g64
 ((I2014
 I7
-I10
 I11
+I10
 I45
 I0
-I3
-I191
+I4
+I192
 I0
 t(dtRp257
 sg9
@@ -823,7 +823,7 @@ g1
 g3
 (dp259
 g12
-Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/qR06q_hxyns/straipsnis
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/64lNW5Nqckg/straipsnis
 p260
 sg14
 g15
@@ -831,14 +831,14 @@ sg16
 g17
 stRp261
 asg33
-VIrako pabaiga?
+VAr vir\u0161ijate greit\u012f? T\u0105 daro daugiau nei pus\u0117 vairuotoj\u0173
 p262
 sS'feedburner_origlink'
 p263
-Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/redakcijos_akiratis/S-41487/straipsnis?name=S-41487&l=2&p=1
+Vhttp://www.technologijos.lt/n/technologijos/automobiliai_ir_motociklai/S-41503/straipsnis?name=S-41503&l=2&p=1
 p264
 sg61
-V2014-07-10T11:45:00
+V2014-07-11T10:45:00
 p265
 sg117
 g255
@@ -854,13 +854,13 @@ p268
 sg14
 g55
 sg49
+Nsg50
 g262
-sg50
-NstRp269
+stRp269
 sg57
 g260
 sg122
-Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/redakcijos_akiratis/S-41487/straipsnis?name=S-41487&l=2&p=1
+Vhttp://www.technologijos.lt/n/technologijos/automobiliai_ir_motociklai/S-41503/straipsnis?name=S-41503&l=2&p=1
 p270
 stRp271
 ag1
@@ -879,20 +879,20 @@ p275
 sg14
 g48
 sg49
-VTaif\u016bnui \u201eNeoguri\u201c antradien\u012f pasiekus Japonijos pietines Okinavos salas, du \u017emon\u0117s \u017euvo ir daugiau nei pus\u0117 milijono gyventoj\u0173 buvo priversti palikti namus bei ie\u0161koti prieglobs\u010dio, buvo sustabdytas oro ir j\u016br\u0173 laiv\u0173 eismas, itin smarkiam v\u0117jui ir li\u016b\u010diai niokojant pastatus ir ver\u010diant med\u017eius.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/3vqStiPvK_c" width="1" />
+Nsg50
+VNors arbatpinigi\u0173 Europoje \u012fprasta palikti apie 10 proc. nuo s\u0105skaitos sumos, ta\u010diau lietuviai ir \u010dia randa vietos improvizacijai.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/ckzo3j4kNC8" width="1" />
 p276
-sg50
-NstRp277
+stRp277
 sg63
 g64
 ((I2014
 I7
-I10
 I11
+I10
 I25
 I0
-I3
-I191
+I4
+I192
 I0
 t(dtRp278
 sg9
@@ -902,7 +902,7 @@ g1
 g3
 (dp280
 g12
-Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/3vqStiPvK_c/straipsnis
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/ckzo3j4kNC8/straipsnis
 p281
 sg14
 g15
@@ -910,14 +910,14 @@ sg16
 g17
 stRp282
 asg33
-VJaponij\u0105 niokojant\u012f galing\u0105 taif\u016bn\u0105 nufotografavo TKS astronautai
+VKam, kada ir kiek palikti arbatpinigi\u0173?
 p283
 sS'feedburner_origlink'
 p284
-Vhttp://www.technologijos.lt/n/mokslas/gamta_ir_biologija/S-41473/straipsnis?name=S-41473&l=2&p=1
+Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/kaip_mes_gyvename/S-41455/straipsnis?name=S-41455&l=2&p=1
 p285
 sg61
-V2014-07-10T11:25:00
+V2014-07-11T10:25:00
 p286
 sg117
 g276
@@ -933,13 +933,13 @@ p289
 sg14
 g55
 sg49
+Nsg50
 g283
-sg50
-NstRp290
+stRp290
 sg57
 g281
 sg122
-Vhttp://www.technologijos.lt/n/mokslas/gamta_ir_biologija/S-41473/straipsnis?name=S-41473&l=2&p=1
+Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/kaip_mes_gyvename/S-41455/straipsnis?name=S-41455&l=2&p=1
 p291
 stRp292
 ag1
@@ -958,20 +958,20 @@ p296
 sg14
 g48
 sg49
-VNors Samsung i\u0161lieka did\u017eiausiu pasaulyje i\u0161mani\u0173j\u0173 ir paprast\u0173 mobil\u0173 telefon\u0173 gamintoju, kompanija jau ne pirm\u0105 ketvirt\u012f i\u0161 eil\u0117s pa\u017eymi, jog jai pradeda nesisekti biud\u017eetini\u0173 ir vidutin\u0117s kain\u0173 kategorijos segmentuose.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/bXUXJ3B1zvQ" width="1" />
+Nsg50
+V<em>Ji buvo vadinama m\u0117lyne danguje \u2013 <a href="http://www.newscientist.com/article/mg20727674.500-cosmic-bubble-made-cold-spot-in-big-bang-afterglow.html" target="_blank">keista \u0161alta d\u0117m\u0117</a> Did\u017eiojo Sprogimo at\u0161vaituose, \u012f\u017eiebusi keis\u010diausias teorijas, ai\u0161kinan\u010dias jos atsiradim\u0105 \u2013 nuo <a href="http://www.newscientist.com/article/dn19887-microwave-radiation-map-hints-at-other-universes.html" target="_blank">susid\u016brimo su kita visata</a> iki erdv\u0117laikio klost\u0117s.</em><img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/dpU9FQwVId0" width="1" />
 p297
-sg50
-NstRp298
+stRp298
 sg63
 g64
 ((I2014
 I7
-I10
 I11
-I5
+I10
+I15
 I0
-I3
-I191
+I4
+I192
 I0
 t(dtRp299
 sg9
@@ -981,7 +981,7 @@ g1
 g3
 (dp301
 g12
-Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/bXUXJ3B1zvQ/straipsnis
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/dpU9FQwVId0/straipsnis
 p302
 sg14
 g15
@@ -989,14 +989,14 @@ sg16
 g17
 stRp303
 asg33
-VSamsung pradeda nesisekti i\u0161mani\u0173j\u0173 telefon\u0173 rinkoje
+VDid\u017eiausia tu\u0161tuma visatoje gali paai\u0161kinti \u0161alt\u0105j\u0105 kosmoso d\u0117m\u0119
 p304
 sS'feedburner_origlink'
 p305
-Vhttp://www.technologijos.lt/n/technologijos/gsm/S-41482/straipsnis?name=S-41482&l=2&p=1
+Vhttp://www.technologijos.lt/n/mokslas/astronomija_ir_kosmonautika/S-41511/straipsnis?name=S-41511&l=2&p=1
 p306
 sg61
-V2014-07-10T11:05:00
+V2014-07-11T10:15:00
 p307
 sg117
 g297
@@ -1012,13 +1012,13 @@ p310
 sg14
 g55
 sg49
+Nsg50
 g304
-sg50
-NstRp311
+stRp311
 sg57
 g302
 sg122
-Vhttp://www.technologijos.lt/n/technologijos/gsm/S-41482/straipsnis?name=S-41482&l=2&p=1
+Vhttp://www.technologijos.lt/n/mokslas/astronomija_ir_kosmonautika/S-41511/straipsnis?name=S-41511&l=2&p=1
 p312
 stRp313
 ag1
@@ -1037,20 +1037,20 @@ p317
 sg14
 g48
 sg49
-VPra\u0117jusio m\u0117nesio pabaigoje JAV korporacija \u201eApple\u201c savo internetin\u0117s parduotuv\u0117s asortiment\u0105 papild\u0117 pigesniu \u201eiMac\u201c AIO kompiuterio modeliu. \u017dinoma, pigesnis rei\u0161kia ir techni\u0161kai silpnesnis. \u0160i \u201eiMac\u201c kompiuterio versija pasi\u017eymi 21,5 colio ekranu, 1,4 GHz taktinio da\u017enio dviej\u0173 branduoli\u0173 centriniu procesoriumi, 8 GB operatyviosios RAM atminties bei kainuoja 1099 JAV doleri\u0173.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/Gx9w7y4wkkw" width="1" />
+Nsg50
+VPortale CNet pasirod\u0117 i\u0161traukos i\u0161 Babak Parviz pasirodymo viename i\u0161 rengini\u0173. \u0160is \u017emogus nuo nesen\u0173 laik\u0173 vadovauja Google Glass k\u016br\u0117j\u0173 komandai.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/YqEoNZCEaS8" width="1" />
 p318
-sg50
-NstRp319
+stRp319
 sg63
 g64
 ((I2014
 I7
+I11
 I10
-I10
-I40
+I5
 I0
-I3
-I191
+I4
+I192
 I0
 t(dtRp320
 sg9
@@ -1060,7 +1060,7 @@ g1
 g3
 (dp322
 g12
-Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/Gx9w7y4wkkw/straipsnis
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/YqEoNZCEaS8/straipsnis
 p323
 sg14
 g15
@@ -1068,14 +1068,14 @@ sg16
 g17
 stRp324
 asg33
-VBiud\u017eetiniame \u201eiMac\u201c kompiuteryje nebeliko galimyb\u0117s didinti RAM atmint\u012f
+VAteitis, kuri laukia Google Glass
 p325
 sS'feedburner_origlink'
 p326
-Vhttp://www.technologijos.lt/n/technologijos/it/S-41468/straipsnis?name=S-41468&l=2&p=1
+Vhttp://www.technologijos.lt/n/technologijos/technologiju_rinka/S-41496/straipsnis?name=S-41496&l=2&p=1
 p327
 sg61
-V2014-07-10T10:40:00
+V2014-07-11T10:05:00
 p328
 sg117
 g318
@@ -1091,13 +1091,13 @@ p331
 sg14
 g55
 sg49
+Nsg50
 g325
-sg50
-NstRp332
+stRp332
 sg57
 g323
 sg122
-Vhttp://www.technologijos.lt/n/technologijos/it/S-41468/straipsnis?name=S-41468&l=2&p=1
+Vhttp://www.technologijos.lt/n/technologijos/technologiju_rinka/S-41496/straipsnis?name=S-41496&l=2&p=1
 p333
 stRp334
 ag1
@@ -1116,20 +1116,20 @@ p338
 sg14
 g48
 sg49
-VTokie stamb\u016bs sporto renginiai kaip FIFA Pasaulio futbolo \u010dempionatas suvienija \u017emones visame pasaulyje. Piemenys atokiame Kirgizijos kaln\u0173 sl\u0117nyje n\u0117ra \u0161ios taisykl\u0117s i\u0161imtis. Karkyros ganyklose \u0161alimais savo palapini\u0173 jie turi pasistat\u0119 palydovin\u0117s televizijos l\u0117k\u0161t\u0119 bei energijos generatori\u0173 ir stebi rungtynes per savo senus televizorius.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/pAN6F3YacGY" width="1" />
+Nsg50
+VKai kurie ekspertai dabartin\u0119 tvyran\u010di\u0105 \u012ftamp\u0105 tarp Rusijos ir Vakar\u0173 prad\u0117jo vadinti naujuoju \u0161altuoju karu. Tuo metu NATO valstyb\u0117s, ypatingai tos, kurios yra Aljanso pakra\u0161tyje, susir\u016bpino nepakankamu gynybos finansavimu. Ta\u010diau ar Rusijos agresijos akivaizdoje 2 proc. nuo BVP \u2013 pakankamas l\u0117\u0161\u0173 kiekis, galintis atbaidyti ginklus \u017evanginan\u010di\u0105 Ryt\u0173 kaimyn\u0119?<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/qc_WM5TJIDE" width="1" />
 p339
-sg50
-NstRp340
+stRp340
 sg63
 g64
 ((I2014
 I7
-I10
-I10
-I25
+I11
+I9
+I45
 I0
-I3
-I191
+I4
+I192
 I0
 t(dtRp341
 sg9
@@ -1139,7 +1139,7 @@ g1
 g3
 (dp343
 g12
-Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/pAN6F3YacGY/straipsnis
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/qc_WM5TJIDE/straipsnis
 p344
 sg14
 g15
@@ -1147,14 +1147,14 @@ sg16
 g17
 stRp345
 asg33
-VPasaulio futbolo \u010dempionato aistros - ir Kirgizijos piemen\u0173 palapin\u0117se (Video)
+VKiek reikia pinig\u0173, kad Lietuva jaust\u0173si saugiai?
 p346
 sS'feedburner_origlink'
 p347
-Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/kaip_mes_gyvename/S-41478/straipsnis?name=S-41478&l=2&p=1
+Vhttp://www.technologijos.lt/n/technologijos/karyba/S-41502/straipsnis?name=S-41502&l=2&p=1
 p348
 sg61
-V2014-07-10T10:25:00
+V2014-07-11T09:45:00
 p349
 sg117
 g339
@@ -1170,13 +1170,13 @@ p352
 sg14
 g55
 sg49
+Nsg50
 g346
-sg50
-NstRp353
+stRp353
 sg57
 g344
 sg122
-Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/kaip_mes_gyvename/S-41478/straipsnis?name=S-41478&l=2&p=1
+Vhttp://www.technologijos.lt/n/technologijos/karyba/S-41502/straipsnis?name=S-41502&l=2&p=1
 p354
 stRp355
 ag1
@@ -1195,20 +1195,20 @@ p359
 sg14
 g48
 sg49
-V<p>Liepos 1 d. pasigirdo kolektyvinis vis\u0173 pranc\u016bz\u0173 palengv\u0117jimo atod\u016bsis, kai Europos \u017dmogaus teisi\u0173 teismas (E\u017dTT) palaik\u0117 \u0161alies 2010 m. draudim\u0105 vie\u0161ose vietose d\u0117v\u0117ti vis\u0105 veid\u0105 dengian\u010dius galvos apdangalus. Jis paskelbtas po Auk\u0161\u010diausiojo apeliacino teismo atskiro potvarkio bir\u017eel\u012f, nurodan\u010dio, kad privatus dienos prie\u017ei\u016bros centras tur\u0117jo teis\u0119 atleisti darbuotoj\u0105, atsisakiusi\u0105 ned\u0117v\u0117ti savo musulmoni\u0161ko galvos apdangalo darbe. Pranc\u016bzijoje tokie nutarimai nekelia dideli\u0173 kontroversij\u0173. Ta\u010diau jie da\u017enai neteisingai suprantami kra\u0161tuose, kur \u012fsigal\u0117j\u0119s liberalus daugiakult\u016bri\u0161kumas. Kod\u0117l pranc\u016bzai taip grie\u017etai \u017ei\u016bri \u012f islami\u0161kus galvos apdangalus?</p><img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/qAmHUzBw9c8" width="1" />
+Nsg50
+V\u012esidarbinti platformose sunku. \u201eBand\u017eiau ten papulti daug met\u0173. Didel\u0117 konkurencija\u201c, - pasteb\u0117jo pa\u0161nekov\u0117. \u012esidarbinti ten jai pad\u0117jo mama. Ta\u010diau gaunamas atlyginimas ver\u010dia u\u017esimir\u0161ti \u2013 pinig\u0173 Marija net neskai\u010diuoja.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/PxdcajP7K8c" width="1" />
 p360
-sg50
-NstRp361
+stRp361
 sg63
 g64
 ((I2014
 I7
-I10
-I10
-I10
+I11
+I9
+I25
 I0
-I3
-I191
+I4
+I192
 I0
 t(dtRp362
 sg9
@@ -1218,7 +1218,7 @@ g1
 g3
 (dp364
 g12
-Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/qAmHUzBw9c8/straipsnis
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/PxdcajP7K8c/straipsnis
 p365
 sg14
 g15
@@ -1226,14 +1226,14 @@ sg16
 g17
 stRp366
 asg33
-VKod\u0117l pranc\u016bzai taip grie\u017etai vertina islami\u0161kus galvos apdangalus
+VNaftos platformose dirbanti lietuv\u0117 i\u0161 baim\u0117s meld\u017eiasi kasdien
 p367
 sS'feedburner_origlink'
 p368
-Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/redakcijos_akiratis/S-41481/straipsnis?name=S-41481&l=2&p=1
+Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/kaip_mes_gyvename/S-41475/straipsnis?name=S-41475&l=2&p=1
 p369
 sg61
-V2014-07-10T10:10:00
+V2014-07-11T09:25:00
 p370
 sg117
 g360
@@ -1249,13 +1249,13 @@ p373
 sg14
 g55
 sg49
+Nsg50
 g367
-sg50
-NstRp374
+stRp374
 sg57
 g365
 sg122
-Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/redakcijos_akiratis/S-41481/straipsnis?name=S-41481&l=2&p=1
+Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/kaip_mes_gyvename/S-41475/straipsnis?name=S-41475&l=2&p=1
 p375
 stRp376
 ag1
@@ -1274,20 +1274,20 @@ p380
 sg14
 g48
 sg49
-VLietuvoje nuo kit\u0173 met\u0173 gyventojai tarpusavyje grynaisiais grei\u010diausiai gal\u0117s atsiskaityti iki 15 t\u016bkst. eur\u0173 (51,8 t\u016bkst. lit\u0173), o atsiskaitant su \u012fmone arba komercine veikla u\u017esiiman\u010diu gyventoju - iki 5 t\u016bkst. eur\u0173 (17,3 t\u016bkst. lit\u0173).<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/AGI5NxRfgDk" width="1" />
+Nsg50
+VJAV korporacija \u201eApple\u201c pradeda pam\u0117gti nauj\u0105 \u012frengini\u0173 pristatymo b\u016bd\u0105. Analogi\u0161kai kaip atnaujinti \u201eiMac\u201c modeliai, taip liepos prad\u017eioje be jokio \u0161urmulio ir dideli\u0173 anons\u0173 \u201eApple\u201c elektronin\u0117je parduotuv\u0117je pasirod\u0117 ir atnaujintas 16 GB \u201eiPod touch\u201c muzikinis grotuvas.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/Wmw5tzVQunw" width="1" />
 p381
-sg50
-NstRp382
+stRp382
 sg63
 g64
 ((I2014
 I7
-I10
+I11
 I9
-I45
+I5
 I0
-I3
-I191
+I4
+I192
 I0
 t(dtRp383
 sg9
@@ -1297,7 +1297,7 @@ g1
 g3
 (dp385
 g12
-Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/AGI5NxRfgDk/straipsnis
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/Wmw5tzVQunw/straipsnis
 p386
 sg14
 g15
@@ -1305,14 +1305,14 @@ sg16
 g17
 stRp387
 asg33
-VAntras bandymas Lietuvoje riboti atsiskaitymus grynaisiais
+V\u201eApple\u201c si\u016blo atnaujint\u0105 pigesn\u012f \u201eiPod touch\u201c model\u012f
 p388
 sS'feedburner_origlink'
 p389
-Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/redakcijos_akiratis/S-41486/straipsnis?name=S-41486&l=2&p=1
+Vhttp://www.technologijos.lt/n/technologijos/technologiju_rinka/S-41493/straipsnis?name=S-41493&l=2&p=1
 p390
 sg61
-V2014-07-10T09:45:00
+V2014-07-11T09:05:00
 p391
 sg117
 g381
@@ -1328,36 +1328,115 @@ p394
 sg14
 g55
 sg49
+Nsg50
 g388
-sg50
-NstRp395
+stRp395
 sg57
 g386
 sg122
-Vhttp://www.technologijos.lt/n/zmoniu_pasaulis/redakcijos_akiratis/S-41486/straipsnis?name=S-41486&l=2&p=1
+Vhttp://www.technologijos.lt/n/technologijos/technologiju_rinka/S-41493/straipsnis?name=S-41493&l=2&p=1
 p396
 stRp397
+ag1
+(g2
+g3
+(dp398
+S'summary_detail'
+p399
+g1
+(g2
+g3
+(dp400
+g46
+Vhttp://feeds2.feedburner.com/technologijos-visos-publikacijos
+p401
+sg14
+g48
+sg49
+Nsg50
+VPo 37 metus trukusios kelion\u0117s erdv\u0117laivis \u201eVoyager 1\u201c u\u017efiksavo signalus i\u0161 Saul\u0117s, kurie patvirtina, kad jis pateko \u012f iki \u0161iol netyrin\u0117t\u0105 region\u0105 Saul\u0117s sistemos pakra\u0161tyje \u2013 tarp\u017evaig\u017edin\u0119 erdv\u0119. Iki \u0161iol to n\u0117ra pavyk\u0119 padaryti jokiam erdv\u0117laiviui.<img height="1" src="http://feeds.feedburner.com/~r/technologijos-visos-publikacijos/~4/IEik8QgczGE" width="1" />
+p402
+stRp403
+sg63
+g64
+((I2014
+I7
+I11
+I8
+I25
+I0
+I4
+I192
+I0
+t(dtRp404
+sg9
+(lp405
+g1
+(g2
+g3
+(dp406
+g12
+Vhttp://feedproxy.google.com/~r/technologijos-visos-publikacijos/~3/IEik8QgczGE/straipsnis
+p407
+sg14
+g15
+sg16
+g17
+stRp408
+asg33
+VMokslininkai patvirtino, kad zondas \u201eVoyager 1\u201c skrieja netyrin\u0117ta tarp\u017evaig\u017edine erdve
+p409
+sS'feedburner_origlink'
+p410
+Vhttp://www.technologijos.lt/n/mokslas/astronomija_ir_kosmonautika/S-41474/straipsnis?name=S-41474&l=2&p=1
+p411
+sg61
+V2014-07-11T08:25:00
+p412
+sg117
+g402
+sS'title_detail'
+p413
+g1
+(g2
+g3
+(dp414
+g46
+Vhttp://feeds2.feedburner.com/technologijos-visos-publikacijos
+p415
+sg14
+g55
+sg49
+Nsg50
+g409
+stRp416
+sg57
+g407
+sg122
+Vhttp://www.technologijos.lt/n/mokslas/astronomija_ir_kosmonautika/S-41474/straipsnis?name=S-41474&l=2&p=1
+p417
+stRp418
 asS'namespaces'
-p398
-(dp399
+p419
+(dp420
 S''
 Vhttp://www.w3.org/2005/Atom
-p400
+p421
 sS'sy'
-p401
+p422
 Vhttp://purl.org/rss/1.0/modules/syndication/
-p402
+p423
 sS'rdf'
-p403
+p424
 Vhttp://www.w3.org/1999/02/22-rdf-syntax-ns#
-p404
+p425
 sS'feedburner'
-p405
+p426
 Vhttp://rssnamespace.org/feedburner/ext/1.0
-p406
+p427
 sS'dc'
-p407
+p428
 Vhttp://purl.org/dc/elements/1.1/
-p408
-sstRp409
+p429
+sstRp430
 .
