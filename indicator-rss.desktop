@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=RSS
+Type=Application
+Exec=/home/lukas/Dropbox/Dev/indicator-rss.dev/launcher.sh
+Icon=pan
